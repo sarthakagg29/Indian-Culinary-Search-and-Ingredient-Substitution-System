@@ -1,0 +1,390 @@
+﻿query_id,query,query_type,correct,needs_review,edit_distance,rank_of_correct,hit1,hit3,hit5,rejected,top1,top1_score,top1_match_type,top3,ms
+Q001,refined flour,english_exact,refined flour,no,0,1,1,1,1,,refined flour,1.0,exact,"refined flour (1.00, exact)",0.182
+Q002,unripe jackfruit,english_exact,unripe jackfruit,no,0,1,1,1,1,,unripe jackfruit,1.0,exact,"unripe jackfruit (1.00, exact)",0.019
+Q003,chicken,english_exact,chicken,no,0,1,1,1,1,,chicken,1.0,exact,"chicken (1.00, exact); chicken legs (0.78, prefix)",0.035
+Q004,peppermint extract,english_exact,peppermint extract,no,0,1,1,1,1,,peppermint extract,1.0,exact,"peppermint extract (1.00, exact)",0.016
+Q005,chicken legs,english_exact,chicken legs,no,0,1,1,1,1,,chicken legs,1.0,exact,"chicken legs (1.00, exact)",0.012
+Q006,gram flour,english_exact,gram flour,no,0,1,1,1,1,,gram flour,1.0,exact,"gram flour (1.00, exact)",0.012
+Q007,mouth freshener fennel seeds,english_exact,mouth-freshener fennel seeds,no,0,1,1,1,1,,mouth-freshener fennel seeds,1.0,exact,"mouth-freshener fennel seeds (1.00, exact)",0.015
+Q008,lemon,english_exact,lemon,no,0,1,1,1,1,,lemon,1.0,exact,"lemon (1.00, exact); lemongrass (0.75, prefix)",0.02
+Q009,basil seeds,english_exact,basil seeds,no,0,1,1,1,1,,basil seeds,1.0,exact,"basil seeds (1.00, exact)",0.015
+Q010,bottle gourd,english_exact,bottle gourd,no,0,1,1,1,1,,bottle gourd,1.0,exact,"bottle gourd (1.00, exact)",0.013
+Q011,salt,english_exact,salt,no,0,1,1,1,1,,salt,1.0,exact,"salt (1.00, exact)",0.011
+Q012,rohu fish,english_exact,rohu fish,no,0,1,1,1,1,,rohu fish,1.0,exact,"rohu fish (1.00, exact)",0.012
+Q013,guava,english_exact,guava,no,0,1,1,1,1,,guava,1.0,exact,"guava (1.00, exact)",0.014
+Q014,banana,english_exact,banana,no,0,1,1,1,1,,banana,1.0,exact,"banana (1.00, exact); plantain stem (0.76, prefix); banana flower (0.74, prefix)",0.024
+Q015,raw papaya,english_exact,raw papaya,no,0,1,1,1,1,,raw papaya,1.0,exact,"raw papaya (1.00, exact)",0.023
+Q016,pomegranate seeds,english_exact,pomegranate seeds,no,0,1,1,1,1,,pomegranate seeds,1.0,exact,"pomegranate seeds (1.00, exact)",0.016
+Q017,oats,english_exact,oats,no,0,1,1,1,1,,oats,1.0,exact,"oats (1.00, exact)",0.011
+Q018,hung yogurt,english_exact,hung yogurt,no,0,1,1,1,1,,hung yogurt,1.0,exact,"hung yogurt (1.00, exact)",0.012
+Q019,carom seeds,english_exact,carom seeds,no,0,1,1,1,1,,carom seeds,1.0,exact,"carom seeds (1.00, exact)",0.015
+Q020,orange,english_exact,orange,no,0,1,1,1,1,,orange,1.0,exact,"orange (1.00, exact)",0.011
+Q021,ginger paste,english_exact,ginger paste,no,0,1,1,1,1,,ginger paste,1.0,exact,"ginger paste (1.00, exact)",0.012
+Q022,colocasia,english_exact,colocasia,no,0,1,1,1,1,,colocasia,1.0,exact,"colocasia (1.00, exact)",0.011
+Q023,yellow mustard seeds,english_exact,yellow mustard seeds,no,0,1,1,1,1,,yellow mustard seeds,1.0,exact,"yellow mustard seeds (1.00, exact)",0.014
+Q024,garlic,english_exact,garlic,no,0,1,1,1,1,,garlic,1.0,exact,"garlic (1.00, exact); garlic paste (0.75, prefix); garlic chutney (0.73, prefix)",0.032
+Q025,raisins,english_exact,raisins,no,0,1,1,1,1,,raisins,1.0,exact,"raisins (1.00, exact)",0.011
+Q026,star anise,english_exact,star anise,no,0,1,1,1,1,,star anise,1.0,exact,"star anise (1.00, exact)",0.012
+Q027,wild mangosteen,english_exact,wild mangosteen,no,0,1,1,1,1,,wild mangosteen,1.0,exact,"wild mangosteen (1.00, exact)",0.016
+Q028,semolina,english_exact,semolina,no,0,1,1,1,1,,semolina,1.0,exact,"semolina (1.00, exact)",0.011
+Q029,pork,english_exact,pork,no,0,1,1,1,1,,pork,1.0,exact,"pork (1.00, exact)",0.015
+Q030,sunflower oil,english_exact,sunflower oil,no,0,1,1,1,1,,sunflower oil,1.0,exact,"sunflower oil (1.00, exact)",0.012
+Q031,chhota bhutta,roman_exact,baby corn,no,0,1,1,1,1,,baby corn,1.0,exact,"baby corn (1.00, exact)",0.012
+Q032,pista,roman_exact,pistachios,no,0,1,1,1,1,,pistachios,1.0,exact,"pistachios (1.00, exact)",0.015
+Q033,khada gehun,roman_exact,wheat berries,no,0,1,1,1,1,,wheat berries,1.0,exact,"wheat berries (1.00, exact)",0.013
+Q034,cheeni,roman_exact,sugar,no,0,1,1,1,1,,sugar,1.0,exact,"sugar (1.00, exact)",0.011
+Q035,laung,roman_exact,cloves,no,0,1,1,1,1,,cloves,1.0,exact,"cloves (1.00, exact)",0.01
+Q036,kuttu atta,roman_exact,buckwheat flour,no,0,1,1,1,1,,buckwheat flour,1.0,exact,"buckwheat flour (1.00, exact)",0.012
+Q037,baigan,roman_exact,brinjal,no,0,1,1,1,1,,brinjal,1.0,exact,"brinjal (1.00, exact)",0.014
+Q038,dalchini,roman_exact,cinnamon stick,no,0,1,1,1,1,,cinnamon stick,1.0,exact,"cinnamon stick (1.00, exact); cinnamon powder (0.76, prefix)",0.055
+Q039,matki,roman_exact,moth beans,no,0,1,1,1,1,,moth beans,1.0,exact,"moth beans (1.00, exact)",0.023
+Q040,ilish,roman_exact,hilsa,no,0,1,1,1,1,,hilsa,1.0,exact,"hilsa (1.00, exact)",0.013
+Q041,white urad dal,roman_exact,split skinned black gram,no,0,1,1,1,1,,split skinned black gram,1.0,exact,"split skinned black gram (1.00, exact)",0.013
+Q042,roho labeo,roman_exact,rohu fish,no,0,1,1,1,1,,rohu fish,1.0,exact,"rohu fish (1.00, exact)",0.012
+Q043,kangni,roman_exact,foxtail millet,no,0,1,1,1,1,,foxtail millet,1.0,exact,"foxtail millet (1.00, exact)",0.012
+Q044,methi powder,roman_exact,fenugreek powder,no,0,1,1,1,1,,fenugreek powder,1.0,exact,"fenugreek powder (1.00, exact)",0.012
+Q045,kachu,roman_exact,colocasia,no,0,1,1,1,1,,colocasia,1.0,exact,"colocasia (1.00, exact)",0.01
+Q046,paalak ka powder,roman_exact,spinach powder,no,0,1,1,1,1,,spinach powder,1.0,exact,"spinach powder (1.00, exact)",0.016
+Q047,magaj,roman_exact,melon seeds,no,0,1,1,1,1,,melon seeds,1.0,exact,"melon seeds (1.00, exact)",0.011
+Q048,peeli sarson ke beej,roman_exact,yellow mustard seeds,no,0,1,1,1,1,,yellow mustard seeds,1.0,exact,"yellow mustard seeds (1.00, exact)",0.017
+Q049,kachcha kathal,roman_exact,unripe jackfruit,no,0,1,1,1,1,,unripe jackfruit,1.0,exact,"unripe jackfruit (1.00, exact)",0.012
+Q050,kuti hui laal mirch,roman_exact,red chilli flakes,no,0,1,1,1,1,,red chilli flakes,1.0,exact,"red chilli flakes (1.00, exact)",0.017
+Q051,dahi,roman_exact,curd,no,0,1,1,1,1,,curd,1.0,exact,"curd (1.00, exact)",0.013
+Q052,chakra phool,roman_exact,star anise,no,0,1,1,1,1,,star anise,1.0,exact,"star anise (1.00, exact)",0.012
+Q053,neembu,roman_exact,lemon,no,0,1,1,1,1,,lemon,1.0,exact,"lemon (1.00, exact)",0.011
+Q054,arikalu,roman_exact,kodo millet,no,0,1,1,1,1,,kodo millet,1.0,exact,"kodo millet (1.00, exact)",0.011
+Q055,bina haddi ka gosht,roman_exact,boneless mutton,no,0,1,1,1,1,,boneless mutton,1.0,exact,"boneless mutton (1.00, exact)",0.014
+Q056,tindora,roman_exact,ivy gourd,no,0,1,1,1,1,,ivy gourd,1.0,exact,"ivy gourd (1.00, exact)",0.011
+Q057,kela phool,roman_exact,banana flower,no,0,1,1,1,1,,banana flower,1.0,exact,"banana flower (1.00, exact)",0.012
+Q058,papite ka paste,roman_exact,papaya paste,no,0,1,1,1,1,,papaya paste,1.0,exact,"papaya paste (1.00, exact)",0.013
+Q059,chaulai saag,roman_exact,amaranth leaves,no,0,1,1,1,1,,amaranth leaves,1.0,exact,"amaranth leaves (1.00, exact)",0.016
+Q060,mung bean sprouts,roman_exact,green gram sprouts,no,0,1,1,1,1,,green gram sprouts,1.0,exact,"green gram sprouts (1.00, exact)",0.017
+Q061,chhoti saunf ke beej,roman_exact,mouth-freshener fennel seeds,no,0,1,1,1,1,,mouth-freshener fennel seeds,1.0,exact,"mouth-freshener fennel seeds (1.00, exact)",0.014
+Q062,peppermint essence,roman_exact,peppermint extract,no,0,1,1,1,1,,peppermint extract,1.0,exact,"peppermint extract (1.00, exact)",0.013
+Q063,pipli,roman_exact,long pepper,no,0,1,1,1,1,,long pepper,1.0,exact,"long pepper (1.00, exact)",0.014
+Q064,byadagi mirchi,roman_exact,dried byadagi chilies,no,0,1,1,1,1,,dried byadagi chilies,1.0,exact,"dried byadagi chilies (1.00, exact)",0.013
+Q065,soya chatni,roman_exact,soy sauce,no,0,1,1,1,1,,soy sauce,1.0,exact,"soy sauce (1.00, exact)",0.012
+Q066,kasuri methi,roman_exact,dried fenugreek leaves,no,0,1,1,1,1,,dried fenugreek leaves,1.0,exact,"dried fenugreek leaves (1.00, exact)",0.012
+Q067,light yellow mustard oil,roman_exact,yellow mustard oil,no,0,1,1,1,1,,yellow mustard oil,1.0,exact,"yellow mustard oil (1.00, exact)",0.014
+Q068,adrak ka ras,roman_exact,ginger juice,no,0,1,1,1,1,,ginger juice,1.0,exact,"ginger juice (1.00, exact)",0.014
+Q069,besan,roman_exact,gram flour,no,0,1,1,1,1,,gram flour,1.0,exact,"gram flour (1.00, exact)",0.014
+Q070,suar ka gosht,roman_exact,pork,no,0,1,1,1,1,,pork,1.0,exact,"pork (1.00, exact)",0.012
+Q071,बांगडा,hindi_exact,mackerel,no,0,1,1,1,1,,mackerel,1.0,exact,"mackerel (1.00, exact)",0.013
+Q072,राजगिरा,hindi_exact,amaranth seeds,no,0,1,1,1,1,,amaranth seeds,1.0,exact,"amaranth seeds (1.00, exact)",0.012
+Q073,खोया,hindi_exact,khoya,no,0,1,1,1,1,,khoya,1.0,exact,"khoya (1.00, exact)",0.012
+Q074,काला नमक,hindi_exact,black salt,no,0,1,1,1,1,,black salt,1.0,exact,"black salt (1.00, exact)",0.014
+Q075,जई,hindi_exact,oats,no,0,1,1,1,1,,oats,1.0,exact,"oats (1.00, exact)",0.014
+Q076,गेहूं का आटा,hindi_exact,wheat flour,no,0,1,1,1,1,,wheat flour,1.0,exact,"wheat flour (1.00, exact)",0.015
+Q077,पालक,hindi_exact,spinach leaves,no,0,1,1,1,1,,spinach leaves,1.0,exact,"spinach leaves (1.00, exact); spinach powder (0.72, prefix)",0.019
+Q078,सूअर का मांस,hindi_exact,pork,no,0,1,1,1,1,,pork,1.0,exact,"pork (1.00, exact)",0.014
+Q079,मूंगफली का तेल,hindi_exact,groundnut oil,no,0,1,1,1,1,,groundnut oil,1.0,exact,"groundnut oil (1.00, exact)",0.018
+Q080,छोटे आलू,hindi_exact,baby potatoes,no,0,1,1,1,1,,baby potatoes,1.0,exact,"baby potatoes (1.00, exact)",0.013
+Q081,मगज,hindi_exact,melon seeds,no,0,1,1,1,1,,melon seeds,1.0,exact,"melon seeds (1.00, exact)",0.011
+Q082,फूलगोभी,hindi_exact,cauliflower,no,0,1,1,1,1,,cauliflower,1.0,exact,"cauliflower (1.00, exact)",0.012
+Q083,सोया बडी,hindi_exact,soya chunks,no,0,1,1,1,1,,soya chunks,1.0,exact,"soya chunks (1.00, exact)",0.013
+Q084,कलौंजी,hindi_exact,nigella seeds,no,0,1,1,1,1,,nigella seeds,1.0,exact,"nigella seeds (1.00, exact)",0.012
+Q085,साबुत गेहूं,hindi_exact,wheat berries,no,0,1,1,1,1,,wheat berries,1.0,exact,"wheat berries (1.00, exact)",0.014
+Q086,आलू,hindi_exact,potato,no,0,1,1,1,1,,potato,1.0,exact,"potato (1.00, exact)",0.012
+Q087,टिंडा,hindi_exact,apple gourd,no,0,1,1,1,1,,apple gourd,1.0,exact,"apple gourd (1.00, exact)",0.012
+Q088,पुदीना,hindi_exact,sorrel leaves,no,0,1,1,1,1,,sorrel leaves,1.0,exact,"sorrel leaves (1.00, exact); peppermint extract (0.76, prefix)",0.019
+Q089,अदरक का पेस्ट,hindi_exact,ginger paste,no,0,1,1,1,1,,ginger paste,1.0,exact,"ginger paste (1.00, exact)",0.015
+Q090,जौ,hindi_exact,barley,no,0,1,1,1,1,,barley,1.0,exact,"barley (1.00, exact)",0.014
+Q091,जीरा,hindi_exact,cumin powder|cumin seeds,no,0,1,1,1,1,,cumin powder,1.0,exact,"cumin powder (1.00, exact); cumin seeds (1.00, exact)",0.014
+Q092,शलजम,hindi_exact,turnip,no,0,1,1,1,1,,turnip,1.0,exact,"turnip (1.00, exact)",0.012
+Q093,इलायची,hindi_exact,cardamom pods|cardamom powder,no,0,1,1,1,1,,cardamom pods,1.0,exact,"cardamom pods (1.00, exact); cardamom powder (1.00, exact)",0.014
+Q094,तेज पत्ता,hindi_exact,bay leaf,no,0,1,1,1,1,,bay leaf,1.0,exact,"bay leaf (1.00, exact)",0.013
+Q095,टमाटर पेस्ट,hindi_exact,tomato paste,no,0,1,1,1,1,,tomato paste,1.0,exact,"tomato paste (1.00, exact)",0.014
+Q096,अजवायन,hindi_exact,carom seeds,no,0,1,1,1,1,,carom seeds,1.0,exact,"carom seeds (1.00, exact)",0.012
+Q097,काली सरसों,hindi_exact,black mustard seeds,no,0,1,1,1,1,,black mustard seeds,1.0,exact,"black mustard seeds (1.00, exact)",0.014
+Q098,चुकंदर,hindi_exact,beetroot,no,0,1,1,1,1,,beetroot,1.0,exact,"beetroot (1.00, exact)",0.015
+Q099,सरसों की सॉस,hindi_exact,mustard sauce,no,0,1,1,1,1,,mustard sauce,1.0,exact,"mustard sauce (1.00, exact)",0.014
+Q100,जैतून का तेल,hindi_exact,virgin olive oil,no,0,1,1,1,1,,virgin olive oil,1.0,exact,"virgin olive oil (1.00, exact)",0.017
+Q101,हींग,hindi_exact,asafoetida,no,0,1,1,1,1,,asafoetida,1.0,exact,"asafoetida (1.00, exact)",0.012
+Q102,दगड फूल,hindi_exact,stone flower,no,0,1,1,1,1,,stone flower,1.0,exact,"stone flower (1.00, exact)",0.013
+Q103,पापलेट,hindi_exact,pomfret,no,0,1,1,1,1,,pomfret,1.0,exact,"pomfret (1.00, exact)",0.012
+Q104,अदरक का रस,hindi_exact,ginger juice,no,0,1,1,1,1,,ginger juice,1.0,exact,"ginger juice (1.00, exact)",0.013
+Q105,हरी चाय,hindi_exact,lemongrass,no,0,1,1,1,1,,lemongrass,1.0,exact,"lemongrass (1.00, exact)",0.014
+Q106,सूरजमुखी का तेल,hindi_exact,sunflower oil,no,0,1,1,1,1,,sunflower oil,1.0,exact,"sunflower oil (1.00, exact)",0.015
+Q107,कच्चा कटहल,hindi_exact,unripe jackfruit,no,0,1,1,1,1,,unripe jackfruit,1.0,exact,"unripe jackfruit (1.00, exact)",0.014
+Q108,केकडा,hindi_exact,crab,no,0,1,1,1,1,,crab,1.0,exact,"crab (1.00, exact)",0.015
+Q109,शहद,hindi_exact,honey,no,0,1,1,1,1,,honey,1.0,exact,"honey (1.00, exact)",0.014
+Q110,काबुली चना,hindi_exact,white chickpeas,no,0,1,1,1,1,,white chickpeas,1.0,exact,"white chickpeas (1.00, exact)",0.014
+Q111,बडी इलायची,hindi_nukta,black cardamom,no,0,1,1,1,1,,black cardamom,1.0,exact,"black cardamom (1.00, exact)",0.013
+Q112,काली उडद,hindi_nukta,black gram,no,0,1,1,1,1,,black gram,1.0,exact,"black gram (1.00, exact)",0.013
+Q113,चीज,hindi_nukta,cheese,no,0,1,1,1,1,,cheese,1.0,exact,"cheese (1.00, exact)",0.011
+Q114,मुर्गे की टंगडी,hindi_nukta,chicken legs,no,0,1,1,1,1,,chicken legs,1.0,exact,"chicken legs (1.00, exact)",0.018
+Q115,गाढा दूध,hindi_nukta,condensed milk,no,0,1,1,1,1,,condensed milk,1.0,exact,"condensed milk (1.00, exact)",0.013
+Q116,केकडा,hindi_nukta,crab,no,0,1,1,1,1,,crab,1.0,exact,"crab (1.00, exact)",0.019
+Q117,कढी पत्ता,hindi_nukta,curry leaves,no,0,1,1,1,1,,curry leaves,1.0,exact,"curry leaves (1.00, exact)",0.014
+Q118,ताजी लाल मिर्च,hindi_nukta,fresh red chilies,no,0,1,1,1,1,,fresh red chilies,1.0,exact,"fresh red chilies (1.00, exact)",0.018
+Q119,जुकीनी,hindi_nukta,green zucchini,no,0,1,1,1,1,,green zucchini,1.0,exact,"green zucchini (1.00, exact)",0.012
+Q120,गुड,hindi_nukta,jaggery,no,0,1,1,1,1,,jaggery,1.0,exact,"jaggery (1.00, exact)",0.011
+Q121,केवडा जल,hindi_nukta,kewra water,no,0,1,1,1,1,,kewra water,1.0,exact,"kewra water (1.00, exact)",0.022
+Q122,कमल ककडी,hindi_nukta,lotus stem,no,0,1,1,1,1,,lotus stem,1.0,exact,"lotus stem (1.00, exact)",0.014
+Q123,बांगडा,hindi_nukta,mackerel,no,0,1,1,1,1,,mackerel,1.0,exact,"mackerel (1.00, exact)",0.012
+Q124,प्याज,hindi_nukta,onion,no,0,1,1,1,1,,onion,1.0,exact,"onion (1.00, exact)",0.028
+Q125,छोटा प्याज,hindi_nukta,pearl onion,no,0,1,1,1,1,,pearl onion,1.0,exact,"pearl onion (1.00, exact)",0.014
+Q126,सोया बडी,hindi_nukta,soya chunks,no,0,1,1,1,1,,soya chunks,1.0,exact,"soya chunks (1.00, exact)",0.021
+Q127,धुली उडद दाल,hindi_nukta,split skinned black gram,no,0,1,1,1,1,,split skinned black gram,1.0,exact,"split skinned black gram (1.00, exact)",0.015
+Q128,हरा प्याज,hindi_nukta,spring onion,no,0,1,1,1,1,,spring onion,1.0,exact,"spring onion (1.00, exact)",0.013
+Q129,दगड फूल,hindi_nukta,stone flower,no,0,1,1,1,1,,stone flower,1.0,exact,"stone flower (1.00, exact)",0.012
+Q130,सिंघाडे का आटा,hindi_nukta,water chestnut flour,no,0,1,1,1,1,,water chestnut flour,1.0,exact,"water chestnut flour (1.00, exact)",0.015
+Q131,सफेद मटर,hindi_nukta,white peas,no,0,1,1,1,1,,white peas,1.0,exact,"white peas (1.00, exact)",0.013
+Q132,सफेद मिर्च पाउडर,hindi_nukta,white pepper powder,no,0,1,1,1,1,,white pepper powder,1.0,exact,"white pepper powder (1.00, exact)",0.014
+Q133,सफेद चावल,hindi_nukta,white rice,no,0,1,1,1,1,,white rice,1.0,exact,"white rice (1.00, exact)",0.016
+Q134,WATERMELON,format_noise,watermelon,no,0,1,1,1,1,,watermelon,1.0,exact,"watermelon (1.00, exact)",0.012
+Q135,  dried guntur chilies  ,format_noise,dried guntur chilies,no,0,1,1,1,1,,dried guntur chilies,1.0,exact,"dried guntur chilies (1.00, exact)",0.014
+Q136,pearl-millet-flour,format_noise,pearl millet flour,no,0,1,1,1,1,,pearl millet flour,1.0,exact,"pearl millet flour (1.00, exact)",0.014
+Q137,Okra.,format_noise,okra,no,0,1,1,1,1,,okra,1.0,exact,"okra (1.00, exact)",0.012
+Q138,LEMONGRASS,format_noise,lemongrass,no,0,1,1,1,1,,lemongrass,1.0,exact,"lemongrass (1.00, exact)",0.012
+Q139,  raw banana  ,format_noise,raw banana,no,0,1,1,1,1,,raw banana,1.0,exact,"raw banana (1.00, exact)",0.012
+Q140,fresh-peppermint-leaves,format_noise,fresh peppermint leaves,no,0,1,1,1,1,,fresh peppermint leaves,1.0,exact,"fresh peppermint leaves (1.00, exact)",0.024
+Q141,Baby Corn.,format_noise,baby corn,no,0,1,1,1,1,,baby corn,1.0,exact,"baby corn (1.00, exact)",0.014
+Q142,BLACK MUSTARD SEEDS,format_noise,black mustard seeds,no,0,1,1,1,1,,black mustard seeds,1.0,exact,"black mustard seeds (1.00, exact)",0.013
+Q143,  black salt  ,format_noise,black salt,no,0,1,1,1,1,,black salt,1.0,exact,"black salt (1.00, exact)",0.012
+Q144,wild-mangosteen,format_noise,wild mangosteen,no,0,1,1,1,1,,wild mangosteen,1.0,exact,"wild mangosteen (1.00, exact)",0.012
+Q145,Chicken Legs.,format_noise,chicken legs,no,0,1,1,1,1,,chicken legs,1.0,exact,"chicken legs (1.00, exact)",0.013
+Q146,green,prefix,green peas,no,5,1,1,1,1,,green peas,0.75,prefix,"green peas (0.75, prefix); mung bean (0.75, prefix); green beans (0.74, prefix)",44.512
+Q147,coconut,prefix,coconut oil,no,4,2,0,1,1,,coconut,1.0,exact,"coconut (1.00, exact); coconut oil (0.79, prefix); coconut milk (0.78, prefix)",0.027
+Q148,dried mango,prefix,dried mango powder,no,7,1,1,1,1,,dried mango powder,0.783,prefix,"dried mango powder (0.78, prefix)",44.798
+Q149,coconut,prefix,coconut milk,no,5,3,0,1,1,,coconut,1.0,exact,"coconut (1.00, exact); coconut oil (0.79, prefix); coconut milk (0.78, prefix)",0.027
+Q150,butter,prefix,buttermilk,no,4,2,0,1,1,,butter,1.0,exact,"butter (1.00, exact); buttermilk (0.78, prefix); lima beans (0.75, prefix)",0.023
+Q151,waln,prefix,walnuts,no,3,1,1,1,1,,walnuts,0.771,prefix,"walnuts (0.77, prefix)",34.923
+Q152,pistac,prefix,pistachios,no,1,1,1,1,1,,pistachios,0.78,prefix,"pistachios (0.78, prefix)",51.766
+Q153,lemong,prefix,lemongrass,no,4,1,1,1,1,,lemongrass,0.78,prefix,"lemongrass (0.78, prefix); lemon (0.50, fuzzy)",53.358
+Q154,garl,prefix,garlic,no,2,1,1,1,1,,garlic,0.8,prefix,"garlic (0.80, prefix); garlic paste (0.70, prefix); garlic chutney (0.69, prefix)",41.168
+Q155,ginger,prefix,ginger paste,no,6,2,0,1,1,,ginger juice,0.75,prefix,"ginger juice (0.75, prefix); ginger paste (0.75, prefix); dry ginger powder (0.60, fuzzy)",50.486
+Q156,pota,prefix,potato,no,2,1,1,1,1,,potato,0.8,prefix,"potato (0.80, prefix); curry leaves (0.45, fuzzy); flattened rice (0.45, fuzzy)",36.196
+Q157,toma,prefix,tomato,no,2,1,1,1,1,,tomato,0.8,prefix,"tomato (0.80, prefix); tomato paste (0.70, prefix)",35.298
+Q158,drumstick,prefix,drumstick leaves,no,7,1,1,1,1,,drumstick leaves,0.769,prefix,"drumstick leaves (0.77, prefix); drumstick podsseeds (0.74, prefix)",69.571
+Q159,sapo,prefix,sapota,no,2,1,1,1,1,,sapota,0.8,prefix,"sapota (0.80, prefix); tapioca pearls (0.45, fuzzy)",35.479
+Q160,black chi,prefix,black chickpeas,no,6,1,1,1,1,,black chickpeas,0.78,prefix,"black chickpeas (0.78, prefix); black cumin (0.44, fuzzy)",39.699
+Q161,long pe,prefix,long pepper,no,4,1,1,1,1,,long pepper,0.791,prefix,"long pepper (0.79, prefix)",28.027
+Q162,raw pa,prefix,raw papaya,no,4,1,1,1,1,,raw papaya,0.78,prefix,"raw papaya (0.78, prefix); papaya (0.43, fuzzy)",25.632
+Q163,beetr,prefix,beetroot,no,3,1,1,1,1,,beetroot,0.787,prefix,"beetroot (0.79, prefix)",44.363
+Q164,sorrel l,prefix,sorrel leaves,no,5,1,1,1,1,,sorrel leaves,0.785,prefix,"sorrel leaves (0.79, prefix)",31.793
+Q165,cabb,prefix,cabbage,no,3,1,1,1,1,,cabbage,0.771,prefix,"cabbage (0.77, prefix)",37.047
+Q166,rohu,prefix,rohu fish,no,0,1,1,1,1,,rohu fish,1.0,exact,"rohu fish (1.00, exact)",0.042
+Q167,barl,prefix,barley,no,2,1,1,1,1,,barley,0.8,prefix,"barley (0.80, prefix)",36.35
+Q168,baby,prefix,baby corn,no,5,1,1,1,1,,baby corn,0.733,prefix,"baby corn (0.73, prefix); baby potatoes (0.69, prefix); bay leaf (0.45, fuzzy)",36.353
+Q169,butt,prefix,butter,no,2,1,1,1,1,,butter,0.8,prefix,"butter (0.80, prefix); buttermilk (0.72, prefix); lima beans (0.70, prefix)",36.766
+Q170,ginger,prefix,ginger juice,no,6,1,1,1,1,,ginger juice,0.75,prefix,"ginger juice (0.75, prefix); ginger paste (0.75, prefix); dry ginger powder (0.60, fuzzy)",53.151
+Q171,condense,prefix,condensed milk,no,6,1,1,1,1,,condensed milk,0.771,prefix,"condensed milk (0.77, prefix)",62.806
+Q172,dry coc,prefix,dry coconut,no,4,1,1,1,1,,dry coconut,0.791,prefix,"dry coconut (0.79, prefix)",27.103
+Q173,bengal,prefix,bengal gram,no,5,1,1,1,1,,bengal gram,0.764,prefix,"bengal gram (0.76, prefix)",47.886
+Q174,chicken,prefix,chicken legs,no,5,2,0,1,1,,chicken,1.0,exact,"chicken (1.00, exact); chicken legs (0.78, prefix)",0.032
+Q175,cumin s,prefix,cumin seeds,no,4,1,1,1,1,,cumin seeds,0.791,prefix,"cumin seeds (0.79, prefix)",27.2
+Q176,garlic hutney,typo_1,garlic chutney,no,1,1,1,1,1,,garlic chutney,0.557,fuzzy,"garlic chutney (0.56, fuzzy)",48.214
+Q177,nemeen,typo_1,kingfish,no,1,1,1,1,1,,kingfish,0.514,fuzzy,"kingfish (0.51, fuzzy)",47.203
+Q178,biangdo,typo_1,mackerel,no,1,1,1,1,1,,mackerel,0.514,fuzzy,"mackerel (0.51, fuzzy)",54.777
+Q179,keda,typo_1,crab,no,1,1,1,1,1,,crab,0.48,fuzzy,"crab (0.48, fuzzy); kewra water (0.48, fuzzy); banana (0.45, fuzzy)",40.942
+Q180,snake gouyd,typo_1,snake gourd,no,1,1,1,1,1,,snake gourd,0.545,fuzzy,"snake gourd (0.55, fuzzy)",42.267
+Q181,sarson ka isaag,typo_1,mustard greens,no,1,1,1,1,1,,mustard greens,0.56,fuzzy,"mustard greens (0.56, fuzzy)",55.331
+Q182,khajjura,typo_1,dates,no,1,1,1,1,1,,dates,0.525,fuzzy,"dates (0.53, fuzzy)",68.742
+Q183,thotakupa,typo_1,amaranth leaves,no,1,1,1,1,1,,amaranth leaves,0.533,fuzzy,"amaranth leaves (0.53, fuzzy)",75.44
+Q184,pmappali,typo_1,papaya,no,1,1,1,1,1,,papaya,0.525,fuzzy,"papaya (0.53, fuzzy); long pepper (0.45, fuzzy)",61.655
+Q185,metha makka,typo_1,sweet corn,no,1,1,1,1,1,,sweet corn,0.55,fuzzy,"sweet corn (0.55, fuzzy)",43.927
+Q186,bina haddi kfa gosht,typo_1,boneless mutton,no,1,1,1,1,1,,boneless mutton,0.57,fuzzy,"boneless mutton (0.57, fuzzy); boneless chicken (0.42, fuzzy)",76.059
+Q187,ghihya,typo_1,bottle gourd,no,1,1,1,1,1,,bottle gourd,0.5,fuzzy,"bottle gourd (0.50, fuzzy)",49.221
+Q188,bajy corn,typo_1,baby corn,no,1,1,1,1,1,,baby corn,0.533,fuzzy,"baby corn (0.53, fuzzy)",34.319
+Q189,corn foour,typo_1,corn flour,no,1,1,1,1,1,,corn flour,0.54,fuzzy,"corn flour (0.54, fuzzy)",38.197
+Q190,dhania pudina aaste,typo_1,coriander-mint paste,no,1,1,1,1,1,,coriander-mint paste,0.568,fuzzy,"coriander-mint paste (0.57, fuzzy)",70.215
+Q191,sirla,typo_1,vinegar,no,1,1,1,1,1,,vinegar,0.48,fuzzy,"vinegar (0.48, fuzzy)",68.074
+Q192,bonejless mutton,typo_1,boneless mutton,no,1,1,1,1,1,,boneless mutton,0.562,fuzzy,"boneless mutton (0.56, fuzzy)",61.928
+Q193,cahew nuts,typo_1,cashew nuts,no,1,1,1,1,1,,cashew nuts,0.545,fuzzy,"cashew nuts (0.55, fuzzy)",39.101
+Q194,patl,typo_1,pointed gourd,no,1,1,1,1,1,,pointed gourd,0.48,fuzzy,"pointed gourd (0.48, fuzzy); curry leaves (0.45, fuzzy)",34.578
+Q195,tmato,typo_1,tomato,no,1,2,0,1,1,,cherry tomato,0.5,fuzzy,"cherry tomato (0.50, fuzzy); tomato (0.50, fuzzy); tomato paste (0.50, fuzzy)",44.338
+Q196,cardamom powdur,typo_1,cardamom powder,no,1,1,1,1,1,,cardamom powder,0.56,fuzzy,"cardamom powder (0.56, fuzzy); cardamom pods (0.48, fuzzy)",82.153
+Q197,brley,typo_1,barley,no,1,1,1,1,1,,barley,0.5,fuzzy,"barley (0.50, fuzzy)",54.334
+Q198,peerkanvai,typo_1,ridge gourd,no,1,1,1,1,1,,ridge gourd,0.54,fuzzy,"ridge gourd (0.54, fuzzy)",80.756
+Q199,pissa hua paalk,typo_1,spinach powder,no,1,1,1,1,1,,spinach powder,0.562,fuzzy,"spinach powder (0.56, fuzzy); dry ginger powder (0.44, fuzzy)",57.475
+Q200,tapioc pearls,typo_1,tapioca pearls,no,1,1,1,1,1,,tapioca pearls,0.557,fuzzy,"tapioca pearls (0.56, fuzzy)",49.345
+Q201,peppermipnt essence,typo_1,peppermint extract,no,1,1,1,1,1,,peppermint extract,0.568,fuzzy,"peppermint extract (0.57, fuzzy)",72.67
+Q202,desi murha,typo_1,chicken,no,1,1,1,1,1,,chicken,0.54,fuzzy,"chicken (0.54, fuzzy)",40.053
+Q203,safed mirch powider,typo_1,white pepper powder,no,1,1,1,1,1,,white pepper powder,0.568,fuzzy,"white pepper powder (0.57, fuzzy)",80.032
+Q204,muryga,typo_1,chicken,no,1,2,0,1,1,,boneless chicken,0.5,fuzzy,"boneless chicken (0.50, fuzzy); chicken (0.50, fuzzy)",54.408
+Q205,pqpita,typo_1,papaya,no,1,1,1,1,1,,papaya,0.5,fuzzy,"papaya (0.50, fuzzy); papaya paste (0.50, fuzzy); raw papaya (0.50, fuzzy)",54.457
+Q206,chukunar,typo_1,beetroot,no,1,1,1,1,1,,beetroot,0.533,fuzzy,"beetroot (0.53, fuzzy)",68.549
+Q207,beehtroot,typo_1,beetroot,no,1,1,1,1,1,,beetroot,0.533,fuzzy,"beetroot (0.53, fuzzy)",73.906
+Q208,holy bsil leaves,typo_1,holy basil leaves,no,1,1,1,1,1,,holy basil leaves,0.565,fuzzy,"holy basil leaves (0.56, fuzzy)",62.988
+Q209,miylk powder,typo_1,milk powder,no,1,1,1,1,1,,milk powder,0.55,fuzzy,"milk powder (0.55, fuzzy)",45.291
+Q210,pearw onion,typo_1,pearl onion,no,1,1,1,1,1,,pearl onion,0.545,fuzzy,"pearl onion (0.55, fuzzy)",42.171
+Q211,kuttu k atta,typo_1,buckwheat flour,no,1,1,1,1,1,,buckwheat flour,0.554,fuzzy,"buckwheat flour (0.55, fuzzy)",50.018
+Q212,dondakabya,typo_1,ivy gourd,no,1,1,1,1,1,,ivy gourd,0.54,fuzzy,"ivy gourd (0.54, fuzzy)",77.302
+Q213,shaljpm,typo_1,turnip,no,1,1,1,1,1,,turnip,0.514,fuzzy,"turnip (0.51, fuzzy)",54.459
+Q214,tapmatar paste,typo_1,tomato paste,no,1,1,1,1,1,,tomato paste,0.557,fuzzy,"tomato paste (0.56, fuzzy); papaya paste (0.43, fuzzy)",53.794
+Q215,coriader powder,typo_1,coriander powder,no,1,1,1,1,1,,coriander powder,0.562,fuzzy,"coriander powder (0.56, fuzzy)",62.644
+Q216,daikon radjih,typo_2,radish,no,2,1,1,1,1,,radish,0.508,fuzzy,"radish (0.51, fuzzy)",57.304
+Q217,mqurmre,typo_2,puffed rice,no,2,1,1,1,1,,puffed rice,0.429,fuzzy,"puffed rice (0.43, fuzzy)",61.904
+Q218,rovo labmo,typo_2,rohu fish,no,2,1,1,1,1,,rohu fish,0.48,fuzzy,"rohu fish (0.48, fuzzy)",37.682
+Q219,sookha naliuyal,typo_2,dry coconut,no,2,1,1,1,1,,dry coconut,0.52,fuzzy,"dry coconut (0.52, fuzzy)",56.036
+Q220,ckriander mint pbste,typo_2,coriander-mint paste,no,2,1,1,1,1,,coriander-mint paste,0.54,fuzzy,"coriander-mint paste (0.54, fuzzy)",75.681
+Q221,bfummallo,typo_2,bombay duck,no,2,1,1,1,1,,bombay duck,0.467,fuzzy,"bombay duck (0.47, fuzzy)",68.088
+Q222,shilmamirch,typo_2,green bell pepper,no,2,1,1,1,1,,green bell pepper,0.491,fuzzy,"green bell pepper (0.49, fuzzy); red bell pepper (0.49, fuzzy)",82.679
+Q223,sanchal cowmer,typo_2,black salt,no,2,1,1,1,1,,black salt,0.514,fuzzy,"black salt (0.51, fuzzy)",52.428
+Q224,buri buead,typo_2,wheat brown bread,no,2,1,1,1,1,,wheat brown bread,0.491,fuzzy,"wheat brown bread (0.49, fuzzy)",37.708
+Q225,fmo nuts,typo_2,fox nuts,no,2,1,1,1,1,,fox nuts,0.45,fuzzy,"fox nuts (0.45, fuzzy)",32.911
+Q226,tamatra puree,typo_2,tomato paste,no,2,1,1,1,1,,tomato paste,0.508,fuzzy,"tomato paste (0.51, fuzzy)",50.777
+Q227,amcsgoor,typo_2,dried mango powder,no,2,1,1,1,1,,dried mango powder,0.45,fuzzy,"dried mango powder (0.45, fuzzy)",65.005
+Q228,kuthiarivali,typo_2,barnyard millet,no,2,1,1,1,1,,barnyard millet,0.5,fuzzy,"barnyard millet (0.50, fuzzy)",96.591
+Q229,eliachee,typo_2,cardamom pods,no,2,2,0,1,1,,black cardamom,0.45,fuzzy,"black cardamom (0.45, fuzzy); cardamom pods (0.45, fuzzy)",66.637
+Q230,chnane ka aata,typo_2,gram flour,no,2,1,1,1,1,,gram flour,0.514,fuzzy,"gram flour (0.51, fuzzy)",54.694
+Q231,fresh red chileis,typo_2,fresh red chilies,no,2,1,1,1,1,,fresh red chilies,0.529,fuzzy,"fresh red chilies (0.53, fuzzy)",65.621
+Q232,turmerci powder,typo_2,turmeric powder,no,2,1,1,1,1,,turmeric powder,0.52,fuzzy,"turmeric powder (0.52, fuzzy)",58.601
+Q233,red lbell peper,typo_2,red bell pepper,no,2,1,1,1,1,,red bell pepper,0.52,fuzzy,"red bell pepper (0.52, fuzzy); green bell pepper (0.42, fuzzy)",57.421
+Q234,mozzarnljla,typo_2,cheese,no,2,1,1,1,1,,cheese,0.491,fuzzy,"cheese (0.49, fuzzy)",93.688
+Q235,kadyji pata,typo_2,curry leaves,no,2,1,1,1,1,,curry leaves,0.491,fuzzy,"curry leaves (0.49, fuzzy)",55.901
+Q236,long pieplper,typo_2,long pepper,no,2,1,1,1,1,,long pepper,0.508,fuzzy,"long pepper (0.51, fuzzy)",61.57
+Q237,unripe sjackfbuit,typo_2,unripe jackfruit,no,2,1,1,1,1,,unripe jackfruit,0.529,fuzzy,"unripe jackfruit (0.53, fuzzy)",68.647
+Q238,puidna ark,typo_2,peppermint extract,no,2,1,1,1,1,,peppermint extract,0.48,fuzzy,"peppermint extract (0.48, fuzzy)",40.994
+Q239,mugmgra,typo_2,puffed rice,no,2,1,1,1,1,,puffed rice,0.429,fuzzy,"puffed rice (0.43, fuzzy)",59.482
+Q240,pomegranate omlasses,typo_2,pomegranate molasses,no,2,1,1,1,1,,pomegranate molasses,0.54,fuzzy,"pomegranate molasses (0.54, fuzzy); pomegranate seeds (0.42, fuzzy)",80.027
+Q241,soy asuce,typo_2,soy sauce,no,2,1,1,1,1,,soy sauce,0.467,fuzzy,"soy sauce (0.47, fuzzy)",38.807
+Q242,sabukt laal mirci,typo_2,dried red chilies,no,2,1,1,1,1,,dried red chilies,0.529,fuzzy,"dried red chilies (0.53, fuzzy)",67.848
+Q243,green bell pepipr,typo_2,green bell pepper,no,2,1,1,1,1,,green bell pepper,0.529,fuzzy,"green bell pepper (0.53, fuzzy); red bell pepper (0.42, fuzzy)",66.829
+Q244,saunf chfrba,typo_2,fennel powder,no,2,1,1,1,1,,fennel powder,0.5,fuzzy,"fennel powder (0.50, fuzzy)",45.215
+Q245,sfaed button mushroom,typo_2,button mushrooms,no,2,1,1,1,1,,button mushrooms,0.543,fuzzy,"button mushrooms (0.54, fuzzy)",83.179
+Q246,टोू,hindi_typo,tofu,no,1,1,1,1,1,,tofu,0.45,fuzzy,"tofu (0.45, fuzzy)",29.733
+Q247,सौफ,hindi_typo,fennel seeds|mouth-freshener fennel seeds,no,1,2,0,1,1,,fennel powder,0.45,fuzzy,"fennel powder (0.45, fuzzy); fennel seeds (0.45, fuzzy); mouth-freshener fennel seeds (0.45, fuzzy)",30.315
+Q248,तेज पत्ा,hindi_typo,bay leaf,no,1,1,1,1,1,,bay leaf,0.533,fuzzy,"bay leaf (0.53, fuzzy)",33.107
+Q249,सूी,hindi_typo,semolina,no,1,1,1,1,1,,semolina,0.45,fuzzy,"semolina (0.45, fuzzy)",31.062
+Q250,कसर,hindi_typo,saffron strands,no,1,1,1,1,1,,saffron strands,0.45,fuzzy,"saffron strands (0.45, fuzzy)",29.66
+Q251,सौफ,hindi_typo,fennel seeds|mouth-freshener fennel seeds,no,1,2,0,1,1,,fennel powder,0.45,fuzzy,"fennel powder (0.45, fuzzy); fennel seeds (0.45, fuzzy); mouth-freshener fennel seeds (0.45, fuzzy)",29.575
+Q252,सेद मटर,hindi_typo,white peas,no,1,1,1,1,1,,white peas,0.525,fuzzy,"white peas (0.53, fuzzy)",29.624
+Q253,मुर्ग की टंगडी,hindi_typo,chicken legs,no,1,1,1,1,1,,chicken legs,0.56,fuzzy,"chicken legs (0.56, fuzzy)",53.69
+Q254,मखाा,hindi_typo,fox nuts,no,1,1,1,1,1,,fox nuts,0.48,fuzzy,"fox nuts (0.48, fuzzy)",36.756
+Q255,लहसन,hindi_typo,garlic,no,1,1,1,1,1,,garlic,0.48,fuzzy,"garlic (0.48, fuzzy); garlic chutney (0.48, fuzzy); garlic paste (0.48, fuzzy)",38.737
+Q256,बसन,hindi_typo,gram flour,no,1,1,1,1,1,,gram flour,0.45,fuzzy,"gram flour (0.45, fuzzy)",32.313
+Q257,केे का तना,hindi_typo,plantain stem,no,1,1,1,1,1,,plantain stem,0.545,fuzzy,"plantain stem (0.55, fuzzy)",44.317
+Q258,सया पत्ता,hindi_typo,dill leaves,no,1,1,1,1,1,,dill leaves,0.54,fuzzy,"dill leaves (0.54, fuzzy)",41.502
+Q259,स्जा,hindi_typo,basil seeds,no,1,1,1,1,1,,basil seeds,0.48,fuzzy,"basil seeds (0.48, fuzzy)",40.361
+Q260,शाही जीा,hindi_typo,black cumin,no,1,1,1,1,1,,black cumin,0.533,fuzzy,"black cumin (0.53, fuzzy)",36.608
+Q261,जतून का तेल,hindi_typo,virgin olive oil,no,1,1,1,1,1,,virgin olive oil,0.55,fuzzy,"virgin olive oil (0.55, fuzzy); sesame oil (0.44, fuzzy)",44.677
+Q262,कच्ा आम,hindi_typo,raw mango,no,1,1,1,1,1,,raw mango,0.525,fuzzy,"raw mango (0.53, fuzzy)",29.165
+Q263,सोंठ ाउडर,hindi_typo,dry ginger powder,no,1,1,1,1,1,,dry ginger powder,0.54,fuzzy,"dry ginger powder (0.54, fuzzy); fennel powder (0.42, fuzzy)",36.743
+Q264,राी,hindi_typo,finger millet,no,1,1,1,1,1,,finger millet,0.45,fuzzy,"finger millet (0.45, fuzzy)",31.376
+Q265,प्यज,hindi_typo,onion,no,1,1,1,1,1,,onion,0.48,fuzzy,"onion (0.48, fuzzy); pearl onion (0.48, fuzzy); spring onion (0.48, fuzzy)",37.741
+Q266,चनी,hindi_typo,sugar,no,1,2,0,1,1,,garlic chutney,0.45,fuzzy,"garlic chutney (0.45, fuzzy); sugar (0.45, fuzzy)",29.665
+Q267,काला ना,hindi_typo,black chickpeas,no,1,1,1,1,1,,black chickpeas,0.525,fuzzy,"black chickpeas (0.53, fuzzy); black salt (0.45, fuzzy)",29.378
+Q268,कुलथ दाल,hindi_typo,horse gram dal,no,1,1,1,1,1,,horse gram dal,0.533,fuzzy,"horse gram dal (0.53, fuzzy)",34.709
+Q269,हरी चय,hindi_typo,lemongrass,no,1,1,1,1,1,,lemongrass,0.514,fuzzy,"lemongrass (0.51, fuzzy)",26.523
+Q270,बादम,hindi_typo,almonds,no,1,1,1,1,1,,almonds,0.48,fuzzy,"almonds (0.48, fuzzy)",37.25
+Q271,jira,alt_spelling,cumin seeds,yes,2,0,0,0,0,,,,,,35.471
+Q272,zeera,alt_spelling,cumin seeds,yes,1,3,0,1,1,,black cumin,0.48,fuzzy,"black cumin (0.48, fuzzy); cumin powder (0.48, fuzzy); cumin seeds (0.48, fuzzy)",42.482
+Q273,zira,alt_spelling,cumin seeds,yes,3,0,0,0,0,,,,,,34.894
+Q274,lasan,alt_spelling,garlic,yes,3,0,0,0,0,,,,,,41.563
+Q275,lahsun,alt_spelling,garlic,yes,1,3,0,1,1,,garlic chutney,0.706,prefix,"garlic chutney (0.71, prefix); green garlic (0.60, fuzzy); garlic (0.50, fuzzy)",49.634
+Q276,lehsan,alt_spelling,garlic,no,1,1,1,1,1,,garlic,0.5,fuzzy,"garlic (0.50, fuzzy); garlic chutney (0.50, fuzzy); garlic paste (0.50, fuzzy)",48.944
+Q277,lasun,alt_spelling,garlic,yes,2,0,0,0,0,,garlic chutney,0.5,fuzzy,"garlic chutney (0.50, fuzzy); green garlic (0.50, fuzzy)",45.973
+Q278,pyaz,alt_spelling,onion,yes,1,2,0,1,1,,spring onion,0.6,fuzzy,"spring onion (0.60, fuzzy); onion (0.48, fuzzy); pearl onion (0.48, fuzzy)",34.89
+Q279,piyaz,alt_spelling,onion,yes,2,0,0,0,0,,spring onion,0.48,fuzzy,"spring onion (0.48, fuzzy)",44.473
+Q280,pyaj,alt_spelling,onion,yes,2,0,0,0,0,,spring onion,0.45,fuzzy,"spring onion (0.45, fuzzy)",35.816
+Q281,haldi,alt_spelling,fresh turmeric|turmeric powder,no,2,1,1,1,1,,turmeric powder,0.725,prefix,"turmeric powder (0.72, prefix); fresh turmeric (0.60, fuzzy); boneless chicken (0.48, fuzzy)",41.866
+Q282,dhaniya,alt_spelling,coriander leaves|coriander powder|coriander seeds,no,6,1,1,1,1,,coriander seeds,0.6,fuzzy,"coriander seeds (0.60, fuzzy); coriander leaves (0.51, fuzzy); coriander powder (0.51, fuzzy)",55.635
+Q283,dhania,alt_spelling,coriander leaves|coriander powder|coriander seeds,no,6,1,1,1,1,,coriander leaves,0.75,prefix,"coriander leaves (0.75, prefix); coriander-mint paste (0.69, prefix); coriander powder (0.60, fuzzy)",48.229
+Q284,hari mirchi,alt_spelling,green chilies,no,1,1,1,1,1,,green chilies,0.545,fuzzy,"green chilies (0.55, fuzzy); black pepper corns (0.49, fuzzy)",45.664
+Q285,aaloo,alt_spelling,potato,yes,1,2,0,1,1,,baby potatoes,0.48,fuzzy,"baby potatoes (0.48, fuzzy); potato (0.48, fuzzy)",41.534
+Q286,gobi,alt_spelling,cauliflower,yes,1,2,0,1,1,,cabbage,0.48,fuzzy,"cabbage (0.48, fuzzy); cauliflower (0.48, fuzzy); kohlrabi (0.48, fuzzy)",35.204
+Q287,phool gobhi,alt_spelling,cauliflower,yes,6,0,0,0,0,,broccoli,0.545,fuzzy,"broccoli (0.55, fuzzy)",41.959
+Q288,desi ghee,alt_spelling,ghee,yes,5,0,0,0,0,,,,,,36.111
+Q289,elachi,alt_spelling,cardamom pods,yes,1,2,0,1,1,,black cardamom,0.514,fuzzy,"black cardamom (0.51, fuzzy); cardamom pods (0.51, fuzzy); cardamom powder (0.51, fuzzy)",49.377
+Q290,dal chini,alt_spelling,cinnamon stick,no,1,1,1,1,1,,cinnamon stick,0.533,fuzzy,"cinnamon stick (0.53, fuzzy)",36.173
+Q291,lavang,alt_spelling,cloves,yes,2,0,0,0,0,,,,,,48.212
+Q292,kaali mirchi,alt_spelling,black pepper corns,no,1,1,1,1,1,,black pepper corns,0.55,fuzzy,"black pepper corns (0.55, fuzzy); dried byadagi chilies (0.43, fuzzy)",46.395
+Q293,tamater,alt_spelling,tomato,yes,1,2,0,1,1,,cherry tomato,0.514,fuzzy,"cherry tomato (0.51, fuzzy); tomato (0.51, fuzzy); tomato paste (0.51, fuzzy)",55.183
+Q294,bhendi,alt_spelling,okra,no,1,1,1,1,1,,okra,0.5,fuzzy,"okra (0.50, fuzzy)",48.144
+Q295,nimboo,alt_spelling,lemon,yes,2,0,0,0,0,,,,,,48.197
+Q296,dahee,alt_spelling,curd,yes,2,0,0,0,0,,,,,,41.804
+Q297,dood,alt_spelling,milk,no,1,1,1,1,1,,milk,0.84,prefix,"milk (0.84, prefix); milk powder (0.70, prefix); coconut milk (0.48, fuzzy)",35.752
+Q298,chaawal,alt_spelling,white rice,yes,1,5,0,0,1,,barnyard millet,0.514,fuzzy,"barnyard millet (0.51, fuzzy); basmati rice (0.51, fuzzy); brown rice (0.51, fuzzy)",55.049
+Q299,atta,alt_spelling,wheat flour,yes,1,0,0,0,0,,buckwheat flour,0.6,fuzzy,"buckwheat flour (0.60, fuzzy); corn flour (0.60, fuzzy); maize flour (0.60, fuzzy)",35.074
+Q300,beson,alt_spelling,gram flour,no,1,1,1,1,1,,gram flour,0.48,fuzzy,"gram flour (0.48, fuzzy)",42.714
+Q301,heeng,alt_spelling,asafoetida,yes,2,0,0,0,0,,prawns,0.429,fuzzy,"prawns (0.43, fuzzy)",42.538
+Q302,ajwayan,alt_spelling,carom seeds,no,2,1,1,1,1,,carom seeds,0.429,fuzzy,"carom seeds (0.43, fuzzy)",56.019
+Q303,ajvain,alt_spelling,carom seeds,no,1,1,1,1,1,,carom seeds,0.5,fuzzy,"carom seeds (0.50, fuzzy)",48.329
+Q304,sonf,alt_spelling,fennel seeds|mouth-freshener fennel seeds,yes,2,0,0,0,0,,,,,,35.852
+Q305,kajoo,alt_spelling,cashew nuts,yes,2,0,0,0,0,,dates,0.429,fuzzy,"dates (0.43, fuzzy)",42.951
+Q306,baadam,alt_spelling,almonds,no,1,1,1,1,1,,almonds,0.5,fuzzy,"almonds (0.50, fuzzy)",48.436
+Q307,gur,alt_spelling,jaggery,yes,2,0,0,0,0,,cluster beans,0.45,fuzzy,"cluster beans (0.45, fuzzy)",28.245
+Q308,shakkar,alt_spelling,sugar,yes,4,0,0,0,0,,hung yogurt,0.429,fuzzy,"hung yogurt (0.43, fuzzy); rock sugar (0.43, fuzzy)",59.34
+Q309,mutter,alt_spelling,green peas,yes,2,0,0,0,0,,butter,0.5,fuzzy,"butter (0.50, fuzzy); ghee (0.50, fuzzy); lima beans (0.50, fuzzy)",49.685
+Q310,rajmah,alt_spelling,kidney beans,no,1,1,1,1,1,,kidney beans,0.5,fuzzy,"kidney beans (0.50, fuzzy)",49.314
+Q311,chhole,alt_spelling,white chickpeas,no,1,1,1,1,1,,white chickpeas,0.5,fuzzy,"white chickpeas (0.50, fuzzy)",49.498
+Q312,zafran,alt_spelling,saffron strands,yes,5,0,0,0,0,,,,,,51.673
+Q313,pudeena,alt_spelling,fresh peppermint leaves,yes,2,2,0,1,1,,coriander-mint paste,0.429,fuzzy,"coriander-mint paste (0.43, fuzzy); fresh peppermint leaves (0.43, fuzzy); peppermint extract (0.43, fuzzy)",56.368
+Q314,kerela,alt_spelling,bitter gourd,no,1,1,1,1,1,,bitter gourd,0.5,fuzzy,"bitter gourd (0.50, fuzzy)",50.383
+Q315,louki,alt_spelling,bottle gourd,no,1,1,1,1,1,,bottle gourd,0.48,fuzzy,"bottle gourd (0.48, fuzzy)",41.522
+Q316,gaajar,alt_spelling,carrot,no,1,1,1,1,1,,carrot,0.5,fuzzy,"carrot (0.50, fuzzy)",49.965
+Q317,sabu dana,alt_spelling,tapioca pearls,no,1,1,1,1,1,,tapioca pearls,0.533,fuzzy,"tapioca pearls (0.53, fuzzy)",35.898
+Q318,adrak,alt_spelling,dry ginger powder|ginger juice|ginger paste,no,7,1,1,1,1,,dry ginger powder,0.725,prefix,"dry ginger powder (0.72, prefix); ginger juice (0.72, prefix); ginger paste (0.71, prefix)",42.598
+Q319,turmeric,recipe_phrase,fresh turmeric|turmeric powder,no,6,1,1,1,1,,turmeric powder,0.76,prefix,"turmeric powder (0.76, prefix); fresh turmeric (0.60, fuzzy)",65.737
+Q320,green chilli,recipe_phrase,green chilies,yes,3,2,0,1,1,,green chilli paste,0.8,prefix,"green chilli paste (0.80, prefix); green chilies (0.46, fuzzy)",46.353
+Q321,ground black pepper,recipe_phrase,black pepper powder,yes,14,0,0,0,0,,,,,,72.79
+Q322,black pepper,recipe_phrase,black pepper corns|black pepper powder,no,6,1,1,1,1,,black pepper corns,0.8,prefix,"black pepper corns (0.80, prefix); black pepper powder (0.79, prefix)",46.486
+Q323,mustard seeds,recipe_phrase,black mustard seeds|yellow mustard seeds,yes,6,0,0,0,0,,mustard greens,0.471,fuzzy,"mustard greens (0.47, fuzzy)",50.051
+Q324,lemon juice,recipe_phrase,lemon,yes,6,0,0,0,0,,,,,,42.822
+Q325,dry red chilli,recipe_phrase,dried red chilies,yes,6,0,0,0,0,,,,,,54.838
+Q326,cardamom,recipe_phrase,black cardamom|cardamom pods|cardamom powder,no,5,1,1,1,1,,cardamom pods,0.785,prefix,"cardamom pods (0.79, prefix); cardamom powder (0.76, prefix); black cardamom (0.60, fuzzy)",63.293
+Q327,cinnamon,recipe_phrase,cinnamon powder|cinnamon stick,no,6,1,1,1,1,,cinnamon stick,0.771,prefix,"cinnamon stick (0.77, prefix); cinnamon powder (0.76, prefix)",64.504
+Q328,fresh coconut,recipe_phrase,coconut,yes,6,0,0,0,0,,,,,,48.829
+Q329,potatoes,recipe_phrase,potato,yes,2,2,0,1,1,,baby potatoes,0.6,fuzzy,"baby potatoes (0.60, fuzzy); potato (0.45, fuzzy); sweet potato (0.45, fuzzy)",61.966
+Q330,egg,recipe_phrase,eggs,no,1,1,1,1,1,,eggs,0.825,prefix,"eggs (0.82, prefix); brinjal (0.71, prefix)",28.2
+Q331,mint leaves,recipe_phrase,fresh peppermint leaves,yes,9,0,0,0,0,,dill leaves,0.436,fuzzy,"dill leaves (0.44, fuzzy); drumstick leaves (0.43, fuzzy)",43.809
+Q332,cashew nut,recipe_phrase,cashew nuts,no,1,1,1,1,1,,cashew nuts,0.873,prefix,"cashew nuts (0.87, prefix)",45.601
+Q333,almond,recipe_phrase,almonds,no,1,1,1,1,1,,almonds,0.857,prefix,"almonds (0.86, prefix); pistachios (0.51, fuzzy)",66.054
+Q334,spinach,recipe_phrase,spinach leaves|spinach powder,no,5,1,1,1,1,,spinach leaves,0.75,prefix,"spinach leaves (0.75, prefix); spinach powder (0.75, prefix)",63.448
+Q335,mustard oil,recipe_phrase,yellow mustard oil,yes,7,0,0,0,0,,,,,,60.738
+Q336,dry mango powder,recipe_phrase,dried mango powder,no,3,1,1,1,1,,dried mango powder,0.5,fuzzy,"dried mango powder (0.50, fuzzy); dry ginger powder (0.46, fuzzy); milk powder (0.45, fuzzy)",68.905
+Q337,green onions,recipe_phrase,spring onion,yes,6,0,0,0,0,,,,,,50.774
+Q338,carrots,recipe_phrase,carrot,no,1,1,1,1,1,,carrot,0.514,fuzzy,"carrot (0.51, fuzzy)",60.439
+Q339,tomatoes,recipe_phrase,tomato,yes,2,3,0,1,1,,baby potatoes,0.45,fuzzy,"baby potatoes (0.45, fuzzy); cherry tomato (0.45, fuzzy); tomato (0.45, fuzzy)",65.39
+Q340,onions,recipe_phrase,onion,no,1,1,1,1,1,,onion,0.5,fuzzy,"onion (0.50, fuzzy); pearl onion (0.50, fuzzy); spring onion (0.50, fuzzy)",60.366
+Q341,pistachio,recipe_phrase,pistachios,no,1,1,1,1,1,,pistachios,0.87,prefix,"pistachios (0.87, prefix)",79.199
+Q342,black peppercorns,recipe_phrase,black pepper corns,no,1,1,1,1,1,,black pepper corns,0.567,fuzzy,"black pepper corns (0.57, fuzzy)",70.026
+Q343,ripe bananas,recipe_phrase,banana,yes,6,0,0,0,0,,,,,,49.358
+Q344,bananas,recipe_phrase,banana,no,1,1,1,1,1,,banana,0.514,fuzzy,"banana (0.51, fuzzy); banana flower (0.51, fuzzy); pineapple (0.51, fuzzy)",60.358
+Q345,strained yogurt,recipe_phrase,hung yogurt,yes,7,0,0,0,0,,,,,,68.163
+Q346,shrimp,recipe_phrase,prawns,yes,5,0,0,0,0,,,,,,53.839
+Q347,fenugreek leaves,recipe_phrase,dried fenugreek leaves|fresh fenugreek leaves,yes,6,2,0,1,1,,fenugreek seeds,0.45,fuzzy,"fenugreek seeds (0.45, fuzzy); dried fenugreek leaves (0.44, fuzzy); fresh fenugreek leaves (0.44, fuzzy)",65.069
+Q348,fresh cilantro,recipe_phrase,coriander leaves,yes,12,0,0,0,0,,,,,,55.933
+Q349,split pigeon peas,recipe_phrase,split pigeon pea,no,1,1,1,1,1,,split pigeon pea,0.565,fuzzy,"split pigeon pea (0.56, fuzzy)",64.907
+Q350,split and skinned black gram,recipe_phrase,split skinned black gram,no,4,1,1,1,1,,split skinned black gram,0.514,fuzzy,"split skinned black gram (0.51, fuzzy)",115.493
+Q351,kashmiri red chilli powder,recipe_phrase,red chilli powder,yes,9,0,0,0,0,,,,,,119.122
+Q352,whole wheat flour,recipe_phrase,wheat flour,yes,6,0,0,0,0,,,,,,74.529
+Q353,refined wheat flour,recipe_phrase,refined flour,yes,6,0,0,0,0,,,,,,79.765
+Q354,unsalted butter,recipe_phrase,butter,yes,9,0,0,0,0,,,,,,62.82
+Q355,cherry tomatoes,recipe_phrase,cherry tomato,no,2,1,1,1,1,,cherry tomato,0.52,fuzzy,"cherry tomato (0.52, fuzzy)",63.794
+Q356,pearl onions,recipe_phrase,pearl onion,no,1,1,1,1,1,,pearl onion,0.55,fuzzy,"pearl onion (0.55, fuzzy)",51.581
+Q357,extra virgin olive oil,recipe_phrase,virgin olive oil,no,6,1,1,1,1,,virgin olive oil,0.436,fuzzy,"virgin olive oil (0.44, fuzzy)",94.303
+Q358,nutmeg powder,recipe_phrase,nutmeg,yes,7,0,0,0,0,,,,,,52.918
+Q359,roasted peanuts,recipe_phrase,peanuts,yes,8,0,0,0,0,,,,,,64.435
+Q360,raw peanuts,recipe_phrase,peanuts,yes,4,0,0,0,0,,,,,,91.211
+Q361,ginger garlic paste,recipe_phrase,garlic paste|ginger paste,yes,7,0,0,0,0,,,,,,91.516
+Q362,yellow onion,recipe_phrase,onion,yes,7,0,0,0,0,,,,,,48.266
+Q363,red onion,recipe_phrase,onion,yes,4,0,0,0,0,,,,,,36.518
+Q364,spring onion greens,recipe_phrase,spring onion,yes,7,0,0,0,0,,,,,,79.894
+Q365,xyzabc,no_match,,no,,,,,,1,,,,,54.698
+Q366,qwerty,no_match,,no,,,,,,1,,,,,53.208
+Q367,asdfgh,no_match,,no,,,,,,1,,,,,50.311
+Q368,zzzzzz,no_match,,no,,,,,,1,,,,,48.726
+Q369,q,no_match,,no,,,,,,1,,,,,0.012
+Q370,12345,no_match,,no,,,,,,1,,,,,42.875
+Q371,hello world,no_match,,no,,,,,,1,,,,,44.747
+Q372,laptop,no_match,,no,,,,,,1,,,,,48.506
+Q373,football,no_match,,no,,,,,,1,,,,,62.822
+Q374,ज्ञ्झ,no_match,,no,,,,,,1,,,,,46.246
+Q375,कंप्यूटर,no_match,,no,,,,,,1,,,,,65.288
+Q376,मोबाइल,no_match,,no,,,,,,1,,,,,50.494
+Q377,pizza,no_match,,no,,,,,,1,,,,,43.278
+Q378,chocolate,no_match,,no,,,,,,1,,,,,77.3
+Q379,sushi,no_match,,no,,,,,,1,,,,,43.156
+Q380,noodles,no_match,,no,,,,,,1,,,,,58.191
+Q381,vanilla extract,no_match,,no,,,,,,1,,,,,60.916
+Q382,baking powder,no_match,,no,,,,,,1,,,,,51.32
+Q383,worcestershire sauce,no_match,,no,,,,,,1,,,,,83.51
+Q384,ground beef,no_match,,no,,,,,,1,,,,,44.661
+Q385,bacon,no_match,,no,,,,,,1,,,,,45.047
+Q386,mayonnaise,no_match,,no,,,,,,1,,,,,84.654
+Q387,ketchup,no_match,,no,,,,,,1,,,,,61.114
+Q388,paprika,no_match,,yes,,,,,,0,papaya,0.429,fuzzy,"papaya (0.43, fuzzy); papaya paste (0.43, fuzzy); raw papaya (0.43, fuzzy)",60.162
+Q389,dried oregano,no_match,,no,,,,,,1,,,,,55.369

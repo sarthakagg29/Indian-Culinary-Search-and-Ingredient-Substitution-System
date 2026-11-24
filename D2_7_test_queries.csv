@@ -1,0 +1,390 @@
+﻿query_id,query,query_type,correct_indexes,correct_names,source,needs_review
+Q001,refined flour,english_exact,192,refined flour,english_name in the dataset,no
+Q002,unripe jackfruit,english_exact,233,unripe jackfruit,english_name in the dataset,no
+Q003,chicken,english_exact,52,chicken,english_name in the dataset,no
+Q004,peppermint extract,english_exact,169,peppermint extract,english_name in the dataset,no
+Q005,chicken legs,english_exact,53,chicken legs,english_name in the dataset,no
+Q006,gram flour,english_exact,111,gram flour,english_name in the dataset,no
+Q007,mouth freshener fennel seeds,english_exact,154,mouth-freshener fennel seeds,english_name in the dataset,no
+Q008,lemon,english_exact,140,lemon,english_name in the dataset,no
+Q009,basil seeds,english_exact,15,basil seeds,english_name in the dataset,no
+Q010,bottle gourd,english_exact,33,bottle gourd,english_name in the dataset,no
+Q011,salt,english_exact,199,salt,english_name in the dataset,no
+Q012,rohu fish,english_exact,196,rohu fish,english_name in the dataset,no
+Q013,guava,english_exact,123,guava,english_name in the dataset,no
+Q014,banana,english_exact,11,banana,english_name in the dataset,no
+Q015,raw papaya,english_exact,187,raw papaya,english_name in the dataset,no
+Q016,pomegranate seeds,english_exact,175,pomegranate seeds,english_name in the dataset,no
+Q017,oats,english_exact,160,oats,english_name in the dataset,no
+Q018,hung yogurt,english_exact,129,hung yogurt,english_name in the dataset,no
+Q019,carom seeds,english_exact,44,carom seeds,english_name in the dataset,no
+Q020,orange,english_exact,163,orange,english_name in the dataset,no
+Q021,ginger paste,english_exact,110,ginger paste,english_name in the dataset,no
+Q022,colocasia,english_exact,63,colocasia,english_name in the dataset,no
+Q023,yellow mustard seeds,english_exact,250,yellow mustard seeds,english_name in the dataset,no
+Q024,garlic,english_exact,105,garlic,english_name in the dataset,no
+Q025,raisins,english_exact,184,raisins,english_name in the dataset,no
+Q026,star anise,english_exact,217,star anise,english_name in the dataset,no
+Q027,wild mangosteen,english_exact,248,wild mangosteen,english_name in the dataset,no
+Q028,semolina,english_exact,202,semolina,english_name in the dataset,no
+Q029,pork,english_exact,178,pork,english_name in the dataset,no
+Q030,sunflower oil,english_exact,220,sunflower oil,english_name in the dataset,no
+Q031,chhota bhutta,roman_exact,8,baby corn,roman_variants in the dataset,no
+Q032,pista,roman_exact,171,pistachios,roman_variants in the dataset,no
+Q033,khada gehun,roman_exact,241,wheat berries,roman_variants in the dataset,no
+Q034,cheeni,roman_exact,219,sugar,roman_variants in the dataset,no
+Q035,laung,roman_exact,57,cloves,roman_variants in the dataset,no
+Q036,kuttu atta,roman_exact,37,buckwheat flour,roman_variants in the dataset,no
+Q037,baigan,roman_exact,34,brinjal,roman_variants in the dataset,no
+Q038,dalchini,roman_exact,56,cinnamon stick,roman_variants in the dataset,no
+Q039,matki,roman_exact,153,moth beans,roman_variants in the dataset,no
+Q040,ilish,roman_exact,124,hilsa,roman_variants in the dataset,no
+Q041,white urad dal,roman_exact,215,split skinned black gram,roman_variants in the dataset,no
+Q042,roho labeo,roman_exact,196,rohu fish,roman_variants in the dataset,no
+Q043,kangni,roman_exact,100,foxtail millet,roman_variants in the dataset,no
+Q044,methi powder,roman_exact,94,fenugreek powder,roman_variants in the dataset,no
+Q045,kachu,roman_exact,63,colocasia,roman_variants in the dataset,no
+Q046,paalak ka powder,roman_exact,212,spinach powder,roman_variants in the dataset,no
+Q047,magaj,roman_exact,150,melon seeds,roman_variants in the dataset,no
+Q048,peeli sarson ke beej,roman_exact,250,yellow mustard seeds,roman_variants in the dataset,no
+Q049,kachcha kathal,roman_exact,233,unripe jackfruit,roman_variants in the dataset,no
+Q050,kuti hui laal mirch,roman_exact,189,red chilli flakes,roman_variants in the dataset,no
+Q051,dahi,roman_exact,76,curd,roman_variants in the dataset,no
+Q052,chakra phool,roman_exact,217,star anise,roman_variants in the dataset,no
+Q053,neembu,roman_exact,140,lemon,roman_variants in the dataset,no
+Q054,arikalu,roman_exact,138,kodo millet,roman_variants in the dataset,no
+Q055,bina haddi ka gosht,roman_exact,32,boneless mutton,roman_variants in the dataset,no
+Q056,tindora,roman_exact,131,ivy gourd,roman_variants in the dataset,no
+Q057,kela phool,roman_exact,12,banana flower,roman_variants in the dataset,no
+Q058,papite ka paste,roman_exact,165,papaya paste,roman_variants in the dataset,no
+Q059,chaulai saag,roman_exact,2,amaranth leaves,roman_variants in the dataset,no
+Q060,mung bean sprouts,roman_exact,119,green gram sprouts,roman_variants in the dataset,no
+Q061,chhoti saunf ke beej,roman_exact,154,mouth-freshener fennel seeds,roman_variants in the dataset,no
+Q062,peppermint essence,roman_exact,169,peppermint extract,roman_variants in the dataset,no
+Q063,pipli,roman_exact,144,long pepper,roman_variants in the dataset,no
+Q064,byadagi mirchi,roman_exact,81,dried byadagi chilies,roman_variants in the dataset,no
+Q065,soya chatni,roman_exact,209,soy sauce,roman_variants in the dataset,no
+Q066,kasuri methi,roman_exact,82,dried fenugreek leaves,roman_variants in the dataset,no
+Q067,light yellow mustard oil,roman_exact,249,yellow mustard oil,roman_variants in the dataset,no
+Q068,adrak ka ras,roman_exact,109,ginger juice,roman_variants in the dataset,no
+Q069,besan,roman_exact,111,gram flour,roman_variants in the dataset,no
+Q070,suar ka gosht,roman_exact,178,pork,roman_variants in the dataset,no
+Q071,बांगडा,hindi_exact,147,mackerel,hindi_devanagari in the dataset,no
+Q072,राजगिरा,hindi_exact,3,amaranth seeds,hindi_devanagari in the dataset,no
+Q073,खोया,hindi_exact,135,khoya,hindi_devanagari in the dataset,no
+Q074,काला नमक,hindi_exact,29,black salt,hindi_devanagari in the dataset,no
+Q075,जई,hindi_exact,160,oats,hindi_devanagari in the dataset,no
+Q076,गेहूं का आटा,hindi_exact,243,wheat flour,hindi_devanagari in the dataset,no
+Q077,पालक,hindi_exact,211,spinach leaves,hindi_devanagari in the dataset,no
+Q078,सूअर का मांस,hindi_exact,178,pork,hindi_devanagari in the dataset,no
+Q079,मूंगफली का तेल,hindi_exact,122,groundnut oil,hindi_devanagari in the dataset,no
+Q080,छोटे आलू,hindi_exact,9,baby potatoes,hindi_devanagari in the dataset,no
+Q081,मगज,hindi_exact,150,melon seeds,hindi_devanagari in the dataset,no
+Q082,फूलगोभी,hindi_exact,47,cauliflower,hindi_devanagari in the dataset,no
+Q083,सोया बडी,hindi_exact,210,soya chunks,hindi_devanagari in the dataset,no
+Q084,कलौंजी,hindi_exact,158,nigella seeds,hindi_devanagari in the dataset,no
+Q085,साबुत गेहूं,hindi_exact,241,wheat berries,hindi_devanagari in the dataset,no
+Q086,आलू,hindi_exact,179,potato,hindi_devanagari in the dataset,no
+Q087,टिंडा,hindi_exact,5,apple gourd,hindi_devanagari in the dataset,no
+Q088,पुदीना,hindi_exact,208,sorrel leaves,hindi_devanagari in the dataset,no
+Q089,अदरक का पेस्ट,hindi_exact,110,ginger paste,hindi_devanagari in the dataset,no
+Q090,जौ,hindi_exact,13,barley,hindi_devanagari in the dataset,no
+Q091,जीरा,hindi_exact,74|75,cumin powder|cumin seeds,hindi_devanagari in the dataset,no
+Q092,शलजम,hindi_exact,232,turnip,hindi_devanagari in the dataset,no
+Q093,इलायची,hindi_exact,42|43,cardamom pods|cardamom powder,hindi_devanagari in the dataset,no
+Q094,तेज पत्ता,hindi_exact,17,bay leaf,hindi_devanagari in the dataset,no
+Q095,टमाटर पेस्ट,hindi_exact,230,tomato paste,hindi_devanagari in the dataset,no
+Q096,अजवायन,hindi_exact,44,carom seeds,hindi_devanagari in the dataset,no
+Q097,काली सरसों,hindi_exact,26,black mustard seeds,hindi_devanagari in the dataset,no
+Q098,चुकंदर,hindi_exact,18,beetroot,hindi_devanagari in the dataset,no
+Q099,सरसों की सॉस,hindi_exact,157,mustard sauce,hindi_devanagari in the dataset,no
+Q100,जैतून का तेल,hindi_exact,236,virgin olive oil,hindi_devanagari in the dataset,no
+Q101,हींग,hindi_exact,6,asafoetida,hindi_devanagari in the dataset,no
+Q102,दगड फूल,hindi_exact,218,stone flower,hindi_devanagari in the dataset,no
+Q103,पापलेट,hindi_exact,176,pomfret,hindi_devanagari in the dataset,no
+Q104,अदरक का रस,hindi_exact,109,ginger juice,hindi_devanagari in the dataset,no
+Q105,हरी चाय,hindi_exact,141,lemongrass,hindi_devanagari in the dataset,no
+Q106,सूरजमुखी का तेल,hindi_exact,220,sunflower oil,hindi_devanagari in the dataset,no
+Q107,कच्चा कटहल,hindi_exact,233,unripe jackfruit,hindi_devanagari in the dataset,no
+Q108,केकडा,hindi_exact,71,crab,hindi_devanagari in the dataset,no
+Q109,शहद,hindi_exact,126,honey,hindi_devanagari in the dataset,no
+Q110,काबुली चना,hindi_exact,244,white chickpeas,hindi_devanagari in the dataset,no
+Q111,बडी इलायची,hindi_nukta,21,black cardamom,hindi name with the nukta taken out,no
+Q112,काली उडद,hindi_nukta,25,black gram,hindi name with the nukta taken out,no
+Q113,चीज,hindi_nukta,49,cheese,hindi name with the nukta taken out,no
+Q114,मुर्गे की टंगडी,hindi_nukta,53,chicken legs,hindi name with the nukta taken out,no
+Q115,गाढा दूध,hindi_nukta,64,condensed milk,hindi name with the nukta taken out,no
+Q116,केकडा,hindi_nukta,71,crab,hindi name with the nukta taken out,no
+Q117,कढी पत्ता,hindi_nukta,77,curry leaves,hindi name with the nukta taken out,no
+Q118,ताजी लाल मिर्च,hindi_nukta,103,fresh red chilies,hindi name with the nukta taken out,no
+Q119,जुकीनी,hindi_nukta,121,green zucchini,hindi name with the nukta taken out,no
+Q120,गुड,hindi_nukta,132,jaggery,hindi name with the nukta taken out,no
+Q121,केवडा जल,hindi_nukta,134,kewra water,hindi name with the nukta taken out,no
+Q122,कमल ककडी,hindi_nukta,145,lotus stem,hindi name with the nukta taken out,no
+Q123,बांगडा,hindi_nukta,147,mackerel,hindi name with the nukta taken out,no
+Q124,प्याज,hindi_nukta,162,onion,hindi name with the nukta taken out,no
+Q125,छोटा प्याज,hindi_nukta,168,pearl onion,hindi name with the nukta taken out,no
+Q126,सोया बडी,hindi_nukta,210,soya chunks,hindi name with the nukta taken out,no
+Q127,धुली उडद दाल,hindi_nukta,215,split skinned black gram,hindi name with the nukta taken out,no
+Q128,हरा प्याज,hindi_nukta,216,spring onion,hindi name with the nukta taken out,no
+Q129,दगड फूल,hindi_nukta,218,stone flower,hindi name with the nukta taken out,no
+Q130,सिंघाडे का आटा,hindi_nukta,239,water chestnut flour,hindi name with the nukta taken out,no
+Q131,सफेद मटर,hindi_nukta,245,white peas,hindi name with the nukta taken out,no
+Q132,सफेद मिर्च पाउडर,hindi_nukta,246,white pepper powder,hindi name with the nukta taken out,no
+Q133,सफेद चावल,hindi_nukta,247,white rice,hindi name with the nukta taken out,no
+Q134,WATERMELON,format_noise,240,watermelon,"dataset name with changed case, spaces or punctuation",no
+Q135,  dried guntur chilies  ,format_noise,83,dried guntur chilies,"dataset name with changed case, spaces or punctuation",no
+Q136,pearl-millet-flour,format_noise,167,pearl millet flour,"dataset name with changed case, spaces or punctuation",no
+Q137,Okra.,format_noise,161,okra,"dataset name with changed case, spaces or punctuation",no
+Q138,LEMONGRASS,format_noise,141,lemongrass,"dataset name with changed case, spaces or punctuation",no
+Q139,  raw banana  ,format_noise,185,raw banana,"dataset name with changed case, spaces or punctuation",no
+Q140,fresh-peppermint-leaves,format_noise,102,fresh peppermint leaves,"dataset name with changed case, spaces or punctuation",no
+Q141,Baby Corn.,format_noise,8,baby corn,"dataset name with changed case, spaces or punctuation",no
+Q142,BLACK MUSTARD SEEDS,format_noise,26,black mustard seeds,"dataset name with changed case, spaces or punctuation",no
+Q143,  black salt  ,format_noise,29,black salt,"dataset name with changed case, spaces or punctuation",no
+Q144,wild-mangosteen,format_noise,248,wild mangosteen,"dataset name with changed case, spaces or punctuation",no
+Q145,Chicken Legs.,format_noise,53,chicken legs,"dataset name with changed case, spaces or punctuation",no
+Q146,green,prefix,120,green peas,first letters of the english_name,no
+Q147,coconut,prefix,62,coconut oil,first letters of the english_name,no
+Q148,dried mango,prefix,84,dried mango powder,first letters of the english_name,no
+Q149,coconut,prefix,61,coconut milk,first letters of the english_name,no
+Q150,butter,prefix,39,buttermilk,first letters of the english_name,no
+Q151,waln,prefix,237,walnuts,first letters of the english_name,no
+Q152,pistac,prefix,171,pistachios,first letters of the english_name,no
+Q153,lemong,prefix,141,lemongrass,first letters of the english_name,no
+Q154,garl,prefix,105,garlic,first letters of the english_name,no
+Q155,ginger,prefix,110,ginger paste,first letters of the english_name,no
+Q156,pota,prefix,179,potato,first letters of the english_name,no
+Q157,toma,prefix,229,tomato,first letters of the english_name,no
+Q158,drumstick,prefix,86,drumstick leaves,first letters of the english_name,no
+Q159,sapo,prefix,200,sapota,first letters of the english_name,no
+Q160,black chi,prefix,22,black chickpeas,first letters of the english_name,no
+Q161,long pe,prefix,144,long pepper,first letters of the english_name,no
+Q162,raw pa,prefix,187,raw papaya,first letters of the english_name,no
+Q163,beetr,prefix,18,beetroot,first letters of the english_name,no
+Q164,sorrel l,prefix,208,sorrel leaves,first letters of the english_name,no
+Q165,cabb,prefix,41,cabbage,first letters of the english_name,no
+Q166,rohu,prefix,196,rohu fish,first letters of the english_name,no
+Q167,barl,prefix,13,barley,first letters of the english_name,no
+Q168,baby,prefix,8,baby corn,first letters of the english_name,no
+Q169,butt,prefix,38,butter,first letters of the english_name,no
+Q170,ginger,prefix,109,ginger juice,first letters of the english_name,no
+Q171,condense,prefix,64,condensed milk,first letters of the english_name,no
+Q172,dry coc,prefix,88,dry coconut,first letters of the english_name,no
+Q173,bengal,prefix,19,bengal gram,first letters of the english_name,no
+Q174,chicken,prefix,53,chicken legs,first letters of the english_name,no
+Q175,cumin s,prefix,75,cumin seeds,first letters of the english_name,no
+Q176,garlic hutney,typo_1,106,garlic chutney,"'garlic chutney' with 1 edit(s), seed 26",no
+Q177,nemeen,typo_1,137,kingfish,"'neymeen' with 1 edit(s), seed 26",no
+Q178,biangdo,typo_1,147,mackerel,"'bangdo' with 1 edit(s), seed 26",no
+Q179,keda,typo_1,71,crab,"'kekda' with 1 edit(s), seed 26",no
+Q180,snake gouyd,typo_1,206,snake gourd,"'snake gourd' with 1 edit(s), seed 26",no
+Q181,sarson ka isaag,typo_1,156,mustard greens,"'sarson ka saag' with 1 edit(s), seed 26",no
+Q182,khajjura,typo_1,78,dates,"'kharjura' with 1 edit(s), seed 26",no
+Q183,thotakupa,typo_1,2,amaranth leaves,"'thotakura' with 1 edit(s), seed 26",no
+Q184,pmappali,typo_1,164,papaya,"'pappali' with 1 edit(s), seed 26",no
+Q185,metha makka,typo_1,221,sweet corn,"'meetha makka' with 1 edit(s), seed 26",no
+Q186,bina haddi kfa gosht,typo_1,32,boneless mutton,"'bina haddi ka gosht' with 1 edit(s), seed 26",no
+Q187,ghihya,typo_1,33,bottle gourd,"'ghiya' with 1 edit(s), seed 26",no
+Q188,bajy corn,typo_1,8,baby corn,"'baby corn' with 1 edit(s), seed 26",no
+Q189,corn foour,typo_1,69,corn flour,"'corn flour' with 1 edit(s), seed 26",no
+Q190,dhania pudina aaste,typo_1,68,coriander-mint paste,"'dhania pudina paste' with 1 edit(s), seed 26",no
+Q191,sirla,typo_1,235,vinegar,"'sirka' with 1 edit(s), seed 26",no
+Q192,bonejless mutton,typo_1,32,boneless mutton,"'boneless mutton' with 1 edit(s), seed 26",no
+Q193,cahew nuts,typo_1,46,cashew nuts,"'cashew nuts' with 1 edit(s), seed 26",no
+Q194,patl,typo_1,173,pointed gourd,"'patol' with 1 edit(s), seed 26",no
+Q195,tmato,typo_1,229,tomato,"'tomato' with 1 edit(s), seed 26",no
+Q196,cardamom powdur,typo_1,43,cardamom powder,"'cardamom powder' with 1 edit(s), seed 26",no
+Q197,brley,typo_1,13,barley,"'barley' with 1 edit(s), seed 26",no
+Q198,peerkanvai,typo_1,194,ridge gourd,"'peerkangai' with 1 edit(s), seed 26",no
+Q199,pissa hua paalk,typo_1,212,spinach powder,"'pissa hua paalak' with 1 edit(s), seed 26",no
+Q200,tapioc pearls,typo_1,227,tapioca pearls,"'tapioca pearls' with 1 edit(s), seed 26",no
+Q201,peppermipnt essence,typo_1,169,peppermint extract,"'peppermint essence' with 1 edit(s), seed 26",no
+Q202,desi murha,typo_1,52,chicken,"'desi murga' with 1 edit(s), seed 26",no
+Q203,safed mirch powider,typo_1,246,white pepper powder,"'safed mirch powder' with 1 edit(s), seed 26",no
+Q204,muryga,typo_1,52,chicken,"'murga' with 1 edit(s), seed 26",no
+Q205,pqpita,typo_1,164,papaya,"'papita' with 1 edit(s), seed 26",no
+Q206,chukunar,typo_1,18,beetroot,"'chukundar' with 1 edit(s), seed 26",no
+Q207,beehtroot,typo_1,18,beetroot,"'beetroot' with 1 edit(s), seed 26",no
+Q208,holy bsil leaves,typo_1,125,holy basil leaves,"'holy basil leaves' with 1 edit(s), seed 26",no
+Q209,miylk powder,typo_1,152,milk powder,"'milk powder' with 1 edit(s), seed 26",no
+Q210,pearw onion,typo_1,168,pearl onion,"'pearl onion' with 1 edit(s), seed 26",no
+Q211,kuttu k atta,typo_1,37,buckwheat flour,"'kuttu ka atta' with 1 edit(s), seed 26",no
+Q212,dondakabya,typo_1,131,ivy gourd,"'dondakaya' with 1 edit(s), seed 26",no
+Q213,shaljpm,typo_1,232,turnip,"'shaljam' with 1 edit(s), seed 26",no
+Q214,tapmatar paste,typo_1,230,tomato paste,"'tamatar paste' with 1 edit(s), seed 26",no
+Q215,coriader powder,typo_1,66,coriander powder,"'coriander powder' with 1 edit(s), seed 26",no
+Q216,daikon radjih,typo_2,183,radish,"'daikon radish' with 2 edit(s), seed 26",no
+Q217,mqurmre,typo_2,181,puffed rice,"'murmure' with 2 edit(s), seed 26",no
+Q218,rovo labmo,typo_2,196,rohu fish,"'roho labeo' with 2 edit(s), seed 26",no
+Q219,sookha naliuyal,typo_2,88,dry coconut,"'sookha nariyal' with 2 edit(s), seed 26",no
+Q220,ckriander mint pbste,typo_2,68,coriander-mint paste,"'coriander mint paste' with 2 edit(s), seed 26",no
+Q221,bfummallo,typo_2,30,bombay duck,"'bummalo' with 2 edit(s), seed 26",no
+Q222,shilmamirch,typo_2,114,green bell pepper,"'shimlamirch' with 2 edit(s), seed 26",no
+Q223,sanchal cowmer,typo_2,29,black salt,"'sanchal powder' with 2 edit(s), seed 26",no
+Q224,buri buead,typo_2,242,wheat brown bread,"'bhuri bread' with 2 edit(s), seed 26",no
+Q225,fmo nuts,typo_2,99,fox nuts,"'fox nuts' with 2 edit(s), seed 26",no
+Q226,tamatra puree,typo_2,230,tomato paste,"'tamatar puree' with 2 edit(s), seed 26",no
+Q227,amcsgoor,typo_2,84,dried mango powder,"'amchoor' with 2 edit(s), seed 26",no
+Q228,kuthiarivali,typo_2,14,barnyard millet,"'kuthiraivali' with 2 edit(s), seed 26",no
+Q229,eliachee,typo_2,42,cardamom pods,"'elaichee' with 2 edit(s), seed 26",no
+Q230,chnane ka aata,typo_2,111,gram flour,"'channe ka aata' with 2 edit(s), seed 26",no
+Q231,fresh red chileis,typo_2,103,fresh red chilies,"'fresh red chilies' with 2 edit(s), seed 26",no
+Q232,turmerci powder,typo_2,231,turmeric powder,"'turmeric powder' with 2 edit(s), seed 26",no
+Q233,red lbell peper,typo_2,188,red bell pepper,"'red bell pepper' with 2 edit(s), seed 26",no
+Q234,mozzarnljla,typo_2,49,cheese,"'mozzarella' with 2 edit(s), seed 26",no
+Q235,kadyji pata,typo_2,77,curry leaves,"'kadi pata' with 2 edit(s), seed 26",no
+Q236,long pieplper,typo_2,144,long pepper,"'long pepper' with 2 edit(s), seed 26",no
+Q237,unripe sjackfbuit,typo_2,233,unripe jackfruit,"'unripe jackfruit' with 2 edit(s), seed 26",no
+Q238,puidna ark,typo_2,169,peppermint extract,"'pudina ark' with 2 edit(s), seed 26",no
+Q239,mugmgra,typo_2,181,puffed rice,"'murmura' with 2 edit(s), seed 26",no
+Q240,pomegranate omlasses,typo_2,174,pomegranate molasses,"'pomegranate molasses' with 2 edit(s), seed 26",no
+Q241,soy asuce,typo_2,209,soy sauce,"'soy sauce' with 2 edit(s), seed 26",no
+Q242,sabukt laal mirci,typo_2,85,dried red chilies,"'sabut laal mirchi' with 2 edit(s), seed 26",no
+Q243,green bell pepipr,typo_2,114,green bell pepper,"'green bell pepper' with 2 edit(s), seed 26",no
+Q244,saunf chfrba,typo_2,92,fennel powder,"'saunf churna' with 2 edit(s), seed 26",no
+Q245,sfaed button mushroom,typo_2,40,button mushrooms,"'safed button mushroom' with 2 edit(s), seed 26",no
+Q246,टोू,hindi_typo,228,tofu,'टोफू' with one character dropped,no
+Q247,सौफ,hindi_typo,93|154,fennel seeds|mouth-freshener fennel seeds,'सौंफ' with one character dropped,no
+Q248,तेज पत्ा,hindi_typo,17,bay leaf,'तेज पत्ता' with one character dropped,no
+Q249,सूी,hindi_typo,202,semolina,'सूजी' with one character dropped,no
+Q250,कसर,hindi_typo,198,saffron strands,'केसर' with one character dropped,no
+Q251,सौफ,hindi_typo,93|154,fennel seeds|mouth-freshener fennel seeds,'सौंफ' with one character dropped,no
+Q252,सेद मटर,hindi_typo,245,white peas,'सफेद मटर' with one character dropped,no
+Q253,मुर्ग की टंगडी,hindi_typo,53,chicken legs,'मुर्गे की टंगडी' with one character dropped,no
+Q254,मखाा,hindi_typo,99,fox nuts,'मखाना' with one character dropped,no
+Q255,लहसन,hindi_typo,105,garlic,'लहसुन' with one character dropped,no
+Q256,बसन,hindi_typo,111,gram flour,'बेसन' with one character dropped,no
+Q257,केे का तना,hindi_typo,172,plantain stem,'केले का तना' with one character dropped,no
+Q258,सया पत्ता,hindi_typo,80,dill leaves,'सोया पत्ता' with one character dropped,no
+Q259,स्जा,hindi_typo,15,basil seeds,'सब्जा' with one character dropped,no
+Q260,शाही जीा,hindi_typo,23,black cumin,'शाही जीरा' with one character dropped,no
+Q261,जतून का तेल,hindi_typo,236,virgin olive oil,'जैतून का तेल' with one character dropped,no
+Q262,कच्ा आम,hindi_typo,186,raw mango,'कच्चा आम' with one character dropped,no
+Q263,सोंठ ाउडर,hindi_typo,89,dry ginger powder,'सोंठ पाउडर' with one character dropped,no
+Q264,राी,hindi_typo,96,finger millet,'रागी' with one character dropped,no
+Q265,प्यज,hindi_typo,162,onion,'प्याज' with one character dropped,no
+Q266,चनी,hindi_typo,219,sugar,'चीनी' with one character dropped,no
+Q267,काला ना,hindi_typo,22,black chickpeas,'काला चना' with one character dropped,no
+Q268,कुलथ दाल,hindi_typo,127,horse gram dal,'कुलथी दाल' with one character dropped,no
+Q269,हरी चय,hindi_typo,141,lemongrass,'हरी चाय' with one character dropped,no
+Q270,बादम,hindi_typo,1,almonds,'बादाम' with one character dropped,no
+Q271,jira,alt_spelling,75,cumin seeds,written by hand,yes
+Q272,zeera,alt_spelling,75,cumin seeds,written by hand,yes
+Q273,zira,alt_spelling,75,cumin seeds,written by hand,yes
+Q274,lasan,alt_spelling,105,garlic,written by hand,yes
+Q275,lahsun,alt_spelling,105,garlic,written by hand,yes
+Q276,lehsan,alt_spelling,105,garlic,written by hand,no
+Q277,lasun,alt_spelling,105,garlic,written by hand,yes
+Q278,pyaz,alt_spelling,162,onion,written by hand,yes
+Q279,piyaz,alt_spelling,162,onion,written by hand,yes
+Q280,pyaj,alt_spelling,162,onion,written by hand,yes
+Q281,haldi,alt_spelling,104|231,fresh turmeric|turmeric powder,written by hand,no
+Q282,dhaniya,alt_spelling,65|66|67,coriander leaves|coriander powder|coriander seeds,written by hand,no
+Q283,dhania,alt_spelling,65|66|67,coriander leaves|coriander powder|coriander seeds,written by hand,no
+Q284,hari mirchi,alt_spelling,116,green chilies,written by hand,no
+Q285,aaloo,alt_spelling,179,potato,written by hand,yes
+Q286,gobi,alt_spelling,47,cauliflower,written by hand,yes
+Q287,phool gobhi,alt_spelling,47,cauliflower,written by hand,yes
+Q288,desi ghee,alt_spelling,108,ghee,written by hand,yes
+Q289,elachi,alt_spelling,42,cardamom pods,written by hand,yes
+Q290,dal chini,alt_spelling,56,cinnamon stick,written by hand,no
+Q291,lavang,alt_spelling,57,cloves,written by hand,yes
+Q292,kaali mirchi,alt_spelling,27,black pepper corns,written by hand,no
+Q293,tamater,alt_spelling,229,tomato,written by hand,yes
+Q294,bhendi,alt_spelling,161,okra,written by hand,no
+Q295,nimboo,alt_spelling,140,lemon,written by hand,yes
+Q296,dahee,alt_spelling,76,curd,written by hand,yes
+Q297,dood,alt_spelling,151,milk,written by hand,no
+Q298,chaawal,alt_spelling,247,white rice,written by hand,yes
+Q299,atta,alt_spelling,243,wheat flour,written by hand,yes
+Q300,beson,alt_spelling,111,gram flour,written by hand,no
+Q301,heeng,alt_spelling,6,asafoetida,written by hand,yes
+Q302,ajwayan,alt_spelling,44,carom seeds,written by hand,no
+Q303,ajvain,alt_spelling,44,carom seeds,written by hand,no
+Q304,sonf,alt_spelling,93|154,fennel seeds|mouth-freshener fennel seeds,written by hand,yes
+Q305,kajoo,alt_spelling,46,cashew nuts,written by hand,yes
+Q306,baadam,alt_spelling,1,almonds,written by hand,no
+Q307,gur,alt_spelling,132,jaggery,written by hand,yes
+Q308,shakkar,alt_spelling,219,sugar,written by hand,yes
+Q309,mutter,alt_spelling,120,green peas,written by hand,yes
+Q310,rajmah,alt_spelling,136,kidney beans,written by hand,no
+Q311,chhole,alt_spelling,244,white chickpeas,written by hand,no
+Q312,zafran,alt_spelling,198,saffron strands,written by hand,yes
+Q313,pudeena,alt_spelling,102,fresh peppermint leaves,written by hand,yes
+Q314,kerela,alt_spelling,20,bitter gourd,written by hand,no
+Q315,louki,alt_spelling,33,bottle gourd,written by hand,no
+Q316,gaajar,alt_spelling,45,carrot,written by hand,no
+Q317,sabu dana,alt_spelling,227,tapioca pearls,written by hand,no
+Q318,adrak,alt_spelling,89|109|110,dry ginger powder|ginger juice|ginger paste,written by hand,no
+Q319,turmeric,recipe_phrase,104|231,fresh turmeric|turmeric powder,"recipe file, in 1839 recipes; matched by hand",no
+Q320,green chilli,recipe_phrase,116,green chilies,"recipe file, in 1786 recipes; matched by hand",yes
+Q321,ground black pepper,recipe_phrase,28,black pepper powder,"recipe file, in 1094 recipes; matched by hand",yes
+Q322,black pepper,recipe_phrase,27|28,black pepper corns|black pepper powder,"recipe file, in 134 recipes; matched by hand",no
+Q323,mustard seeds,recipe_phrase,26|250,black mustard seeds|yellow mustard seeds,"recipe file, in 1053 recipes; matched by hand",yes
+Q324,lemon juice,recipe_phrase,140,lemon,"recipe file, in 918 recipes; matched by hand",yes
+Q325,dry red chilli,recipe_phrase,85,dried red chilies,"recipe file, in 827 recipes; matched by hand",yes
+Q326,cardamom,recipe_phrase,21|42|43,black cardamom|cardamom pods|cardamom powder,"recipe file, in 733 recipes; matched by hand",no
+Q327,cinnamon,recipe_phrase,55|56,cinnamon powder|cinnamon stick,"recipe file, in 700 recipes; matched by hand",no
+Q328,fresh coconut,recipe_phrase,60,coconut,"recipe file, in 678 recipes; matched by hand",yes
+Q329,potatoes,recipe_phrase,179,potato,"recipe file, in 427 recipes; matched by hand",yes
+Q330,egg,recipe_phrase,90,eggs,"recipe file, in 401 recipes; matched by hand",no
+Q331,mint leaves,recipe_phrase,102,fresh peppermint leaves,"recipe file, in 377 recipes; matched by hand",yes
+Q332,cashew nut,recipe_phrase,46,cashew nuts,"recipe file, in 330 recipes; matched by hand",no
+Q333,almond,recipe_phrase,1,almonds,"recipe file, in 298 recipes; matched by hand",no
+Q334,spinach,recipe_phrase,211|212,spinach leaves|spinach powder,"recipe file, in 247 recipes; matched by hand",no
+Q335,mustard oil,recipe_phrase,249,yellow mustard oil,"recipe file, in 224 recipes; matched by hand",yes
+Q336,dry mango powder,recipe_phrase,84,dried mango powder,"recipe file, in 208 recipes; matched by hand",no
+Q337,green onions,recipe_phrase,216,spring onion,"recipe file, in 203 recipes; matched by hand",yes
+Q338,carrots,recipe_phrase,45,carrot,"recipe file, in 176 recipes; matched by hand",no
+Q339,tomatoes,recipe_phrase,229,tomato,"recipe file, in 106 recipes; matched by hand",yes
+Q340,onions,recipe_phrase,162,onion,"recipe file, in 104 recipes; matched by hand",no
+Q341,pistachio,recipe_phrase,171,pistachios,"recipe file, in 137 recipes; matched by hand",no
+Q342,black peppercorns,recipe_phrase,27,black pepper corns,"recipe file, in 505 recipes; matched by hand",no
+Q343,ripe bananas,recipe_phrase,11,banana,"recipe file, in 180 recipes; matched by hand",yes
+Q344,bananas,recipe_phrase,11,banana,"recipe file, in 83 recipes; matched by hand",no
+Q345,strained yogurt,recipe_phrase,129,hung yogurt,"recipe file, in 154 recipes; matched by hand",yes
+Q346,shrimp,recipe_phrase,180,prawns,"recipe file, in 84 recipes; matched by hand",yes
+Q347,fenugreek leaves,recipe_phrase,82|101,dried fenugreek leaves|fresh fenugreek leaves,"recipe file, in 104 recipes; matched by hand",yes
+Q348,fresh cilantro,recipe_phrase,65,coriander leaves,"recipe file, in 138 recipes; matched by hand",yes
+Q349,split pigeon peas,recipe_phrase,214,split pigeon pea,"recipe file, in 168 recipes; matched by hand",no
+Q350,split and skinned black gram,recipe_phrase,215,split skinned black gram,"recipe file, in 398 recipes; matched by hand",no
+Q351,kashmiri red chilli powder,recipe_phrase,190,red chilli powder,"recipe file, in 152 recipes; matched by hand",yes
+Q352,whole wheat flour,recipe_phrase,243,wheat flour,"recipe file, in 946 recipes; matched by hand",yes
+Q353,refined wheat flour,recipe_phrase,192,refined flour,"recipe file, in 556 recipes; matched by hand",yes
+Q354,unsalted butter,recipe_phrase,38,butter,"recipe file, in 307 recipes; matched by hand",yes
+Q355,cherry tomatoes,recipe_phrase,51,cherry tomato,"recipe file, in 90 recipes; matched by hand",no
+Q356,pearl onions,recipe_phrase,168,pearl onion,"recipe file, in 90 recipes; matched by hand",no
+Q357,extra virgin olive oil,recipe_phrase,236,virgin olive oil,"recipe file, in 699 recipes; matched by hand",no
+Q358,nutmeg powder,recipe_phrase,159,nutmeg,"recipe file, in 78 recipes; matched by hand",yes
+Q359,roasted peanuts,recipe_phrase,166,peanuts,"recipe file, in 129 recipes; matched by hand",yes
+Q360,raw peanuts,recipe_phrase,166,peanuts,"recipe file, in 122 recipes; matched by hand",yes
+Q361,ginger garlic paste,recipe_phrase,107|110,garlic paste|ginger paste,"recipe file, in 278 recipes; matched by hand",yes
+Q362,yellow onion,recipe_phrase,162,onion,"recipe file, in 94 recipes; matched by hand",yes
+Q363,red onion,recipe_phrase,162,onion,"recipe file, in 169 recipes; matched by hand",yes
+Q364,spring onion greens,recipe_phrase,216,spring onion,"recipe file, in 125 recipes; matched by hand",yes
+Q365,xyzabc,no_match,,,not an ingredient in the dataset,no
+Q366,qwerty,no_match,,,not an ingredient in the dataset,no
+Q367,asdfgh,no_match,,,not an ingredient in the dataset,no
+Q368,zzzzzz,no_match,,,not an ingredient in the dataset,no
+Q369,q,no_match,,,not an ingredient in the dataset,no
+Q370,12345,no_match,,,not an ingredient in the dataset,no
+Q371,hello world,no_match,,,not an ingredient in the dataset,no
+Q372,laptop,no_match,,,not an ingredient in the dataset,no
+Q373,football,no_match,,,not an ingredient in the dataset,no
+Q374,ज्ञ्झ,no_match,,,not an ingredient in the dataset,no
+Q375,कंप्यूटर,no_match,,,not an ingredient in the dataset,no
+Q376,मोबाइल,no_match,,,not an ingredient in the dataset,no
+Q377,pizza,no_match,,,not an ingredient in the dataset,no
+Q378,chocolate,no_match,,,not an ingredient in the dataset,no
+Q379,sushi,no_match,,,not an ingredient in the dataset,no
+Q380,noodles,no_match,,,not an ingredient in the dataset,no
+Q381,vanilla extract,no_match,,,not an ingredient in the dataset,no
+Q382,baking powder,no_match,,,not an ingredient in the dataset,no
+Q383,worcestershire sauce,no_match,,,not an ingredient in the dataset,no
+Q384,ground beef,no_match,,,not an ingredient in the dataset,no
+Q385,bacon,no_match,,,not an ingredient in the dataset,no
+Q386,mayonnaise,no_match,,,not an ingredient in the dataset,no
+Q387,ketchup,no_match,,,not an ingredient in the dataset,no
+Q388,paprika,no_match,,,not an ingredient in the dataset,yes
+Q389,dried oregano,no_match,,,not an ingredient in the dataset,no

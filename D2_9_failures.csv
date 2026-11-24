@@ -1,0 +1,43 @@
+﻿query_id,query,query_type,correct,top3,failure_type
+Q271,jira,alt_spelling,cumin seeds,,nothing returned
+Q273,zira,alt_spelling,cumin seeds,,nothing returned
+Q274,lasan,alt_spelling,garlic,,nothing returned
+Q288,desi ghee,alt_spelling,ghee,,nothing returned
+Q291,lavang,alt_spelling,cloves,,nothing returned
+Q295,nimboo,alt_spelling,lemon,,nothing returned
+Q296,dahee,alt_spelling,curd,,nothing returned
+Q304,sonf,alt_spelling,fennel seeds|mouth-freshener fennel seeds,,nothing returned
+Q312,zafran,alt_spelling,saffron strands,,nothing returned
+Q321,ground black pepper,recipe_phrase,black pepper powder,,nothing returned
+Q324,lemon juice,recipe_phrase,lemon,,nothing returned
+Q325,dry red chilli,recipe_phrase,dried red chilies,,nothing returned
+Q328,fresh coconut,recipe_phrase,coconut,,nothing returned
+Q335,mustard oil,recipe_phrase,yellow mustard oil,,nothing returned
+Q337,green onions,recipe_phrase,spring onion,,nothing returned
+Q343,ripe bananas,recipe_phrase,banana,,nothing returned
+Q345,strained yogurt,recipe_phrase,hung yogurt,,nothing returned
+Q346,shrimp,recipe_phrase,prawns,,nothing returned
+Q348,fresh cilantro,recipe_phrase,coriander leaves,,nothing returned
+Q351,kashmiri red chilli powder,recipe_phrase,red chilli powder,,nothing returned
+Q352,whole wheat flour,recipe_phrase,wheat flour,,nothing returned
+Q353,refined wheat flour,recipe_phrase,refined flour,,nothing returned
+Q354,unsalted butter,recipe_phrase,butter,,nothing returned
+Q358,nutmeg powder,recipe_phrase,nutmeg,,nothing returned
+Q359,roasted peanuts,recipe_phrase,peanuts,,nothing returned
+Q360,raw peanuts,recipe_phrase,peanuts,,nothing returned
+Q361,ginger garlic paste,recipe_phrase,garlic paste|ginger paste,,nothing returned
+Q362,yellow onion,recipe_phrase,onion,,nothing returned
+Q363,red onion,recipe_phrase,onion,,nothing returned
+Q364,spring onion greens,recipe_phrase,spring onion,,nothing returned
+Q277,lasun,alt_spelling,garlic,"garlic chutney (0.50, fuzzy); green garlic (0.50, fuzzy)",wrong ingredient returned
+Q279,piyaz,alt_spelling,onion,"spring onion (0.48, fuzzy)",wrong ingredient returned
+Q280,pyaj,alt_spelling,onion,"spring onion (0.45, fuzzy)",wrong ingredient returned
+Q287,phool gobhi,alt_spelling,cauliflower,"broccoli (0.55, fuzzy)",wrong ingredient returned
+Q299,atta,alt_spelling,wheat flour,"buckwheat flour (0.60, fuzzy); corn flour (0.60, fuzzy); maize flour (0.60, fuzzy)",wrong ingredient returned
+Q301,heeng,alt_spelling,asafoetida,"prawns (0.43, fuzzy)",wrong ingredient returned
+Q305,kajoo,alt_spelling,cashew nuts,"dates (0.43, fuzzy)",wrong ingredient returned
+Q307,gur,alt_spelling,jaggery,"cluster beans (0.45, fuzzy)",wrong ingredient returned
+Q308,shakkar,alt_spelling,sugar,"hung yogurt (0.43, fuzzy); rock sugar (0.43, fuzzy)",wrong ingredient returned
+Q309,mutter,alt_spelling,green peas,"butter (0.50, fuzzy); ghee (0.50, fuzzy); lima beans (0.50, fuzzy)",wrong ingredient returned
+Q323,mustard seeds,recipe_phrase,black mustard seeds|yellow mustard seeds,"mustard greens (0.47, fuzzy)",wrong ingredient returned
+Q331,mint leaves,recipe_phrase,fresh peppermint leaves,"dill leaves (0.44, fuzzy); drumstick leaves (0.43, fuzzy)",wrong ingredient returned
