@@ -1,0 +1,1827 @@
+﻿evaluation,query,method,rank,note
+category_check,almonds,jaccard,8,
+category_check,apple,jaccard,1,
+category_check,baby corn,jaccard,1,
+category_check,baby potatoes,jaccard,6,
+category_check,banana,jaccard,1,
+category_check,barley,jaccard,2,
+category_check,basil seeds,jaccard,1,
+category_check,basmati rice,jaccard,1,
+category_check,black eyed beans,jaccard,1,
+category_check,black pepper corns,jaccard,1,
+category_check,black pepper powder,jaccard,1,
+category_check,boneless chicken,jaccard,1,
+category_check,boneless mutton,jaccard,1,
+category_check,broccoli,jaccard,1,
+category_check,brown rice,jaccard,1,
+category_check,buckwheat flour,jaccard,1,
+category_check,butter,jaccard,1,
+category_check,buttermilk,jaccard,4,
+category_check,button mushrooms,jaccard,1,
+category_check,cabbage,jaccard,1,
+category_check,cardamom pods,jaccard,2,
+category_check,cardamom powder,jaccard,2,
+category_check,carrot,jaccard,1,
+category_check,cashew nuts,jaccard,1,
+category_check,cauliflower,jaccard,1,
+category_check,celery stalk,jaccard,1,
+category_check,cheese,jaccard,1,
+category_check,cherry tomato,jaccard,1,
+category_check,chicken,jaccard,1,
+category_check,chicken legs,jaccard,1,
+category_check,cinnamon powder,jaccard,1,
+category_check,cinnamon stick,jaccard,1,
+category_check,cloves,jaccard,1,
+category_check,cocoa powder,jaccard,73,
+category_check,coconut,jaccard,22,
+category_check,coconut milk,jaccard,22,
+category_check,coconut oil,jaccard,12,
+category_check,coriander leaves,jaccard,5,
+category_check,coriander powder,jaccard,1,
+category_check,coriander seeds,jaccard,1,
+category_check,corn flour,jaccard,1,
+category_check,cottage cheese,jaccard,1,
+category_check,crab,jaccard,31,
+category_check,cream,jaccard,1,
+category_check,cucumber,jaccard,3,
+category_check,cumin powder,jaccard,1,
+category_check,cumin seeds,jaccard,1,
+category_check,curd,jaccard,1,
+category_check,dijon mustard,jaccard,79,
+category_check,dill leaves,jaccard,58,
+category_check,dried fenugreek leaves,jaccard,43,
+category_check,dried mango powder,jaccard,1,
+category_check,dry coconut,jaccard,22,
+category_check,dry ginger powder,jaccard,1,
+category_check,eggs,jaccard,64,
+category_check,fennel powder,jaccard,4,
+category_check,fennel seeds,jaccard,4,
+category_check,fenugreek powder,jaccard,43,
+category_check,fenugreek seeds,jaccard,43,
+category_check,flattened rice,jaccard,1,
+category_check,fresh fenugreek leaves,jaccard,43,
+category_check,fresh peppermint leaves,jaccard,9,
+category_check,fresh turmeric,jaccard,1,
+category_check,garlic,jaccard,1,
+category_check,garlic chutney,jaccard,1,
+category_check,garlic paste,jaccard,1,
+category_check,ginger juice,jaccard,1,
+category_check,ginger paste,jaccard,1,
+category_check,grapes,jaccard,1,
+category_check,green beans,jaccard,1,
+category_check,green bell pepper,jaccard,14,
+category_check,green garlic,jaccard,1,
+category_check,green gram sprouts,jaccard,1,
+category_check,green peas,jaccard,1,
+category_check,groundnut oil,jaccard,43,
+category_check,guava,jaccard,1,
+category_check,honey,jaccard,52,
+category_check,hulled mung beans,jaccard,1,
+category_check,hung yogurt,jaccard,1,
+category_check,kidney beans,jaccard,1,
+category_check,kohlrabi,jaccard,1,
+category_check,lemon,jaccard,1,
+category_check,lemongrass,jaccard,2,
+category_check,lima beans,jaccard,1,
+category_check,long pepper,jaccard,1,
+category_check,mace,jaccard,1,
+category_check,mackerel,jaccard,44,
+category_check,mango,jaccard,1,
+category_check,melon seeds,jaccard,1,
+category_check,milk,jaccard,1,
+category_check,milk powder,jaccard,1,
+category_check,mouth-freshener fennel seeds,jaccard,4,
+category_check,mung bean,jaccard,1,
+category_check,mustard sauce,jaccard,79,
+category_check,nutmeg,jaccard,1,
+category_check,oats,jaccard,1,
+category_check,okra,jaccard,48,
+category_check,onion,jaccard,1,
+category_check,orange,jaccard,1,
+category_check,papaya,jaccard,1,
+category_check,papaya paste,jaccard,1,
+category_check,peanuts,jaccard,47,
+category_check,pearl onion,jaccard,1,
+category_check,peppermint extract,jaccard,9,
+category_check,pineapple,jaccard,1,
+category_check,pistachios,jaccard,1,
+category_check,pork,jaccard,1,
+category_check,potato,jaccard,6,
+category_check,puffed rice,jaccard,1,
+category_check,pumpkin,jaccard,1,
+category_check,radish,jaccard,1,
+category_check,raisins,jaccard,29,
+category_check,raw banana,jaccard,1,
+category_check,raw mango,jaccard,1,
+category_check,raw papaya,jaccard,1,
+category_check,red bell pepper,jaccard,1,
+category_check,rice flour,jaccard,1,
+category_check,saffron strands,jaccard,14,
+category_check,sesame seeds,jaccard,10,
+category_check,short-grain parboiled rice,jaccard,1,
+category_check,soy sauce,jaccard,1,
+category_check,star anise,jaccard,4,
+category_check,sweet corn,jaccard,1,
+category_check,sweet potato,jaccard,1,
+category_check,sweet potato skin,jaccard,1,
+category_check,tamarind,jaccard,19,
+category_check,tamarind paste,jaccard,19,
+category_check,tamarind water,jaccard,19,
+category_check,tomato,jaccard,1,
+category_check,tomato paste,jaccard,1,
+category_check,turmeric powder,jaccard,1,
+category_check,unripe jackfruit,jaccard,1,
+category_check,vinegar,jaccard,47,
+category_check,walnuts,jaccard,1,
+category_check,watermelon,jaccard,1,
+category_check,wheat berries,jaccard,2,
+category_check,wheat brown bread,jaccard,5,
+category_check,wheat flour,jaccard,2,
+category_check,white peas,jaccard,1,
+category_check,white pepper powder,jaccard,1,
+category_check,white rice,jaccard,1,
+category_check,almonds,idf,9,
+category_check,apple,idf,1,
+category_check,baby corn,idf,1,
+category_check,baby potatoes,idf,2,
+category_check,banana,idf,1,
+category_check,barley,idf,2,
+category_check,basil seeds,idf,1,
+category_check,basmati rice,idf,1,
+category_check,black eyed beans,idf,1,
+category_check,black pepper corns,idf,1,
+category_check,black pepper powder,idf,1,
+category_check,boneless chicken,idf,1,
+category_check,boneless mutton,idf,1,
+category_check,broccoli,idf,1,
+category_check,brown rice,idf,1,
+category_check,buckwheat flour,idf,1,
+category_check,butter,idf,1,
+category_check,buttermilk,idf,4,
+category_check,button mushrooms,idf,1,
+category_check,cabbage,idf,1,
+category_check,cardamom pods,idf,2,
+category_check,cardamom powder,idf,2,
+category_check,carrot,idf,2,
+category_check,cashew nuts,idf,1,
+category_check,cauliflower,idf,1,
+category_check,celery stalk,idf,1,
+category_check,cheese,idf,1,
+category_check,cherry tomato,idf,1,
+category_check,chicken,idf,1,
+category_check,chicken legs,idf,1,
+category_check,cinnamon powder,idf,1,
+category_check,cinnamon stick,idf,1,
+category_check,cloves,idf,1,
+category_check,cocoa powder,idf,70,
+category_check,coconut,idf,22,
+category_check,coconut milk,idf,22,
+category_check,coconut oil,idf,7,
+category_check,coriander leaves,idf,5,
+category_check,coriander powder,idf,1,
+category_check,coriander seeds,idf,1,
+category_check,corn flour,idf,1,
+category_check,cottage cheese,idf,1,
+category_check,crab,idf,30,
+category_check,cream,idf,1,
+category_check,cucumber,idf,2,
+category_check,cumin powder,idf,1,
+category_check,cumin seeds,idf,1,
+category_check,curd,idf,1,
+category_check,dijon mustard,idf,90,
+category_check,dill leaves,idf,58,
+category_check,dried fenugreek leaves,idf,33,
+category_check,dried mango powder,idf,1,
+category_check,dry coconut,idf,22,
+category_check,dry ginger powder,idf,1,
+category_check,eggs,idf,68,
+category_check,fennel powder,idf,2,
+category_check,fennel seeds,idf,2,
+category_check,fenugreek powder,idf,33,
+category_check,fenugreek seeds,idf,33,
+category_check,flattened rice,idf,1,
+category_check,fresh fenugreek leaves,idf,33,
+category_check,fresh peppermint leaves,idf,8,
+category_check,fresh turmeric,idf,1,
+category_check,garlic,idf,1,
+category_check,garlic chutney,idf,1,
+category_check,garlic paste,idf,1,
+category_check,ginger juice,idf,1,
+category_check,ginger paste,idf,1,
+category_check,grapes,idf,1,
+category_check,green beans,idf,1,
+category_check,green bell pepper,idf,14,
+category_check,green garlic,idf,1,
+category_check,green gram sprouts,idf,1,
+category_check,green peas,idf,1,
+category_check,groundnut oil,idf,38,
+category_check,guava,idf,1,
+category_check,honey,idf,48,
+category_check,hulled mung beans,idf,1,
+category_check,hung yogurt,idf,1,
+category_check,kidney beans,idf,1,
+category_check,kohlrabi,idf,1,
+category_check,lemon,idf,1,
+category_check,lemongrass,idf,2,
+category_check,lima beans,idf,1,
+category_check,long pepper,idf,1,
+category_check,mace,idf,1,
+category_check,mackerel,idf,41,
+category_check,mango,idf,1,
+category_check,melon seeds,idf,1,
+category_check,milk,idf,1,
+category_check,milk powder,idf,1,
+category_check,mouth-freshener fennel seeds,idf,2,
+category_check,mung bean,idf,1,
+category_check,mustard sauce,idf,90,
+category_check,nutmeg,idf,1,
+category_check,oats,idf,1,
+category_check,okra,idf,36,
+category_check,onion,idf,1,
+category_check,orange,idf,1,
+category_check,papaya,idf,1,
+category_check,papaya paste,idf,1,
+category_check,peanuts,idf,47,
+category_check,pearl onion,idf,1,
+category_check,peppermint extract,idf,8,
+category_check,pineapple,idf,1,
+category_check,pistachios,idf,1,
+category_check,pork,idf,1,
+category_check,potato,idf,2,
+category_check,puffed rice,idf,1,
+category_check,pumpkin,idf,1,
+category_check,radish,idf,1,
+category_check,raisins,idf,39,
+category_check,raw banana,idf,1,
+category_check,raw mango,idf,1,
+category_check,raw papaya,idf,1,
+category_check,red bell pepper,idf,1,
+category_check,rice flour,idf,1,
+category_check,saffron strands,idf,16,
+category_check,sesame seeds,idf,1,
+category_check,short-grain parboiled rice,idf,1,
+category_check,soy sauce,idf,1,
+category_check,star anise,idf,4,
+category_check,sweet corn,idf,1,
+category_check,sweet potato,idf,4,
+category_check,sweet potato skin,idf,4,
+category_check,tamarind,idf,26,
+category_check,tamarind paste,idf,26,
+category_check,tamarind water,idf,26,
+category_check,tomato,idf,1,
+category_check,tomato paste,idf,1,
+category_check,turmeric powder,idf,1,
+category_check,unripe jackfruit,idf,1,
+category_check,vinegar,idf,49,
+category_check,walnuts,idf,1,
+category_check,watermelon,idf,1,
+category_check,wheat berries,idf,2,
+category_check,wheat brown bread,idf,4,
+category_check,wheat flour,idf,2,
+category_check,white peas,idf,1,
+category_check,white pepper powder,idf,1,
+category_check,white rice,idf,1,
+gold_pairs,ghee -> butter,auto jaccard,8,
+gold_pairs,ghee -> coconut oil,auto jaccard,10,
+gold_pairs,ghee -> groundnut oil,auto jaccard,13,
+gold_pairs,ghee -> sunflower oil,auto jaccard,28,
+gold_pairs,ghee -> virgin olive oil,auto jaccard,,not_scored
+gold_pairs,butter -> ghee,auto jaccard,,not_scored
+gold_pairs,butter -> sunflower oil,auto jaccard,,not_scored
+gold_pairs,butter -> virgin olive oil,auto jaccard,,not_scored
+gold_pairs,sunflower oil -> groundnut oil,auto jaccard,1,
+gold_pairs,sunflower oil -> sesame oil,auto jaccard,18,
+gold_pairs,sunflower oil -> coconut oil,auto jaccard,28,
+gold_pairs,groundnut oil -> sunflower oil,auto jaccard,,not_scored
+gold_pairs,groundnut oil -> sesame oil,auto jaccard,,not_scored
+gold_pairs,yellow mustard oil -> sunflower oil,auto jaccard,51,
+gold_pairs,coconut oil -> sunflower oil,auto jaccard,,not_scored
+gold_pairs,virgin olive oil -> sunflower oil,auto jaccard,25,
+gold_pairs,cream -> cashew nuts,auto jaccard,,not_scored
+gold_pairs,cream -> coconut milk,auto jaccard,29,
+gold_pairs,cream -> melon seeds,auto jaccard,89,
+gold_pairs,cream -> milk,auto jaccard,3,
+gold_pairs,cream -> curd,auto jaccard,1,
+gold_pairs,milk -> coconut milk,auto jaccard,30,
+gold_pairs,milk -> milk powder,auto jaccard,,same_source
+gold_pairs,milk powder -> khoya,auto jaccard,,not_scored
+gold_pairs,khoya -> milk powder,auto jaccard,2,
+gold_pairs,khoya -> chenna,auto jaccard,6,
+gold_pairs,chenna -> cottage cheese,auto jaccard,3,
+gold_pairs,cottage cheese -> tofu,auto jaccard,,not_scored
+gold_pairs,cottage cheese -> chenna,auto jaccard,,not_scored
+gold_pairs,curd -> buttermilk,auto jaccard,40,
+gold_pairs,curd -> hung yogurt,auto jaccard,,same_source
+gold_pairs,hung yogurt -> curd,auto jaccard,,same_source
+gold_pairs,buttermilk -> curd,auto jaccard,5,
+gold_pairs,sugar -> jaggery,auto jaccard,41,
+gold_pairs,sugar -> rock sugar,auto jaccard,1,
+gold_pairs,sugar -> honey,auto jaccard,118,
+gold_pairs,jaggery -> sugar,auto jaccard,19,
+gold_pairs,jaggery -> dates,auto jaccard,1,
+gold_pairs,rock sugar -> sugar,auto jaccard,1,
+gold_pairs,honey -> sugar,auto jaccard,,not_scored
+gold_pairs,honey -> jaggery,auto jaccard,,not_scored
+gold_pairs,garlic -> garlic paste,auto jaccard,,same_source
+gold_pairs,garlic paste -> garlic,auto jaccard,,same_source
+gold_pairs,ginger paste -> ginger juice,auto jaccard,,same_source
+gold_pairs,ginger juice -> ginger paste,auto jaccard,,same_source
+gold_pairs,green chilies -> green chilli paste,auto jaccard,,same_source
+gold_pairs,green chilli paste -> green chilies,auto jaccard,,same_source
+gold_pairs,green chilies -> fresh red chilies,auto jaccard,,same_source
+gold_pairs,dried red chilies -> red chilli powder,auto jaccard,,same_source
+gold_pairs,dried red chilies -> red chilli flakes,auto jaccard,,same_source
+gold_pairs,dried red chilies -> dried byadagi chilies,auto jaccard,,same_source
+gold_pairs,dried red chilies -> dried guntur chilies,auto jaccard,,same_source
+gold_pairs,red chilli powder -> dried red chilies,auto jaccard,,same_source
+gold_pairs,red chilli powder -> red chilli flakes,auto jaccard,,same_source
+gold_pairs,dried byadagi chilies -> dried red chilies,auto jaccard,,same_source
+gold_pairs,dried guntur chilies -> dried red chilies,auto jaccard,,same_source
+gold_pairs,tomato -> tomato paste,auto jaccard,,same_source
+gold_pairs,tomato -> tamarind,auto jaccard,36,
+gold_pairs,tomato -> curd,auto jaccard,69,
+gold_pairs,tomato paste -> tomato,auto jaccard,,same_source
+gold_pairs,tamarind -> tamarind paste,auto jaccard,,same_source
+gold_pairs,tamarind -> tamarind water,auto jaccard,,same_source
+gold_pairs,tamarind -> wild mangosteen,auto jaccard,,not_scored
+gold_pairs,tamarind -> raw mango,auto jaccard,32,
+gold_pairs,tamarind -> dried mango powder,auto jaccard,31,
+gold_pairs,tamarind -> lemon,auto jaccard,81,
+gold_pairs,tamarind paste -> tamarind,auto jaccard,,same_source
+gold_pairs,tamarind water -> tamarind,auto jaccard,,same_source
+gold_pairs,raw mango -> dried mango powder,auto jaccard,,same_source
+gold_pairs,raw mango -> tamarind,auto jaccard,41,
+gold_pairs,raw mango -> lemon,auto jaccard,47,
+gold_pairs,dried mango powder -> lemon,auto jaccard,47,
+gold_pairs,dried mango powder -> raw mango,auto jaccard,,same_source
+gold_pairs,dried mango powder -> tamarind,auto jaccard,41,
+gold_pairs,lemon -> dried mango powder,auto jaccard,19,
+gold_pairs,lemon -> tamarind,auto jaccard,73,
+gold_pairs,lemon -> vinegar,auto jaccard,126,
+gold_pairs,wild mangosteen -> tamarind,auto jaccard,12,
+gold_pairs,wild mangosteen -> lemon,auto jaccard,16,
+gold_pairs,coriander seeds -> coriander powder,auto jaccard,,same_source
+gold_pairs,coriander powder -> coriander seeds,auto jaccard,,same_source
+gold_pairs,cumin seeds -> cumin powder,auto jaccard,,same_source
+gold_pairs,cumin powder -> cumin seeds,auto jaccard,,same_source
+gold_pairs,fennel seeds -> fennel powder,auto jaccard,,same_source
+gold_pairs,fennel powder -> fennel seeds,auto jaccard,,same_source
+gold_pairs,fenugreek seeds -> fenugreek powder,auto jaccard,,same_source
+gold_pairs,fenugreek powder -> fenugreek seeds,auto jaccard,,same_source
+gold_pairs,cinnamon stick -> cinnamon powder,auto jaccard,,same_source
+gold_pairs,cinnamon powder -> cinnamon stick,auto jaccard,,same_source
+gold_pairs,cardamom pods -> cardamom powder,auto jaccard,,same_source
+gold_pairs,cardamom powder -> cardamom pods,auto jaccard,,same_source
+gold_pairs,black pepper corns -> black pepper powder,auto jaccard,,same_source
+gold_pairs,black pepper powder -> black pepper corns,auto jaccard,,same_source
+gold_pairs,black pepper powder -> white pepper powder,auto jaccard,,same_source
+gold_pairs,white pepper powder -> black pepper powder,auto jaccard,,same_source
+gold_pairs,fresh turmeric -> turmeric powder,auto jaccard,,same_source
+gold_pairs,turmeric powder -> fresh turmeric,auto jaccard,,same_source
+gold_pairs,dry ginger powder -> ginger paste,auto jaccard,,same_source
+gold_pairs,black mustard seeds -> yellow mustard seeds,auto jaccard,2,
+gold_pairs,yellow mustard seeds -> black mustard seeds,auto jaccard,1,
+gold_pairs,nigella seeds -> black cumin,auto jaccard,2,
+gold_pairs,carom seeds -> cumin seeds,auto jaccard,6,
+gold_pairs,star anise -> fennel seeds,auto jaccard,2,
+gold_pairs,mace -> nutmeg,auto jaccard,1,
+gold_pairs,nutmeg -> mace,auto jaccard,1,
+gold_pairs,fresh fenugreek leaves -> dried fenugreek leaves,auto jaccard,,same_source
+gold_pairs,dried fenugreek leaves -> fresh fenugreek leaves,auto jaccard,,same_source
+gold_pairs,spinach leaves -> spinach powder,auto jaccard,1,
+gold_pairs,spinach leaves -> amaranth leaves,auto jaccard,5,
+gold_pairs,fresh peppermint leaves -> peppermint extract,auto jaccard,,same_source
+gold_pairs,coriander leaves -> dill leaves,auto jaccard,78,
+gold_pairs,coconut -> dry coconut,auto jaccard,,same_source
+gold_pairs,coconut -> coconut milk,auto jaccard,,same_source
+gold_pairs,dry coconut -> coconut,auto jaccard,,same_source
+gold_pairs,coconut milk -> cream,auto jaccard,65,
+gold_pairs,coconut milk -> cashew nuts,auto jaccard,89,
+gold_pairs,cashew nuts -> almonds,auto jaccard,17,
+gold_pairs,cashew nuts -> melon seeds,auto jaccard,22,
+gold_pairs,cashew nuts -> peanuts,auto jaccard,12,
+gold_pairs,almonds -> cashew nuts,auto jaccard,11,
+gold_pairs,melon seeds -> cashew nuts,auto jaccard,81,
+gold_pairs,peanuts -> cashew nuts,auto jaccard,87,
+gold_pairs,poppy seeds -> cashew nuts,auto jaccard,44,
+gold_pairs,poppy seeds -> melon seeds,auto jaccard,29,
+gold_pairs,poppy seeds -> sesame seeds,auto jaccard,91,
+gold_pairs,basmati rice -> white rice,auto jaccard,,same_source
+gold_pairs,basmati rice -> brown rice,auto jaccard,1,
+gold_pairs,white rice -> basmati rice,auto jaccard,,same_source
+gold_pairs,white rice -> short-grain parboiled rice,auto jaccard,,same_source
+gold_pairs,white rice -> foxtail millet,auto jaccard,,not_scored
+gold_pairs,white rice -> barnyard millet,auto jaccard,,not_scored
+gold_pairs,white rice -> kodo millet,auto jaccard,,not_scored
+gold_pairs,white rice -> little millet,auto jaccard,,not_scored
+gold_pairs,short-grain parboiled rice -> white rice,auto jaccard,,same_source
+gold_pairs,flattened rice -> puffed rice,auto jaccard,,same_source
+gold_pairs,wheat flour -> sorghum flour,auto jaccard,,not_scored
+gold_pairs,wheat flour -> pearl millet flour,auto jaccard,,not_scored
+gold_pairs,wheat flour -> finger millet,auto jaccard,,not_scored
+gold_pairs,wheat flour -> refined flour,auto jaccard,,not_scored
+gold_pairs,refined flour -> wheat flour,auto jaccard,10,
+gold_pairs,refined flour -> rice flour,auto jaccard,1,
+gold_pairs,refined flour -> corn flour,auto jaccard,2,
+gold_pairs,corn flour -> rice flour,auto jaccard,9,
+gold_pairs,corn flour -> tapioca pearls,auto jaccard,,not_scored
+gold_pairs,gram flour -> bengal gram,auto jaccard,,same_source
+gold_pairs,bengal gram -> gram flour,auto jaccard,,same_source
+gold_pairs,split pigeon pea -> red lentil,auto jaccard,9,
+gold_pairs,split pigeon pea -> hulled mung beans,auto jaccard,5,
+gold_pairs,red lentil -> split pigeon pea,auto jaccard,9,
+gold_pairs,red lentil -> hulled mung beans,auto jaccard,5,
+gold_pairs,hulled mung beans -> mung bean,auto jaccard,,same_source
+gold_pairs,hulled mung beans -> split pigeon pea,auto jaccard,,not_scored
+gold_pairs,black chickpeas -> white chickpeas,auto jaccard,,same_source
+gold_pairs,white chickpeas -> black chickpeas,auto jaccard,,same_source
+gold_pairs,black gram -> split skinned black gram,auto jaccard,1,
+gold_pairs,split skinned black gram -> black gram,auto jaccard,1,
+gold_pairs,potato -> sweet potato,auto jaccard,100,
+gold_pairs,potato -> raw banana,auto jaccard,79,
+gold_pairs,potato -> colocasia,auto jaccard,,not_scored
+gold_pairs,potato -> elephant yam,auto jaccard,,not_scored
+gold_pairs,sweet potato -> potato,auto jaccard,34,
+gold_pairs,raw banana -> potato,auto jaccard,64,
+gold_pairs,brinjal -> ridge gourd,auto jaccard,123,
+gold_pairs,bottle gourd -> ash gourd,auto jaccard,5,
+gold_pairs,bottle gourd -> ridge gourd,auto jaccard,3,
+gold_pairs,bottle gourd -> snake gourd,auto jaccard,70,
+gold_pairs,ridge gourd -> spine gourd,auto jaccard,143,
+gold_pairs,ridge gourd -> bottle gourd,auto jaccard,1,
+gold_pairs,pointed gourd -> ivy gourd,auto jaccard,33,
+gold_pairs,ivy gourd -> pointed gourd,auto jaccard,45,
+gold_pairs,green zucchini -> bottle gourd,auto jaccard,1,
+gold_pairs,green bell pepper -> red bell pepper,auto jaccard,14,
+gold_pairs,red bell pepper -> green bell pepper,auto jaccard,1,
+gold_pairs,onion -> pearl onion,auto jaccard,,same_source
+gold_pairs,onion -> spring onion,auto jaccard,,not_scored
+gold_pairs,pearl onion -> onion,auto jaccard,,same_source
+gold_pairs,spring onion -> onion,auto jaccard,2,
+gold_pairs,chicken -> boneless chicken,auto jaccard,,same_source
+gold_pairs,boneless chicken -> chicken,auto jaccard,,same_source
+gold_pairs,chicken legs -> chicken,auto jaccard,,same_source
+gold_pairs,boneless chicken -> soya chunks,auto jaccard,,not_scored
+gold_pairs,boneless chicken -> unripe jackfruit,auto jaccard,112,
+gold_pairs,boneless chicken -> cottage cheese,auto jaccard,13,
+gold_pairs,boneless mutton -> unripe jackfruit,auto jaccard,88,
+gold_pairs,boneless mutton -> soya chunks,auto jaccard,,not_scored
+gold_pairs,boneless mutton -> elephant yam,auto jaccard,,not_scored
+gold_pairs,rohu fish -> kingfish,auto jaccard,7,
+gold_pairs,kingfish -> pomfret,auto jaccard,1,
+gold_pairs,pomfret -> kingfish,auto jaccard,1,
+gold_pairs,sardine -> mackerel,auto jaccard,2,
+gold_pairs,mackerel -> sardine,auto jaccard,,not_scored
+gold_pairs,salt -> black salt,auto jaccard,2,
+gold_pairs,black salt -> salt,auto jaccard,5,
+gold_pairs,ghee -> butter,auto idf,8,
+gold_pairs,ghee -> coconut oil,auto idf,9,
+gold_pairs,ghee -> groundnut oil,auto idf,20,
+gold_pairs,ghee -> sunflower oil,auto idf,24,
+gold_pairs,ghee -> virgin olive oil,auto idf,,not_scored
+gold_pairs,butter -> ghee,auto idf,,not_scored
+gold_pairs,butter -> sunflower oil,auto idf,,not_scored
+gold_pairs,butter -> virgin olive oil,auto idf,,not_scored
+gold_pairs,sunflower oil -> groundnut oil,auto idf,1,
+gold_pairs,sunflower oil -> sesame oil,auto idf,6,
+gold_pairs,sunflower oil -> coconut oil,auto idf,11,
+gold_pairs,groundnut oil -> sunflower oil,auto idf,,not_scored
+gold_pairs,groundnut oil -> sesame oil,auto idf,,not_scored
+gold_pairs,yellow mustard oil -> sunflower oil,auto idf,22,
+gold_pairs,coconut oil -> sunflower oil,auto idf,,not_scored
+gold_pairs,virgin olive oil -> sunflower oil,auto idf,3,
+gold_pairs,cream -> cashew nuts,auto idf,,not_scored
+gold_pairs,cream -> coconut milk,auto idf,31,
+gold_pairs,cream -> melon seeds,auto idf,96,
+gold_pairs,cream -> milk,auto idf,5,
+gold_pairs,cream -> curd,auto idf,1,
+gold_pairs,milk -> coconut milk,auto idf,29,
+gold_pairs,milk -> milk powder,auto idf,,same_source
+gold_pairs,milk powder -> khoya,auto idf,,not_scored
+gold_pairs,khoya -> milk powder,auto idf,2,
+gold_pairs,khoya -> chenna,auto idf,6,
+gold_pairs,chenna -> cottage cheese,auto idf,3,
+gold_pairs,cottage cheese -> tofu,auto idf,,not_scored
+gold_pairs,cottage cheese -> chenna,auto idf,,not_scored
+gold_pairs,curd -> buttermilk,auto idf,20,
+gold_pairs,curd -> hung yogurt,auto idf,,same_source
+gold_pairs,hung yogurt -> curd,auto idf,,same_source
+gold_pairs,buttermilk -> curd,auto idf,5,
+gold_pairs,sugar -> jaggery,auto idf,137,
+gold_pairs,sugar -> rock sugar,auto idf,1,
+gold_pairs,sugar -> honey,auto idf,151,
+gold_pairs,jaggery -> sugar,auto idf,29,
+gold_pairs,jaggery -> dates,auto idf,1,
+gold_pairs,rock sugar -> sugar,auto idf,1,
+gold_pairs,honey -> sugar,auto idf,,not_scored
+gold_pairs,honey -> jaggery,auto idf,,not_scored
+gold_pairs,garlic -> garlic paste,auto idf,,same_source
+gold_pairs,garlic paste -> garlic,auto idf,,same_source
+gold_pairs,ginger paste -> ginger juice,auto idf,,same_source
+gold_pairs,ginger juice -> ginger paste,auto idf,,same_source
+gold_pairs,green chilies -> green chilli paste,auto idf,,same_source
+gold_pairs,green chilli paste -> green chilies,auto idf,,same_source
+gold_pairs,green chilies -> fresh red chilies,auto idf,,same_source
+gold_pairs,dried red chilies -> red chilli powder,auto idf,,same_source
+gold_pairs,dried red chilies -> red chilli flakes,auto idf,,same_source
+gold_pairs,dried red chilies -> dried byadagi chilies,auto idf,,same_source
+gold_pairs,dried red chilies -> dried guntur chilies,auto idf,,same_source
+gold_pairs,red chilli powder -> dried red chilies,auto idf,,same_source
+gold_pairs,red chilli powder -> red chilli flakes,auto idf,,same_source
+gold_pairs,dried byadagi chilies -> dried red chilies,auto idf,,same_source
+gold_pairs,dried guntur chilies -> dried red chilies,auto idf,,same_source
+gold_pairs,tomato -> tomato paste,auto idf,,same_source
+gold_pairs,tomato -> tamarind,auto idf,31,
+gold_pairs,tomato -> curd,auto idf,65,
+gold_pairs,tomato paste -> tomato,auto idf,,same_source
+gold_pairs,tamarind -> tamarind paste,auto idf,,same_source
+gold_pairs,tamarind -> tamarind water,auto idf,,same_source
+gold_pairs,tamarind -> wild mangosteen,auto idf,,not_scored
+gold_pairs,tamarind -> raw mango,auto idf,37,
+gold_pairs,tamarind -> dried mango powder,auto idf,36,
+gold_pairs,tamarind -> lemon,auto idf,84,
+gold_pairs,tamarind paste -> tamarind,auto idf,,same_source
+gold_pairs,tamarind water -> tamarind,auto idf,,same_source
+gold_pairs,raw mango -> dried mango powder,auto idf,,same_source
+gold_pairs,raw mango -> tamarind,auto idf,47,
+gold_pairs,raw mango -> lemon,auto idf,53,
+gold_pairs,dried mango powder -> lemon,auto idf,53,
+gold_pairs,dried mango powder -> raw mango,auto idf,,same_source
+gold_pairs,dried mango powder -> tamarind,auto idf,47,
+gold_pairs,lemon -> dried mango powder,auto idf,29,
+gold_pairs,lemon -> tamarind,auto idf,75,
+gold_pairs,lemon -> vinegar,auto idf,126,
+gold_pairs,wild mangosteen -> tamarind,auto idf,19,
+gold_pairs,wild mangosteen -> lemon,auto idf,11,
+gold_pairs,coriander seeds -> coriander powder,auto idf,,same_source
+gold_pairs,coriander powder -> coriander seeds,auto idf,,same_source
+gold_pairs,cumin seeds -> cumin powder,auto idf,,same_source
+gold_pairs,cumin powder -> cumin seeds,auto idf,,same_source
+gold_pairs,fennel seeds -> fennel powder,auto idf,,same_source
+gold_pairs,fennel powder -> fennel seeds,auto idf,,same_source
+gold_pairs,fenugreek seeds -> fenugreek powder,auto idf,,same_source
+gold_pairs,fenugreek powder -> fenugreek seeds,auto idf,,same_source
+gold_pairs,cinnamon stick -> cinnamon powder,auto idf,,same_source
+gold_pairs,cinnamon powder -> cinnamon stick,auto idf,,same_source
+gold_pairs,cardamom pods -> cardamom powder,auto idf,,same_source
+gold_pairs,cardamom powder -> cardamom pods,auto idf,,same_source
+gold_pairs,black pepper corns -> black pepper powder,auto idf,,same_source
+gold_pairs,black pepper powder -> black pepper corns,auto idf,,same_source
+gold_pairs,black pepper powder -> white pepper powder,auto idf,,same_source
+gold_pairs,white pepper powder -> black pepper powder,auto idf,,same_source
+gold_pairs,fresh turmeric -> turmeric powder,auto idf,,same_source
+gold_pairs,turmeric powder -> fresh turmeric,auto idf,,same_source
+gold_pairs,dry ginger powder -> ginger paste,auto idf,,same_source
+gold_pairs,black mustard seeds -> yellow mustard seeds,auto idf,2,
+gold_pairs,yellow mustard seeds -> black mustard seeds,auto idf,1,
+gold_pairs,nigella seeds -> black cumin,auto idf,2,
+gold_pairs,carom seeds -> cumin seeds,auto idf,5,
+gold_pairs,star anise -> fennel seeds,auto idf,2,
+gold_pairs,mace -> nutmeg,auto idf,1,
+gold_pairs,nutmeg -> mace,auto idf,1,
+gold_pairs,fresh fenugreek leaves -> dried fenugreek leaves,auto idf,,same_source
+gold_pairs,dried fenugreek leaves -> fresh fenugreek leaves,auto idf,,same_source
+gold_pairs,spinach leaves -> spinach powder,auto idf,1,
+gold_pairs,spinach leaves -> amaranth leaves,auto idf,11,
+gold_pairs,fresh peppermint leaves -> peppermint extract,auto idf,,same_source
+gold_pairs,coriander leaves -> dill leaves,auto idf,91,
+gold_pairs,coconut -> dry coconut,auto idf,,same_source
+gold_pairs,coconut -> coconut milk,auto idf,,same_source
+gold_pairs,dry coconut -> coconut,auto idf,,same_source
+gold_pairs,coconut milk -> cream,auto idf,52,
+gold_pairs,coconut milk -> cashew nuts,auto idf,86,
+gold_pairs,cashew nuts -> almonds,auto idf,6,
+gold_pairs,cashew nuts -> melon seeds,auto idf,28,
+gold_pairs,cashew nuts -> peanuts,auto idf,8,
+gold_pairs,almonds -> cashew nuts,auto idf,10,
+gold_pairs,melon seeds -> cashew nuts,auto idf,78,
+gold_pairs,peanuts -> cashew nuts,auto idf,75,
+gold_pairs,poppy seeds -> cashew nuts,auto idf,58,
+gold_pairs,poppy seeds -> melon seeds,auto idf,28,
+gold_pairs,poppy seeds -> sesame seeds,auto idf,86,
+gold_pairs,basmati rice -> white rice,auto idf,,same_source
+gold_pairs,basmati rice -> brown rice,auto idf,1,
+gold_pairs,white rice -> basmati rice,auto idf,,same_source
+gold_pairs,white rice -> short-grain parboiled rice,auto idf,,same_source
+gold_pairs,white rice -> foxtail millet,auto idf,,not_scored
+gold_pairs,white rice -> barnyard millet,auto idf,,not_scored
+gold_pairs,white rice -> kodo millet,auto idf,,not_scored
+gold_pairs,white rice -> little millet,auto idf,,not_scored
+gold_pairs,short-grain parboiled rice -> white rice,auto idf,,same_source
+gold_pairs,flattened rice -> puffed rice,auto idf,,same_source
+gold_pairs,wheat flour -> sorghum flour,auto idf,,not_scored
+gold_pairs,wheat flour -> pearl millet flour,auto idf,,not_scored
+gold_pairs,wheat flour -> finger millet,auto idf,,not_scored
+gold_pairs,wheat flour -> refined flour,auto idf,,not_scored
+gold_pairs,refined flour -> wheat flour,auto idf,4,
+gold_pairs,refined flour -> rice flour,auto idf,1,
+gold_pairs,refined flour -> corn flour,auto idf,5,
+gold_pairs,corn flour -> rice flour,auto idf,7,
+gold_pairs,corn flour -> tapioca pearls,auto idf,,not_scored
+gold_pairs,gram flour -> bengal gram,auto idf,,same_source
+gold_pairs,bengal gram -> gram flour,auto idf,,same_source
+gold_pairs,split pigeon pea -> red lentil,auto idf,9,
+gold_pairs,split pigeon pea -> hulled mung beans,auto idf,5,
+gold_pairs,red lentil -> split pigeon pea,auto idf,9,
+gold_pairs,red lentil -> hulled mung beans,auto idf,5,
+gold_pairs,hulled mung beans -> mung bean,auto idf,,same_source
+gold_pairs,hulled mung beans -> split pigeon pea,auto idf,,not_scored
+gold_pairs,black chickpeas -> white chickpeas,auto idf,,same_source
+gold_pairs,white chickpeas -> black chickpeas,auto idf,,same_source
+gold_pairs,black gram -> split skinned black gram,auto idf,1,
+gold_pairs,split skinned black gram -> black gram,auto idf,1,
+gold_pairs,potato -> sweet potato,auto idf,116,
+gold_pairs,potato -> raw banana,auto idf,83,
+gold_pairs,potato -> colocasia,auto idf,,not_scored
+gold_pairs,potato -> elephant yam,auto idf,,not_scored
+gold_pairs,sweet potato -> potato,auto idf,37,
+gold_pairs,raw banana -> potato,auto idf,62,
+gold_pairs,brinjal -> ridge gourd,auto idf,142,
+gold_pairs,bottle gourd -> ash gourd,auto idf,4,
+gold_pairs,bottle gourd -> ridge gourd,auto idf,3,
+gold_pairs,bottle gourd -> snake gourd,auto idf,6,
+gold_pairs,ridge gourd -> spine gourd,auto idf,81,
+gold_pairs,ridge gourd -> bottle gourd,auto idf,1,
+gold_pairs,pointed gourd -> ivy gourd,auto idf,17,
+gold_pairs,ivy gourd -> pointed gourd,auto idf,22,
+gold_pairs,green zucchini -> bottle gourd,auto idf,1,
+gold_pairs,green bell pepper -> red bell pepper,auto idf,14,
+gold_pairs,red bell pepper -> green bell pepper,auto idf,1,
+gold_pairs,onion -> pearl onion,auto idf,,same_source
+gold_pairs,onion -> spring onion,auto idf,,not_scored
+gold_pairs,pearl onion -> onion,auto idf,,same_source
+gold_pairs,spring onion -> onion,auto idf,2,
+gold_pairs,chicken -> boneless chicken,auto idf,,same_source
+gold_pairs,boneless chicken -> chicken,auto idf,,same_source
+gold_pairs,chicken legs -> chicken,auto idf,,same_source
+gold_pairs,boneless chicken -> soya chunks,auto idf,,not_scored
+gold_pairs,boneless chicken -> unripe jackfruit,auto idf,113,
+gold_pairs,boneless chicken -> cottage cheese,auto idf,7,
+gold_pairs,boneless mutton -> unripe jackfruit,auto idf,87,
+gold_pairs,boneless mutton -> soya chunks,auto idf,,not_scored
+gold_pairs,boneless mutton -> elephant yam,auto idf,,not_scored
+gold_pairs,rohu fish -> kingfish,auto idf,4,
+gold_pairs,kingfish -> pomfret,auto idf,1,
+gold_pairs,pomfret -> kingfish,auto idf,1,
+gold_pairs,sardine -> mackerel,auto idf,2,
+gold_pairs,mackerel -> sardine,auto idf,,not_scored
+gold_pairs,salt -> black salt,auto idf,2,
+gold_pairs,black salt -> salt,auto idf,2,
+gold_pairs,ghee -> butter,molecular jaccard,,not_scored
+gold_pairs,ghee -> coconut oil,molecular jaccard,,not_scored
+gold_pairs,ghee -> groundnut oil,molecular jaccard,,not_scored
+gold_pairs,ghee -> sunflower oil,molecular jaccard,,not_scored
+gold_pairs,ghee -> virgin olive oil,molecular jaccard,,not_scored
+gold_pairs,butter -> ghee,molecular jaccard,,not_scored
+gold_pairs,butter -> sunflower oil,molecular jaccard,,not_scored
+gold_pairs,butter -> virgin olive oil,molecular jaccard,,not_scored
+gold_pairs,sunflower oil -> groundnut oil,molecular jaccard,,not_scored
+gold_pairs,sunflower oil -> sesame oil,molecular jaccard,,not_scored
+gold_pairs,sunflower oil -> coconut oil,molecular jaccard,,not_scored
+gold_pairs,groundnut oil -> sunflower oil,molecular jaccard,,not_scored
+gold_pairs,groundnut oil -> sesame oil,molecular jaccard,,not_scored
+gold_pairs,yellow mustard oil -> sunflower oil,molecular jaccard,,not_scored
+gold_pairs,coconut oil -> sunflower oil,molecular jaccard,,not_scored
+gold_pairs,virgin olive oil -> sunflower oil,molecular jaccard,,not_scored
+gold_pairs,cream -> cashew nuts,molecular jaccard,,not_scored
+gold_pairs,cream -> coconut milk,molecular jaccard,29,
+gold_pairs,cream -> melon seeds,molecular jaccard,89,
+gold_pairs,cream -> milk,molecular jaccard,3,
+gold_pairs,cream -> curd,molecular jaccard,1,
+gold_pairs,milk -> coconut milk,molecular jaccard,30,
+gold_pairs,milk -> milk powder,molecular jaccard,,same_source
+gold_pairs,milk powder -> khoya,molecular jaccard,,not_scored
+gold_pairs,khoya -> milk powder,molecular jaccard,,not_scored
+gold_pairs,khoya -> chenna,molecular jaccard,,not_scored
+gold_pairs,chenna -> cottage cheese,molecular jaccard,,not_scored
+gold_pairs,cottage cheese -> tofu,molecular jaccard,,not_scored
+gold_pairs,cottage cheese -> chenna,molecular jaccard,,not_scored
+gold_pairs,curd -> buttermilk,molecular jaccard,40,
+gold_pairs,curd -> hung yogurt,molecular jaccard,,same_source
+gold_pairs,hung yogurt -> curd,molecular jaccard,,same_source
+gold_pairs,buttermilk -> curd,molecular jaccard,5,
+gold_pairs,sugar -> jaggery,molecular jaccard,,not_scored
+gold_pairs,sugar -> rock sugar,molecular jaccard,,not_scored
+gold_pairs,sugar -> honey,molecular jaccard,,not_scored
+gold_pairs,jaggery -> sugar,molecular jaccard,,not_scored
+gold_pairs,jaggery -> dates,molecular jaccard,,not_scored
+gold_pairs,rock sugar -> sugar,molecular jaccard,,not_scored
+gold_pairs,honey -> sugar,molecular jaccard,,not_scored
+gold_pairs,honey -> jaggery,molecular jaccard,,not_scored
+gold_pairs,garlic -> garlic paste,molecular jaccard,,same_source
+gold_pairs,garlic paste -> garlic,molecular jaccard,,same_source
+gold_pairs,ginger paste -> ginger juice,molecular jaccard,,same_source
+gold_pairs,ginger juice -> ginger paste,molecular jaccard,,same_source
+gold_pairs,green chilies -> green chilli paste,molecular jaccard,,same_source
+gold_pairs,green chilli paste -> green chilies,molecular jaccard,,same_source
+gold_pairs,green chilies -> fresh red chilies,molecular jaccard,,same_source
+gold_pairs,dried red chilies -> red chilli powder,molecular jaccard,,same_source
+gold_pairs,dried red chilies -> red chilli flakes,molecular jaccard,,same_source
+gold_pairs,dried red chilies -> dried byadagi chilies,molecular jaccard,,same_source
+gold_pairs,dried red chilies -> dried guntur chilies,molecular jaccard,,same_source
+gold_pairs,red chilli powder -> dried red chilies,molecular jaccard,,same_source
+gold_pairs,red chilli powder -> red chilli flakes,molecular jaccard,,same_source
+gold_pairs,dried byadagi chilies -> dried red chilies,molecular jaccard,,same_source
+gold_pairs,dried guntur chilies -> dried red chilies,molecular jaccard,,same_source
+gold_pairs,tomato -> tomato paste,molecular jaccard,,same_source
+gold_pairs,tomato -> tamarind,molecular jaccard,36,
+gold_pairs,tomato -> curd,molecular jaccard,69,
+gold_pairs,tomato paste -> tomato,molecular jaccard,,same_source
+gold_pairs,tamarind -> tamarind paste,molecular jaccard,,same_source
+gold_pairs,tamarind -> tamarind water,molecular jaccard,,same_source
+gold_pairs,tamarind -> wild mangosteen,molecular jaccard,,not_scored
+gold_pairs,tamarind -> raw mango,molecular jaccard,32,
+gold_pairs,tamarind -> dried mango powder,molecular jaccard,31,
+gold_pairs,tamarind -> lemon,molecular jaccard,81,
+gold_pairs,tamarind paste -> tamarind,molecular jaccard,,same_source
+gold_pairs,tamarind water -> tamarind,molecular jaccard,,same_source
+gold_pairs,raw mango -> dried mango powder,molecular jaccard,,same_source
+gold_pairs,raw mango -> tamarind,molecular jaccard,41,
+gold_pairs,raw mango -> lemon,molecular jaccard,47,
+gold_pairs,dried mango powder -> lemon,molecular jaccard,47,
+gold_pairs,dried mango powder -> raw mango,molecular jaccard,,same_source
+gold_pairs,dried mango powder -> tamarind,molecular jaccard,41,
+gold_pairs,lemon -> dried mango powder,molecular jaccard,19,
+gold_pairs,lemon -> tamarind,molecular jaccard,73,
+gold_pairs,lemon -> vinegar,molecular jaccard,126,
+gold_pairs,wild mangosteen -> tamarind,molecular jaccard,,not_scored
+gold_pairs,wild mangosteen -> lemon,molecular jaccard,,not_scored
+gold_pairs,coriander seeds -> coriander powder,molecular jaccard,,same_source
+gold_pairs,coriander powder -> coriander seeds,molecular jaccard,,same_source
+gold_pairs,cumin seeds -> cumin powder,molecular jaccard,,same_source
+gold_pairs,cumin powder -> cumin seeds,molecular jaccard,,same_source
+gold_pairs,fennel seeds -> fennel powder,molecular jaccard,,same_source
+gold_pairs,fennel powder -> fennel seeds,molecular jaccard,,same_source
+gold_pairs,fenugreek seeds -> fenugreek powder,molecular jaccard,,same_source
+gold_pairs,fenugreek powder -> fenugreek seeds,molecular jaccard,,same_source
+gold_pairs,cinnamon stick -> cinnamon powder,molecular jaccard,,same_source
+gold_pairs,cinnamon powder -> cinnamon stick,molecular jaccard,,same_source
+gold_pairs,cardamom pods -> cardamom powder,molecular jaccard,,same_source
+gold_pairs,cardamom powder -> cardamom pods,molecular jaccard,,same_source
+gold_pairs,black pepper corns -> black pepper powder,molecular jaccard,,same_source
+gold_pairs,black pepper powder -> black pepper corns,molecular jaccard,,same_source
+gold_pairs,black pepper powder -> white pepper powder,molecular jaccard,,same_source
+gold_pairs,white pepper powder -> black pepper powder,molecular jaccard,,same_source
+gold_pairs,fresh turmeric -> turmeric powder,molecular jaccard,,same_source
+gold_pairs,turmeric powder -> fresh turmeric,molecular jaccard,,same_source
+gold_pairs,dry ginger powder -> ginger paste,molecular jaccard,,same_source
+gold_pairs,black mustard seeds -> yellow mustard seeds,molecular jaccard,,not_scored
+gold_pairs,yellow mustard seeds -> black mustard seeds,molecular jaccard,,not_scored
+gold_pairs,nigella seeds -> black cumin,molecular jaccard,,not_scored
+gold_pairs,carom seeds -> cumin seeds,molecular jaccard,,not_scored
+gold_pairs,star anise -> fennel seeds,molecular jaccard,2,
+gold_pairs,mace -> nutmeg,molecular jaccard,1,
+gold_pairs,nutmeg -> mace,molecular jaccard,1,
+gold_pairs,fresh fenugreek leaves -> dried fenugreek leaves,molecular jaccard,,same_source
+gold_pairs,dried fenugreek leaves -> fresh fenugreek leaves,molecular jaccard,,same_source
+gold_pairs,spinach leaves -> spinach powder,molecular jaccard,,not_scored
+gold_pairs,spinach leaves -> amaranth leaves,molecular jaccard,,not_scored
+gold_pairs,fresh peppermint leaves -> peppermint extract,molecular jaccard,,same_source
+gold_pairs,coriander leaves -> dill leaves,molecular jaccard,78,
+gold_pairs,coconut -> dry coconut,molecular jaccard,,same_source
+gold_pairs,coconut -> coconut milk,molecular jaccard,,same_source
+gold_pairs,dry coconut -> coconut,molecular jaccard,,same_source
+gold_pairs,coconut milk -> cream,molecular jaccard,65,
+gold_pairs,coconut milk -> cashew nuts,molecular jaccard,89,
+gold_pairs,cashew nuts -> almonds,molecular jaccard,17,
+gold_pairs,cashew nuts -> melon seeds,molecular jaccard,22,
+gold_pairs,cashew nuts -> peanuts,molecular jaccard,12,
+gold_pairs,almonds -> cashew nuts,molecular jaccard,11,
+gold_pairs,melon seeds -> cashew nuts,molecular jaccard,81,
+gold_pairs,peanuts -> cashew nuts,molecular jaccard,87,
+gold_pairs,poppy seeds -> cashew nuts,molecular jaccard,,not_scored
+gold_pairs,poppy seeds -> melon seeds,molecular jaccard,,not_scored
+gold_pairs,poppy seeds -> sesame seeds,molecular jaccard,,not_scored
+gold_pairs,basmati rice -> white rice,molecular jaccard,,same_source
+gold_pairs,basmati rice -> brown rice,molecular jaccard,1,
+gold_pairs,white rice -> basmati rice,molecular jaccard,,same_source
+gold_pairs,white rice -> short-grain parboiled rice,molecular jaccard,,same_source
+gold_pairs,white rice -> foxtail millet,molecular jaccard,,not_scored
+gold_pairs,white rice -> barnyard millet,molecular jaccard,,not_scored
+gold_pairs,white rice -> kodo millet,molecular jaccard,,not_scored
+gold_pairs,white rice -> little millet,molecular jaccard,,not_scored
+gold_pairs,short-grain parboiled rice -> white rice,molecular jaccard,,same_source
+gold_pairs,flattened rice -> puffed rice,molecular jaccard,,same_source
+gold_pairs,wheat flour -> sorghum flour,molecular jaccard,,not_scored
+gold_pairs,wheat flour -> pearl millet flour,molecular jaccard,,not_scored
+gold_pairs,wheat flour -> finger millet,molecular jaccard,,not_scored
+gold_pairs,wheat flour -> refined flour,molecular jaccard,,not_scored
+gold_pairs,refined flour -> wheat flour,molecular jaccard,,not_scored
+gold_pairs,refined flour -> rice flour,molecular jaccard,,not_scored
+gold_pairs,refined flour -> corn flour,molecular jaccard,,not_scored
+gold_pairs,corn flour -> rice flour,molecular jaccard,9,
+gold_pairs,corn flour -> tapioca pearls,molecular jaccard,,not_scored
+gold_pairs,gram flour -> bengal gram,molecular jaccard,,same_source
+gold_pairs,bengal gram -> gram flour,molecular jaccard,,same_source
+gold_pairs,split pigeon pea -> red lentil,molecular jaccard,,not_scored
+gold_pairs,split pigeon pea -> hulled mung beans,molecular jaccard,,not_scored
+gold_pairs,red lentil -> split pigeon pea,molecular jaccard,,not_scored
+gold_pairs,red lentil -> hulled mung beans,molecular jaccard,,not_scored
+gold_pairs,hulled mung beans -> mung bean,molecular jaccard,,same_source
+gold_pairs,hulled mung beans -> split pigeon pea,molecular jaccard,,not_scored
+gold_pairs,black chickpeas -> white chickpeas,molecular jaccard,,same_source
+gold_pairs,white chickpeas -> black chickpeas,molecular jaccard,,same_source
+gold_pairs,black gram -> split skinned black gram,molecular jaccard,,not_scored
+gold_pairs,split skinned black gram -> black gram,molecular jaccard,,not_scored
+gold_pairs,potato -> sweet potato,molecular jaccard,100,
+gold_pairs,potato -> raw banana,molecular jaccard,79,
+gold_pairs,potato -> colocasia,molecular jaccard,,not_scored
+gold_pairs,potato -> elephant yam,molecular jaccard,,not_scored
+gold_pairs,sweet potato -> potato,molecular jaccard,34,
+gold_pairs,raw banana -> potato,molecular jaccard,64,
+gold_pairs,brinjal -> ridge gourd,molecular jaccard,,not_scored
+gold_pairs,bottle gourd -> ash gourd,molecular jaccard,,not_scored
+gold_pairs,bottle gourd -> ridge gourd,molecular jaccard,,not_scored
+gold_pairs,bottle gourd -> snake gourd,molecular jaccard,,not_scored
+gold_pairs,ridge gourd -> spine gourd,molecular jaccard,,not_scored
+gold_pairs,ridge gourd -> bottle gourd,molecular jaccard,,not_scored
+gold_pairs,pointed gourd -> ivy gourd,molecular jaccard,,not_scored
+gold_pairs,ivy gourd -> pointed gourd,molecular jaccard,,not_scored
+gold_pairs,green zucchini -> bottle gourd,molecular jaccard,,not_scored
+gold_pairs,green bell pepper -> red bell pepper,molecular jaccard,14,
+gold_pairs,red bell pepper -> green bell pepper,molecular jaccard,1,
+gold_pairs,onion -> pearl onion,molecular jaccard,,same_source
+gold_pairs,onion -> spring onion,molecular jaccard,,not_scored
+gold_pairs,pearl onion -> onion,molecular jaccard,,same_source
+gold_pairs,spring onion -> onion,molecular jaccard,,not_scored
+gold_pairs,chicken -> boneless chicken,molecular jaccard,,same_source
+gold_pairs,boneless chicken -> chicken,molecular jaccard,,same_source
+gold_pairs,chicken legs -> chicken,molecular jaccard,,same_source
+gold_pairs,boneless chicken -> soya chunks,molecular jaccard,,not_scored
+gold_pairs,boneless chicken -> unripe jackfruit,molecular jaccard,112,
+gold_pairs,boneless chicken -> cottage cheese,molecular jaccard,13,
+gold_pairs,boneless mutton -> unripe jackfruit,molecular jaccard,88,
+gold_pairs,boneless mutton -> soya chunks,molecular jaccard,,not_scored
+gold_pairs,boneless mutton -> elephant yam,molecular jaccard,,not_scored
+gold_pairs,rohu fish -> kingfish,molecular jaccard,,not_scored
+gold_pairs,kingfish -> pomfret,molecular jaccard,,not_scored
+gold_pairs,pomfret -> kingfish,molecular jaccard,,not_scored
+gold_pairs,sardine -> mackerel,molecular jaccard,,not_scored
+gold_pairs,mackerel -> sardine,molecular jaccard,,not_scored
+gold_pairs,salt -> black salt,molecular jaccard,,not_scored
+gold_pairs,black salt -> salt,molecular jaccard,,not_scored
+gold_pairs,ghee -> butter,molecular idf,,not_scored
+gold_pairs,ghee -> coconut oil,molecular idf,,not_scored
+gold_pairs,ghee -> groundnut oil,molecular idf,,not_scored
+gold_pairs,ghee -> sunflower oil,molecular idf,,not_scored
+gold_pairs,ghee -> virgin olive oil,molecular idf,,not_scored
+gold_pairs,butter -> ghee,molecular idf,,not_scored
+gold_pairs,butter -> sunflower oil,molecular idf,,not_scored
+gold_pairs,butter -> virgin olive oil,molecular idf,,not_scored
+gold_pairs,sunflower oil -> groundnut oil,molecular idf,,not_scored
+gold_pairs,sunflower oil -> sesame oil,molecular idf,,not_scored
+gold_pairs,sunflower oil -> coconut oil,molecular idf,,not_scored
+gold_pairs,groundnut oil -> sunflower oil,molecular idf,,not_scored
+gold_pairs,groundnut oil -> sesame oil,molecular idf,,not_scored
+gold_pairs,yellow mustard oil -> sunflower oil,molecular idf,,not_scored
+gold_pairs,coconut oil -> sunflower oil,molecular idf,,not_scored
+gold_pairs,virgin olive oil -> sunflower oil,molecular idf,,not_scored
+gold_pairs,cream -> cashew nuts,molecular idf,,not_scored
+gold_pairs,cream -> coconut milk,molecular idf,31,
+gold_pairs,cream -> melon seeds,molecular idf,96,
+gold_pairs,cream -> milk,molecular idf,5,
+gold_pairs,cream -> curd,molecular idf,1,
+gold_pairs,milk -> coconut milk,molecular idf,29,
+gold_pairs,milk -> milk powder,molecular idf,,same_source
+gold_pairs,milk powder -> khoya,molecular idf,,not_scored
+gold_pairs,khoya -> milk powder,molecular idf,,not_scored
+gold_pairs,khoya -> chenna,molecular idf,,not_scored
+gold_pairs,chenna -> cottage cheese,molecular idf,,not_scored
+gold_pairs,cottage cheese -> tofu,molecular idf,,not_scored
+gold_pairs,cottage cheese -> chenna,molecular idf,,not_scored
+gold_pairs,curd -> buttermilk,molecular idf,20,
+gold_pairs,curd -> hung yogurt,molecular idf,,same_source
+gold_pairs,hung yogurt -> curd,molecular idf,,same_source
+gold_pairs,buttermilk -> curd,molecular idf,5,
+gold_pairs,sugar -> jaggery,molecular idf,,not_scored
+gold_pairs,sugar -> rock sugar,molecular idf,,not_scored
+gold_pairs,sugar -> honey,molecular idf,,not_scored
+gold_pairs,jaggery -> sugar,molecular idf,,not_scored
+gold_pairs,jaggery -> dates,molecular idf,,not_scored
+gold_pairs,rock sugar -> sugar,molecular idf,,not_scored
+gold_pairs,honey -> sugar,molecular idf,,not_scored
+gold_pairs,honey -> jaggery,molecular idf,,not_scored
+gold_pairs,garlic -> garlic paste,molecular idf,,same_source
+gold_pairs,garlic paste -> garlic,molecular idf,,same_source
+gold_pairs,ginger paste -> ginger juice,molecular idf,,same_source
+gold_pairs,ginger juice -> ginger paste,molecular idf,,same_source
+gold_pairs,green chilies -> green chilli paste,molecular idf,,same_source
+gold_pairs,green chilli paste -> green chilies,molecular idf,,same_source
+gold_pairs,green chilies -> fresh red chilies,molecular idf,,same_source
+gold_pairs,dried red chilies -> red chilli powder,molecular idf,,same_source
+gold_pairs,dried red chilies -> red chilli flakes,molecular idf,,same_source
+gold_pairs,dried red chilies -> dried byadagi chilies,molecular idf,,same_source
+gold_pairs,dried red chilies -> dried guntur chilies,molecular idf,,same_source
+gold_pairs,red chilli powder -> dried red chilies,molecular idf,,same_source
+gold_pairs,red chilli powder -> red chilli flakes,molecular idf,,same_source
+gold_pairs,dried byadagi chilies -> dried red chilies,molecular idf,,same_source
+gold_pairs,dried guntur chilies -> dried red chilies,molecular idf,,same_source
+gold_pairs,tomato -> tomato paste,molecular idf,,same_source
+gold_pairs,tomato -> tamarind,molecular idf,31,
+gold_pairs,tomato -> curd,molecular idf,65,
+gold_pairs,tomato paste -> tomato,molecular idf,,same_source
+gold_pairs,tamarind -> tamarind paste,molecular idf,,same_source
+gold_pairs,tamarind -> tamarind water,molecular idf,,same_source
+gold_pairs,tamarind -> wild mangosteen,molecular idf,,not_scored
+gold_pairs,tamarind -> raw mango,molecular idf,37,
+gold_pairs,tamarind -> dried mango powder,molecular idf,36,
+gold_pairs,tamarind -> lemon,molecular idf,84,
+gold_pairs,tamarind paste -> tamarind,molecular idf,,same_source
+gold_pairs,tamarind water -> tamarind,molecular idf,,same_source
+gold_pairs,raw mango -> dried mango powder,molecular idf,,same_source
+gold_pairs,raw mango -> tamarind,molecular idf,47,
+gold_pairs,raw mango -> lemon,molecular idf,53,
+gold_pairs,dried mango powder -> lemon,molecular idf,53,
+gold_pairs,dried mango powder -> raw mango,molecular idf,,same_source
+gold_pairs,dried mango powder -> tamarind,molecular idf,47,
+gold_pairs,lemon -> dried mango powder,molecular idf,29,
+gold_pairs,lemon -> tamarind,molecular idf,75,
+gold_pairs,lemon -> vinegar,molecular idf,126,
+gold_pairs,wild mangosteen -> tamarind,molecular idf,,not_scored
+gold_pairs,wild mangosteen -> lemon,molecular idf,,not_scored
+gold_pairs,coriander seeds -> coriander powder,molecular idf,,same_source
+gold_pairs,coriander powder -> coriander seeds,molecular idf,,same_source
+gold_pairs,cumin seeds -> cumin powder,molecular idf,,same_source
+gold_pairs,cumin powder -> cumin seeds,molecular idf,,same_source
+gold_pairs,fennel seeds -> fennel powder,molecular idf,,same_source
+gold_pairs,fennel powder -> fennel seeds,molecular idf,,same_source
+gold_pairs,fenugreek seeds -> fenugreek powder,molecular idf,,same_source
+gold_pairs,fenugreek powder -> fenugreek seeds,molecular idf,,same_source
+gold_pairs,cinnamon stick -> cinnamon powder,molecular idf,,same_source
+gold_pairs,cinnamon powder -> cinnamon stick,molecular idf,,same_source
+gold_pairs,cardamom pods -> cardamom powder,molecular idf,,same_source
+gold_pairs,cardamom powder -> cardamom pods,molecular idf,,same_source
+gold_pairs,black pepper corns -> black pepper powder,molecular idf,,same_source
+gold_pairs,black pepper powder -> black pepper corns,molecular idf,,same_source
+gold_pairs,black pepper powder -> white pepper powder,molecular idf,,same_source
+gold_pairs,white pepper powder -> black pepper powder,molecular idf,,same_source
+gold_pairs,fresh turmeric -> turmeric powder,molecular idf,,same_source
+gold_pairs,turmeric powder -> fresh turmeric,molecular idf,,same_source
+gold_pairs,dry ginger powder -> ginger paste,molecular idf,,same_source
+gold_pairs,black mustard seeds -> yellow mustard seeds,molecular idf,,not_scored
+gold_pairs,yellow mustard seeds -> black mustard seeds,molecular idf,,not_scored
+gold_pairs,nigella seeds -> black cumin,molecular idf,,not_scored
+gold_pairs,carom seeds -> cumin seeds,molecular idf,,not_scored
+gold_pairs,star anise -> fennel seeds,molecular idf,2,
+gold_pairs,mace -> nutmeg,molecular idf,1,
+gold_pairs,nutmeg -> mace,molecular idf,1,
+gold_pairs,fresh fenugreek leaves -> dried fenugreek leaves,molecular idf,,same_source
+gold_pairs,dried fenugreek leaves -> fresh fenugreek leaves,molecular idf,,same_source
+gold_pairs,spinach leaves -> spinach powder,molecular idf,,not_scored
+gold_pairs,spinach leaves -> amaranth leaves,molecular idf,,not_scored
+gold_pairs,fresh peppermint leaves -> peppermint extract,molecular idf,,same_source
+gold_pairs,coriander leaves -> dill leaves,molecular idf,91,
+gold_pairs,coconut -> dry coconut,molecular idf,,same_source
+gold_pairs,coconut -> coconut milk,molecular idf,,same_source
+gold_pairs,dry coconut -> coconut,molecular idf,,same_source
+gold_pairs,coconut milk -> cream,molecular idf,52,
+gold_pairs,coconut milk -> cashew nuts,molecular idf,86,
+gold_pairs,cashew nuts -> almonds,molecular idf,6,
+gold_pairs,cashew nuts -> melon seeds,molecular idf,28,
+gold_pairs,cashew nuts -> peanuts,molecular idf,8,
+gold_pairs,almonds -> cashew nuts,molecular idf,10,
+gold_pairs,melon seeds -> cashew nuts,molecular idf,78,
+gold_pairs,peanuts -> cashew nuts,molecular idf,75,
+gold_pairs,poppy seeds -> cashew nuts,molecular idf,,not_scored
+gold_pairs,poppy seeds -> melon seeds,molecular idf,,not_scored
+gold_pairs,poppy seeds -> sesame seeds,molecular idf,,not_scored
+gold_pairs,basmati rice -> white rice,molecular idf,,same_source
+gold_pairs,basmati rice -> brown rice,molecular idf,1,
+gold_pairs,white rice -> basmati rice,molecular idf,,same_source
+gold_pairs,white rice -> short-grain parboiled rice,molecular idf,,same_source
+gold_pairs,white rice -> foxtail millet,molecular idf,,not_scored
+gold_pairs,white rice -> barnyard millet,molecular idf,,not_scored
+gold_pairs,white rice -> kodo millet,molecular idf,,not_scored
+gold_pairs,white rice -> little millet,molecular idf,,not_scored
+gold_pairs,short-grain parboiled rice -> white rice,molecular idf,,same_source
+gold_pairs,flattened rice -> puffed rice,molecular idf,,same_source
+gold_pairs,wheat flour -> sorghum flour,molecular idf,,not_scored
+gold_pairs,wheat flour -> pearl millet flour,molecular idf,,not_scored
+gold_pairs,wheat flour -> finger millet,molecular idf,,not_scored
+gold_pairs,wheat flour -> refined flour,molecular idf,,not_scored
+gold_pairs,refined flour -> wheat flour,molecular idf,,not_scored
+gold_pairs,refined flour -> rice flour,molecular idf,,not_scored
+gold_pairs,refined flour -> corn flour,molecular idf,,not_scored
+gold_pairs,corn flour -> rice flour,molecular idf,7,
+gold_pairs,corn flour -> tapioca pearls,molecular idf,,not_scored
+gold_pairs,gram flour -> bengal gram,molecular idf,,same_source
+gold_pairs,bengal gram -> gram flour,molecular idf,,same_source
+gold_pairs,split pigeon pea -> red lentil,molecular idf,,not_scored
+gold_pairs,split pigeon pea -> hulled mung beans,molecular idf,,not_scored
+gold_pairs,red lentil -> split pigeon pea,molecular idf,,not_scored
+gold_pairs,red lentil -> hulled mung beans,molecular idf,,not_scored
+gold_pairs,hulled mung beans -> mung bean,molecular idf,,same_source
+gold_pairs,hulled mung beans -> split pigeon pea,molecular idf,,not_scored
+gold_pairs,black chickpeas -> white chickpeas,molecular idf,,same_source
+gold_pairs,white chickpeas -> black chickpeas,molecular idf,,same_source
+gold_pairs,black gram -> split skinned black gram,molecular idf,,not_scored
+gold_pairs,split skinned black gram -> black gram,molecular idf,,not_scored
+gold_pairs,potato -> sweet potato,molecular idf,116,
+gold_pairs,potato -> raw banana,molecular idf,83,
+gold_pairs,potato -> colocasia,molecular idf,,not_scored
+gold_pairs,potato -> elephant yam,molecular idf,,not_scored
+gold_pairs,sweet potato -> potato,molecular idf,37,
+gold_pairs,raw banana -> potato,molecular idf,62,
+gold_pairs,brinjal -> ridge gourd,molecular idf,,not_scored
+gold_pairs,bottle gourd -> ash gourd,molecular idf,,not_scored
+gold_pairs,bottle gourd -> ridge gourd,molecular idf,,not_scored
+gold_pairs,bottle gourd -> snake gourd,molecular idf,,not_scored
+gold_pairs,ridge gourd -> spine gourd,molecular idf,,not_scored
+gold_pairs,ridge gourd -> bottle gourd,molecular idf,,not_scored
+gold_pairs,pointed gourd -> ivy gourd,molecular idf,,not_scored
+gold_pairs,ivy gourd -> pointed gourd,molecular idf,,not_scored
+gold_pairs,green zucchini -> bottle gourd,molecular idf,,not_scored
+gold_pairs,green bell pepper -> red bell pepper,molecular idf,14,
+gold_pairs,red bell pepper -> green bell pepper,molecular idf,1,
+gold_pairs,onion -> pearl onion,molecular idf,,same_source
+gold_pairs,onion -> spring onion,molecular idf,,not_scored
+gold_pairs,pearl onion -> onion,molecular idf,,same_source
+gold_pairs,spring onion -> onion,molecular idf,,not_scored
+gold_pairs,chicken -> boneless chicken,molecular idf,,same_source
+gold_pairs,boneless chicken -> chicken,molecular idf,,same_source
+gold_pairs,chicken legs -> chicken,molecular idf,,same_source
+gold_pairs,boneless chicken -> soya chunks,molecular idf,,not_scored
+gold_pairs,boneless chicken -> unripe jackfruit,molecular idf,113,
+gold_pairs,boneless chicken -> cottage cheese,molecular idf,7,
+gold_pairs,boneless mutton -> unripe jackfruit,molecular idf,87,
+gold_pairs,boneless mutton -> soya chunks,molecular idf,,not_scored
+gold_pairs,boneless mutton -> elephant yam,molecular idf,,not_scored
+gold_pairs,rohu fish -> kingfish,molecular idf,,not_scored
+gold_pairs,kingfish -> pomfret,molecular idf,,not_scored
+gold_pairs,pomfret -> kingfish,molecular idf,,not_scored
+gold_pairs,sardine -> mackerel,molecular idf,,not_scored
+gold_pairs,mackerel -> sardine,molecular idf,,not_scored
+gold_pairs,salt -> black salt,molecular idf,,not_scored
+gold_pairs,black salt -> salt,molecular idf,,not_scored
+gold_pairs,ghee -> butter,tags jaccard,8,
+gold_pairs,ghee -> coconut oil,tags jaccard,10,
+gold_pairs,ghee -> groundnut oil,tags jaccard,13,
+gold_pairs,ghee -> sunflower oil,tags jaccard,28,
+gold_pairs,ghee -> virgin olive oil,tags jaccard,,not_scored
+gold_pairs,butter -> ghee,tags jaccard,9,
+gold_pairs,butter -> sunflower oil,tags jaccard,19,
+gold_pairs,butter -> virgin olive oil,tags jaccard,164,
+gold_pairs,sunflower oil -> groundnut oil,tags jaccard,1,
+gold_pairs,sunflower oil -> sesame oil,tags jaccard,18,
+gold_pairs,sunflower oil -> coconut oil,tags jaccard,28,
+gold_pairs,groundnut oil -> sunflower oil,tags jaccard,2,
+gold_pairs,groundnut oil -> sesame oil,tags jaccard,5,
+gold_pairs,yellow mustard oil -> sunflower oil,tags jaccard,51,
+gold_pairs,coconut oil -> sunflower oil,tags jaccard,19,
+gold_pairs,virgin olive oil -> sunflower oil,tags jaccard,25,
+gold_pairs,cream -> cashew nuts,tags jaccard,9,
+gold_pairs,cream -> coconut milk,tags jaccard,1,
+gold_pairs,cream -> melon seeds,tags jaccard,16,
+gold_pairs,cream -> milk,tags jaccard,6,
+gold_pairs,cream -> curd,tags jaccard,91,
+gold_pairs,milk -> coconut milk,tags jaccard,2,
+gold_pairs,milk -> milk powder,tags jaccard,,same_source
+gold_pairs,milk powder -> khoya,tags jaccard,2,
+gold_pairs,khoya -> milk powder,tags jaccard,2,
+gold_pairs,khoya -> chenna,tags jaccard,6,
+gold_pairs,chenna -> cottage cheese,tags jaccard,3,
+gold_pairs,cottage cheese -> tofu,tags jaccard,68,
+gold_pairs,cottage cheese -> chenna,tags jaccard,3,
+gold_pairs,curd -> buttermilk,tags jaccard,1,
+gold_pairs,curd -> hung yogurt,tags jaccard,,same_source
+gold_pairs,hung yogurt -> curd,tags jaccard,,same_source
+gold_pairs,buttermilk -> curd,tags jaccard,1,
+gold_pairs,sugar -> jaggery,tags jaccard,41,
+gold_pairs,sugar -> rock sugar,tags jaccard,1,
+gold_pairs,sugar -> honey,tags jaccard,118,
+gold_pairs,jaggery -> sugar,tags jaccard,19,
+gold_pairs,jaggery -> dates,tags jaccard,1,
+gold_pairs,rock sugar -> sugar,tags jaccard,1,
+gold_pairs,honey -> sugar,tags jaccard,63,
+gold_pairs,honey -> jaggery,tags jaccard,2,
+gold_pairs,garlic -> garlic paste,tags jaccard,,same_source
+gold_pairs,garlic paste -> garlic,tags jaccard,,same_source
+gold_pairs,ginger paste -> ginger juice,tags jaccard,,same_source
+gold_pairs,ginger juice -> ginger paste,tags jaccard,,same_source
+gold_pairs,green chilies -> green chilli paste,tags jaccard,,same_source
+gold_pairs,green chilli paste -> green chilies,tags jaccard,,same_source
+gold_pairs,green chilies -> fresh red chilies,tags jaccard,,same_source
+gold_pairs,dried red chilies -> red chilli powder,tags jaccard,,same_source
+gold_pairs,dried red chilies -> red chilli flakes,tags jaccard,,same_source
+gold_pairs,dried red chilies -> dried byadagi chilies,tags jaccard,,same_source
+gold_pairs,dried red chilies -> dried guntur chilies,tags jaccard,,same_source
+gold_pairs,red chilli powder -> dried red chilies,tags jaccard,,same_source
+gold_pairs,red chilli powder -> red chilli flakes,tags jaccard,,same_source
+gold_pairs,dried byadagi chilies -> dried red chilies,tags jaccard,,same_source
+gold_pairs,dried guntur chilies -> dried red chilies,tags jaccard,,same_source
+gold_pairs,tomato -> tomato paste,tags jaccard,,same_source
+gold_pairs,tomato -> tamarind,tags jaccard,17,
+gold_pairs,tomato -> curd,tags jaccard,42,
+gold_pairs,tomato paste -> tomato,tags jaccard,,same_source
+gold_pairs,tamarind -> tamarind paste,tags jaccard,,same_source
+gold_pairs,tamarind -> tamarind water,tags jaccard,,same_source
+gold_pairs,tamarind -> wild mangosteen,tags jaccard,12,
+gold_pairs,tamarind -> raw mango,tags jaccard,21,
+gold_pairs,tamarind -> dried mango powder,tags jaccard,15,
+gold_pairs,tamarind -> lemon,tags jaccard,52,
+gold_pairs,tamarind paste -> tamarind,tags jaccard,,same_source
+gold_pairs,tamarind water -> tamarind,tags jaccard,,same_source
+gold_pairs,raw mango -> dried mango powder,tags jaccard,,same_source
+gold_pairs,raw mango -> tamarind,tags jaccard,18,
+gold_pairs,raw mango -> lemon,tags jaccard,7,
+gold_pairs,dried mango powder -> lemon,tags jaccard,4,
+gold_pairs,dried mango powder -> raw mango,tags jaccard,,same_source
+gold_pairs,dried mango powder -> tamarind,tags jaccard,17,
+gold_pairs,lemon -> dried mango powder,tags jaccard,3,
+gold_pairs,lemon -> tamarind,tags jaccard,41,
+gold_pairs,lemon -> vinegar,tags jaccard,13,
+gold_pairs,wild mangosteen -> tamarind,tags jaccard,12,
+gold_pairs,wild mangosteen -> lemon,tags jaccard,16,
+gold_pairs,coriander seeds -> coriander powder,tags jaccard,,same_source
+gold_pairs,coriander powder -> coriander seeds,tags jaccard,,same_source
+gold_pairs,cumin seeds -> cumin powder,tags jaccard,,same_source
+gold_pairs,cumin powder -> cumin seeds,tags jaccard,,same_source
+gold_pairs,fennel seeds -> fennel powder,tags jaccard,,same_source
+gold_pairs,fennel powder -> fennel seeds,tags jaccard,,same_source
+gold_pairs,fenugreek seeds -> fenugreek powder,tags jaccard,,same_source
+gold_pairs,fenugreek powder -> fenugreek seeds,tags jaccard,,same_source
+gold_pairs,cinnamon stick -> cinnamon powder,tags jaccard,,same_source
+gold_pairs,cinnamon powder -> cinnamon stick,tags jaccard,,same_source
+gold_pairs,cardamom pods -> cardamom powder,tags jaccard,,same_source
+gold_pairs,cardamom powder -> cardamom pods,tags jaccard,,same_source
+gold_pairs,black pepper corns -> black pepper powder,tags jaccard,,same_source
+gold_pairs,black pepper powder -> black pepper corns,tags jaccard,,same_source
+gold_pairs,black pepper powder -> white pepper powder,tags jaccard,,same_source
+gold_pairs,white pepper powder -> black pepper powder,tags jaccard,,same_source
+gold_pairs,fresh turmeric -> turmeric powder,tags jaccard,,same_source
+gold_pairs,turmeric powder -> fresh turmeric,tags jaccard,,same_source
+gold_pairs,dry ginger powder -> ginger paste,tags jaccard,,same_source
+gold_pairs,black mustard seeds -> yellow mustard seeds,tags jaccard,2,
+gold_pairs,yellow mustard seeds -> black mustard seeds,tags jaccard,1,
+gold_pairs,nigella seeds -> black cumin,tags jaccard,2,
+gold_pairs,carom seeds -> cumin seeds,tags jaccard,6,
+gold_pairs,star anise -> fennel seeds,tags jaccard,4,
+gold_pairs,mace -> nutmeg,tags jaccard,6,
+gold_pairs,nutmeg -> mace,tags jaccard,7,
+gold_pairs,fresh fenugreek leaves -> dried fenugreek leaves,tags jaccard,,same_source
+gold_pairs,dried fenugreek leaves -> fresh fenugreek leaves,tags jaccard,,same_source
+gold_pairs,spinach leaves -> spinach powder,tags jaccard,1,
+gold_pairs,spinach leaves -> amaranth leaves,tags jaccard,5,
+gold_pairs,fresh peppermint leaves -> peppermint extract,tags jaccard,,same_source
+gold_pairs,coriander leaves -> dill leaves,tags jaccard,9,
+gold_pairs,coconut -> dry coconut,tags jaccard,,same_source
+gold_pairs,coconut -> coconut milk,tags jaccard,,same_source
+gold_pairs,dry coconut -> coconut,tags jaccard,,same_source
+gold_pairs,coconut milk -> cream,tags jaccard,2,
+gold_pairs,coconut milk -> cashew nuts,tags jaccard,9,
+gold_pairs,cashew nuts -> almonds,tags jaccard,7,
+gold_pairs,cashew nuts -> melon seeds,tags jaccard,5,
+gold_pairs,cashew nuts -> peanuts,tags jaccard,14,
+gold_pairs,almonds -> cashew nuts,tags jaccard,1,
+gold_pairs,melon seeds -> cashew nuts,tags jaccard,1,
+gold_pairs,peanuts -> cashew nuts,tags jaccard,5,
+gold_pairs,poppy seeds -> cashew nuts,tags jaccard,44,
+gold_pairs,poppy seeds -> melon seeds,tags jaccard,29,
+gold_pairs,poppy seeds -> sesame seeds,tags jaccard,91,
+gold_pairs,basmati rice -> white rice,tags jaccard,,same_source
+gold_pairs,basmati rice -> brown rice,tags jaccard,1,
+gold_pairs,white rice -> basmati rice,tags jaccard,,same_source
+gold_pairs,white rice -> short-grain parboiled rice,tags jaccard,,same_source
+gold_pairs,white rice -> foxtail millet,tags jaccard,26,
+gold_pairs,white rice -> barnyard millet,tags jaccard,21,
+gold_pairs,white rice -> kodo millet,tags jaccard,27,
+gold_pairs,white rice -> little millet,tags jaccard,28,
+gold_pairs,short-grain parboiled rice -> white rice,tags jaccard,,same_source
+gold_pairs,flattened rice -> puffed rice,tags jaccard,,same_source
+gold_pairs,wheat flour -> sorghum flour,tags jaccard,26,
+gold_pairs,wheat flour -> pearl millet flour,tags jaccard,8,
+gold_pairs,wheat flour -> finger millet,tags jaccard,21,
+gold_pairs,wheat flour -> refined flour,tags jaccard,3,
+gold_pairs,refined flour -> wheat flour,tags jaccard,10,
+gold_pairs,refined flour -> rice flour,tags jaccard,1,
+gold_pairs,refined flour -> corn flour,tags jaccard,2,
+gold_pairs,corn flour -> rice flour,tags jaccard,8,
+gold_pairs,corn flour -> tapioca pearls,tags jaccard,4,
+gold_pairs,gram flour -> bengal gram,tags jaccard,,same_source
+gold_pairs,bengal gram -> gram flour,tags jaccard,,same_source
+gold_pairs,split pigeon pea -> red lentil,tags jaccard,9,
+gold_pairs,split pigeon pea -> hulled mung beans,tags jaccard,5,
+gold_pairs,red lentil -> split pigeon pea,tags jaccard,9,
+gold_pairs,red lentil -> hulled mung beans,tags jaccard,5,
+gold_pairs,hulled mung beans -> mung bean,tags jaccard,,same_source
+gold_pairs,hulled mung beans -> split pigeon pea,tags jaccard,8,
+gold_pairs,black chickpeas -> white chickpeas,tags jaccard,,same_source
+gold_pairs,white chickpeas -> black chickpeas,tags jaccard,,same_source
+gold_pairs,black gram -> split skinned black gram,tags jaccard,1,
+gold_pairs,split skinned black gram -> black gram,tags jaccard,1,
+gold_pairs,potato -> sweet potato,tags jaccard,40,
+gold_pairs,potato -> raw banana,tags jaccard,19,
+gold_pairs,potato -> colocasia,tags jaccard,59,
+gold_pairs,potato -> elephant yam,tags jaccard,184,
+gold_pairs,sweet potato -> potato,tags jaccard,4,
+gold_pairs,raw banana -> potato,tags jaccard,26,
+gold_pairs,brinjal -> ridge gourd,tags jaccard,123,
+gold_pairs,bottle gourd -> ash gourd,tags jaccard,5,
+gold_pairs,bottle gourd -> ridge gourd,tags jaccard,3,
+gold_pairs,bottle gourd -> snake gourd,tags jaccard,70,
+gold_pairs,ridge gourd -> spine gourd,tags jaccard,143,
+gold_pairs,ridge gourd -> bottle gourd,tags jaccard,1,
+gold_pairs,pointed gourd -> ivy gourd,tags jaccard,33,
+gold_pairs,ivy gourd -> pointed gourd,tags jaccard,45,
+gold_pairs,green zucchini -> bottle gourd,tags jaccard,1,
+gold_pairs,green bell pepper -> red bell pepper,tags jaccard,12,
+gold_pairs,red bell pepper -> green bell pepper,tags jaccard,11,
+gold_pairs,onion -> pearl onion,tags jaccard,,same_source
+gold_pairs,onion -> spring onion,tags jaccard,3,
+gold_pairs,pearl onion -> onion,tags jaccard,,same_source
+gold_pairs,spring onion -> onion,tags jaccard,2,
+gold_pairs,chicken -> boneless chicken,tags jaccard,,same_source
+gold_pairs,boneless chicken -> chicken,tags jaccard,,same_source
+gold_pairs,chicken legs -> chicken,tags jaccard,,same_source
+gold_pairs,boneless chicken -> soya chunks,tags jaccard,10,
+gold_pairs,boneless chicken -> unripe jackfruit,tags jaccard,,not_scored
+gold_pairs,boneless chicken -> cottage cheese,tags jaccard,,not_scored
+gold_pairs,boneless mutton -> unripe jackfruit,tags jaccard,,not_scored
+gold_pairs,boneless mutton -> soya chunks,tags jaccard,12,
+gold_pairs,boneless mutton -> elephant yam,tags jaccard,,not_scored
+gold_pairs,rohu fish -> kingfish,tags jaccard,7,
+gold_pairs,kingfish -> pomfret,tags jaccard,1,
+gold_pairs,pomfret -> kingfish,tags jaccard,1,
+gold_pairs,sardine -> mackerel,tags jaccard,2,
+gold_pairs,mackerel -> sardine,tags jaccard,3,
+gold_pairs,salt -> black salt,tags jaccard,2,
+gold_pairs,black salt -> salt,tags jaccard,5,
+gold_pairs,ghee -> butter,tags idf,8,
+gold_pairs,ghee -> coconut oil,tags idf,9,
+gold_pairs,ghee -> groundnut oil,tags idf,20,
+gold_pairs,ghee -> sunflower oil,tags idf,24,
+gold_pairs,ghee -> virgin olive oil,tags idf,,not_scored
+gold_pairs,butter -> ghee,tags idf,6,
+gold_pairs,butter -> sunflower oil,tags idf,9,
+gold_pairs,butter -> virgin olive oil,tags idf,26,
+gold_pairs,sunflower oil -> groundnut oil,tags idf,1,
+gold_pairs,sunflower oil -> sesame oil,tags idf,6,
+gold_pairs,sunflower oil -> coconut oil,tags idf,11,
+gold_pairs,groundnut oil -> sunflower oil,tags idf,1,
+gold_pairs,groundnut oil -> sesame oil,tags idf,4,
+gold_pairs,yellow mustard oil -> sunflower oil,tags idf,22,
+gold_pairs,coconut oil -> sunflower oil,tags idf,9,
+gold_pairs,virgin olive oil -> sunflower oil,tags idf,3,
+gold_pairs,cream -> cashew nuts,tags idf,9,
+gold_pairs,cream -> coconut milk,tags idf,1,
+gold_pairs,cream -> melon seeds,tags idf,17,
+gold_pairs,cream -> milk,tags idf,4,
+gold_pairs,cream -> curd,tags idf,18,
+gold_pairs,milk -> coconut milk,tags idf,2,
+gold_pairs,milk -> milk powder,tags idf,,same_source
+gold_pairs,milk powder -> khoya,tags idf,2,
+gold_pairs,khoya -> milk powder,tags idf,2,
+gold_pairs,khoya -> chenna,tags idf,6,
+gold_pairs,chenna -> cottage cheese,tags idf,3,
+gold_pairs,cottage cheese -> tofu,tags idf,37,
+gold_pairs,cottage cheese -> chenna,tags idf,3,
+gold_pairs,curd -> buttermilk,tags idf,1,
+gold_pairs,curd -> hung yogurt,tags idf,,same_source
+gold_pairs,hung yogurt -> curd,tags idf,,same_source
+gold_pairs,buttermilk -> curd,tags idf,1,
+gold_pairs,sugar -> jaggery,tags idf,137,
+gold_pairs,sugar -> rock sugar,tags idf,1,
+gold_pairs,sugar -> honey,tags idf,151,
+gold_pairs,jaggery -> sugar,tags idf,29,
+gold_pairs,jaggery -> dates,tags idf,1,
+gold_pairs,rock sugar -> sugar,tags idf,1,
+gold_pairs,honey -> sugar,tags idf,79,
+gold_pairs,honey -> jaggery,tags idf,4,
+gold_pairs,garlic -> garlic paste,tags idf,,same_source
+gold_pairs,garlic paste -> garlic,tags idf,,same_source
+gold_pairs,ginger paste -> ginger juice,tags idf,,same_source
+gold_pairs,ginger juice -> ginger paste,tags idf,,same_source
+gold_pairs,green chilies -> green chilli paste,tags idf,,same_source
+gold_pairs,green chilli paste -> green chilies,tags idf,,same_source
+gold_pairs,green chilies -> fresh red chilies,tags idf,,same_source
+gold_pairs,dried red chilies -> red chilli powder,tags idf,,same_source
+gold_pairs,dried red chilies -> red chilli flakes,tags idf,,same_source
+gold_pairs,dried red chilies -> dried byadagi chilies,tags idf,,same_source
+gold_pairs,dried red chilies -> dried guntur chilies,tags idf,,same_source
+gold_pairs,red chilli powder -> dried red chilies,tags idf,,same_source
+gold_pairs,red chilli powder -> red chilli flakes,tags idf,,same_source
+gold_pairs,dried byadagi chilies -> dried red chilies,tags idf,,same_source
+gold_pairs,dried guntur chilies -> dried red chilies,tags idf,,same_source
+gold_pairs,tomato -> tomato paste,tags idf,,same_source
+gold_pairs,tomato -> tamarind,tags idf,11,
+gold_pairs,tomato -> curd,tags idf,31,
+gold_pairs,tomato paste -> tomato,tags idf,,same_source
+gold_pairs,tamarind -> tamarind paste,tags idf,,same_source
+gold_pairs,tamarind -> tamarind water,tags idf,,same_source
+gold_pairs,tamarind -> wild mangosteen,tags idf,18,
+gold_pairs,tamarind -> raw mango,tags idf,15,
+gold_pairs,tamarind -> dried mango powder,tags idf,20,
+gold_pairs,tamarind -> lemon,tags idf,40,
+gold_pairs,tamarind paste -> tamarind,tags idf,,same_source
+gold_pairs,tamarind water -> tamarind,tags idf,,same_source
+gold_pairs,raw mango -> dried mango powder,tags idf,,same_source
+gold_pairs,raw mango -> tamarind,tags idf,15,
+gold_pairs,raw mango -> lemon,tags idf,7,
+gold_pairs,dried mango powder -> lemon,tags idf,6,
+gold_pairs,dried mango powder -> raw mango,tags idf,,same_source
+gold_pairs,dried mango powder -> tamarind,tags idf,19,
+gold_pairs,lemon -> dried mango powder,tags idf,6,
+gold_pairs,lemon -> tamarind,tags idf,49,
+gold_pairs,lemon -> vinegar,tags idf,21,
+gold_pairs,wild mangosteen -> tamarind,tags idf,19,
+gold_pairs,wild mangosteen -> lemon,tags idf,11,
+gold_pairs,coriander seeds -> coriander powder,tags idf,,same_source
+gold_pairs,coriander powder -> coriander seeds,tags idf,,same_source
+gold_pairs,cumin seeds -> cumin powder,tags idf,,same_source
+gold_pairs,cumin powder -> cumin seeds,tags idf,,same_source
+gold_pairs,fennel seeds -> fennel powder,tags idf,,same_source
+gold_pairs,fennel powder -> fennel seeds,tags idf,,same_source
+gold_pairs,fenugreek seeds -> fenugreek powder,tags idf,,same_source
+gold_pairs,fenugreek powder -> fenugreek seeds,tags idf,,same_source
+gold_pairs,cinnamon stick -> cinnamon powder,tags idf,,same_source
+gold_pairs,cinnamon powder -> cinnamon stick,tags idf,,same_source
+gold_pairs,cardamom pods -> cardamom powder,tags idf,,same_source
+gold_pairs,cardamom powder -> cardamom pods,tags idf,,same_source
+gold_pairs,black pepper corns -> black pepper powder,tags idf,,same_source
+gold_pairs,black pepper powder -> black pepper corns,tags idf,,same_source
+gold_pairs,black pepper powder -> white pepper powder,tags idf,,same_source
+gold_pairs,white pepper powder -> black pepper powder,tags idf,,same_source
+gold_pairs,fresh turmeric -> turmeric powder,tags idf,,same_source
+gold_pairs,turmeric powder -> fresh turmeric,tags idf,,same_source
+gold_pairs,dry ginger powder -> ginger paste,tags idf,,same_source
+gold_pairs,black mustard seeds -> yellow mustard seeds,tags idf,2,
+gold_pairs,yellow mustard seeds -> black mustard seeds,tags idf,1,
+gold_pairs,nigella seeds -> black cumin,tags idf,2,
+gold_pairs,carom seeds -> cumin seeds,tags idf,5,
+gold_pairs,star anise -> fennel seeds,tags idf,2,
+gold_pairs,mace -> nutmeg,tags idf,8,
+gold_pairs,nutmeg -> mace,tags idf,9,
+gold_pairs,fresh fenugreek leaves -> dried fenugreek leaves,tags idf,,same_source
+gold_pairs,dried fenugreek leaves -> fresh fenugreek leaves,tags idf,,same_source
+gold_pairs,spinach leaves -> spinach powder,tags idf,1,
+gold_pairs,spinach leaves -> amaranth leaves,tags idf,11,
+gold_pairs,fresh peppermint leaves -> peppermint extract,tags idf,,same_source
+gold_pairs,coriander leaves -> dill leaves,tags idf,6,
+gold_pairs,coconut -> dry coconut,tags idf,,same_source
+gold_pairs,coconut -> coconut milk,tags idf,,same_source
+gold_pairs,dry coconut -> coconut,tags idf,,same_source
+gold_pairs,coconut milk -> cream,tags idf,2,
+gold_pairs,coconut milk -> cashew nuts,tags idf,9,
+gold_pairs,cashew nuts -> almonds,tags idf,7,
+gold_pairs,cashew nuts -> melon seeds,tags idf,6,
+gold_pairs,cashew nuts -> peanuts,tags idf,21,
+gold_pairs,almonds -> cashew nuts,tags idf,3,
+gold_pairs,melon seeds -> cashew nuts,tags idf,1,
+gold_pairs,peanuts -> cashew nuts,tags idf,15,
+gold_pairs,poppy seeds -> cashew nuts,tags idf,58,
+gold_pairs,poppy seeds -> melon seeds,tags idf,28,
+gold_pairs,poppy seeds -> sesame seeds,tags idf,86,
+gold_pairs,basmati rice -> white rice,tags idf,,same_source
+gold_pairs,basmati rice -> brown rice,tags idf,1,
+gold_pairs,white rice -> basmati rice,tags idf,,same_source
+gold_pairs,white rice -> short-grain parboiled rice,tags idf,,same_source
+gold_pairs,white rice -> foxtail millet,tags idf,23,
+gold_pairs,white rice -> barnyard millet,tags idf,22,
+gold_pairs,white rice -> kodo millet,tags idf,24,
+gold_pairs,white rice -> little millet,tags idf,25,
+gold_pairs,short-grain parboiled rice -> white rice,tags idf,,same_source
+gold_pairs,flattened rice -> puffed rice,tags idf,,same_source
+gold_pairs,wheat flour -> sorghum flour,tags idf,19,
+gold_pairs,wheat flour -> pearl millet flour,tags idf,13,
+gold_pairs,wheat flour -> finger millet,tags idf,18,
+gold_pairs,wheat flour -> refined flour,tags idf,3,
+gold_pairs,refined flour -> wheat flour,tags idf,4,
+gold_pairs,refined flour -> rice flour,tags idf,1,
+gold_pairs,refined flour -> corn flour,tags idf,5,
+gold_pairs,corn flour -> rice flour,tags idf,8,
+gold_pairs,corn flour -> tapioca pearls,tags idf,4,
+gold_pairs,gram flour -> bengal gram,tags idf,,same_source
+gold_pairs,bengal gram -> gram flour,tags idf,,same_source
+gold_pairs,split pigeon pea -> red lentil,tags idf,9,
+gold_pairs,split pigeon pea -> hulled mung beans,tags idf,5,
+gold_pairs,red lentil -> split pigeon pea,tags idf,9,
+gold_pairs,red lentil -> hulled mung beans,tags idf,5,
+gold_pairs,hulled mung beans -> mung bean,tags idf,,same_source
+gold_pairs,hulled mung beans -> split pigeon pea,tags idf,8,
+gold_pairs,black chickpeas -> white chickpeas,tags idf,,same_source
+gold_pairs,white chickpeas -> black chickpeas,tags idf,,same_source
+gold_pairs,black gram -> split skinned black gram,tags idf,1,
+gold_pairs,split skinned black gram -> black gram,tags idf,1,
+gold_pairs,potato -> sweet potato,tags idf,49,
+gold_pairs,potato -> raw banana,tags idf,22,
+gold_pairs,potato -> colocasia,tags idf,60,
+gold_pairs,potato -> elephant yam,tags idf,99,
+gold_pairs,sweet potato -> potato,tags idf,21,
+gold_pairs,raw banana -> potato,tags idf,34,
+gold_pairs,brinjal -> ridge gourd,tags idf,142,
+gold_pairs,bottle gourd -> ash gourd,tags idf,4,
+gold_pairs,bottle gourd -> ridge gourd,tags idf,3,
+gold_pairs,bottle gourd -> snake gourd,tags idf,6,
+gold_pairs,ridge gourd -> spine gourd,tags idf,81,
+gold_pairs,ridge gourd -> bottle gourd,tags idf,1,
+gold_pairs,pointed gourd -> ivy gourd,tags idf,17,
+gold_pairs,ivy gourd -> pointed gourd,tags idf,22,
+gold_pairs,green zucchini -> bottle gourd,tags idf,1,
+gold_pairs,green bell pepper -> red bell pepper,tags idf,11,
+gold_pairs,red bell pepper -> green bell pepper,tags idf,11,
+gold_pairs,onion -> pearl onion,tags idf,,same_source
+gold_pairs,onion -> spring onion,tags idf,3,
+gold_pairs,pearl onion -> onion,tags idf,,same_source
+gold_pairs,spring onion -> onion,tags idf,2,
+gold_pairs,chicken -> boneless chicken,tags idf,,same_source
+gold_pairs,boneless chicken -> chicken,tags idf,,same_source
+gold_pairs,chicken legs -> chicken,tags idf,,same_source
+gold_pairs,boneless chicken -> soya chunks,tags idf,7,
+gold_pairs,boneless chicken -> unripe jackfruit,tags idf,,not_scored
+gold_pairs,boneless chicken -> cottage cheese,tags idf,,not_scored
+gold_pairs,boneless mutton -> unripe jackfruit,tags idf,,not_scored
+gold_pairs,boneless mutton -> soya chunks,tags idf,9,
+gold_pairs,boneless mutton -> elephant yam,tags idf,,not_scored
+gold_pairs,rohu fish -> kingfish,tags idf,4,
+gold_pairs,kingfish -> pomfret,tags idf,1,
+gold_pairs,pomfret -> kingfish,tags idf,1,
+gold_pairs,sardine -> mackerel,tags idf,2,
+gold_pairs,mackerel -> sardine,tags idf,3,
+gold_pairs,salt -> black salt,tags idf,2,
+gold_pairs,black salt -> salt,tags idf,2,
+gold_pairs,ghee -> butter,best jaccard,8,
+gold_pairs,ghee -> coconut oil,best jaccard,10,
+gold_pairs,ghee -> groundnut oil,best jaccard,13,
+gold_pairs,ghee -> sunflower oil,best jaccard,28,
+gold_pairs,ghee -> virgin olive oil,best jaccard,,not_scored
+gold_pairs,butter -> ghee,best jaccard,9,
+gold_pairs,butter -> sunflower oil,best jaccard,19,
+gold_pairs,butter -> virgin olive oil,best jaccard,173,
+gold_pairs,sunflower oil -> groundnut oil,best jaccard,1,
+gold_pairs,sunflower oil -> sesame oil,best jaccard,18,
+gold_pairs,sunflower oil -> coconut oil,best jaccard,28,
+gold_pairs,groundnut oil -> sunflower oil,best jaccard,2,
+gold_pairs,groundnut oil -> sesame oil,best jaccard,5,
+gold_pairs,yellow mustard oil -> sunflower oil,best jaccard,51,
+gold_pairs,coconut oil -> sunflower oil,best jaccard,19,
+gold_pairs,virgin olive oil -> sunflower oil,best jaccard,25,
+gold_pairs,cream -> cashew nuts,best jaccard,9,
+gold_pairs,cream -> coconut milk,best jaccard,1,
+gold_pairs,cream -> melon seeds,best jaccard,16,
+gold_pairs,cream -> milk,best jaccard,6,
+gold_pairs,cream -> curd,best jaccard,18,
+gold_pairs,milk -> coconut milk,best jaccard,2,
+gold_pairs,milk -> milk powder,best jaccard,,same_source
+gold_pairs,milk powder -> khoya,best jaccard,2,
+gold_pairs,khoya -> milk powder,best jaccard,2,
+gold_pairs,khoya -> chenna,best jaccard,6,
+gold_pairs,chenna -> cottage cheese,best jaccard,3,
+gold_pairs,cottage cheese -> tofu,best jaccard,105,
+gold_pairs,cottage cheese -> chenna,best jaccard,4,
+gold_pairs,curd -> buttermilk,best jaccard,1,
+gold_pairs,curd -> hung yogurt,best jaccard,,same_source
+gold_pairs,hung yogurt -> curd,best jaccard,,same_source
+gold_pairs,buttermilk -> curd,best jaccard,1,
+gold_pairs,sugar -> jaggery,best jaccard,41,
+gold_pairs,sugar -> rock sugar,best jaccard,1,
+gold_pairs,sugar -> honey,best jaccard,118,
+gold_pairs,jaggery -> sugar,best jaccard,19,
+gold_pairs,jaggery -> dates,best jaccard,1,
+gold_pairs,rock sugar -> sugar,best jaccard,1,
+gold_pairs,honey -> sugar,best jaccard,65,
+gold_pairs,honey -> jaggery,best jaccard,2,
+gold_pairs,garlic -> garlic paste,best jaccard,,same_source
+gold_pairs,garlic paste -> garlic,best jaccard,,same_source
+gold_pairs,ginger paste -> ginger juice,best jaccard,,same_source
+gold_pairs,ginger juice -> ginger paste,best jaccard,,same_source
+gold_pairs,green chilies -> green chilli paste,best jaccard,,same_source
+gold_pairs,green chilli paste -> green chilies,best jaccard,,same_source
+gold_pairs,green chilies -> fresh red chilies,best jaccard,,same_source
+gold_pairs,dried red chilies -> red chilli powder,best jaccard,,same_source
+gold_pairs,dried red chilies -> red chilli flakes,best jaccard,,same_source
+gold_pairs,dried red chilies -> dried byadagi chilies,best jaccard,,same_source
+gold_pairs,dried red chilies -> dried guntur chilies,best jaccard,,same_source
+gold_pairs,red chilli powder -> dried red chilies,best jaccard,,same_source
+gold_pairs,red chilli powder -> red chilli flakes,best jaccard,,same_source
+gold_pairs,dried byadagi chilies -> dried red chilies,best jaccard,,same_source
+gold_pairs,dried guntur chilies -> dried red chilies,best jaccard,,same_source
+gold_pairs,tomato -> tomato paste,best jaccard,,same_source
+gold_pairs,tomato -> tamarind,best jaccard,17,
+gold_pairs,tomato -> curd,best jaccard,80,
+gold_pairs,tomato paste -> tomato,best jaccard,,same_source
+gold_pairs,tamarind -> tamarind paste,best jaccard,,same_source
+gold_pairs,tamarind -> tamarind water,best jaccard,,same_source
+gold_pairs,tamarind -> wild mangosteen,best jaccard,12,
+gold_pairs,tamarind -> raw mango,best jaccard,21,
+gold_pairs,tamarind -> dried mango powder,best jaccard,15,
+gold_pairs,tamarind -> lemon,best jaccard,92,
+gold_pairs,tamarind paste -> tamarind,best jaccard,,same_source
+gold_pairs,tamarind water -> tamarind,best jaccard,,same_source
+gold_pairs,raw mango -> dried mango powder,best jaccard,,same_source
+gold_pairs,raw mango -> tamarind,best jaccard,19,
+gold_pairs,raw mango -> lemon,best jaccard,7,
+gold_pairs,dried mango powder -> lemon,best jaccard,4,
+gold_pairs,dried mango powder -> raw mango,best jaccard,,same_source
+gold_pairs,dried mango powder -> tamarind,best jaccard,18,
+gold_pairs,lemon -> dried mango powder,best jaccard,4,
+gold_pairs,lemon -> tamarind,best jaccard,66,
+gold_pairs,lemon -> vinegar,best jaccard,25,
+gold_pairs,wild mangosteen -> tamarind,best jaccard,12,
+gold_pairs,wild mangosteen -> lemon,best jaccard,16,
+gold_pairs,coriander seeds -> coriander powder,best jaccard,,same_source
+gold_pairs,coriander powder -> coriander seeds,best jaccard,,same_source
+gold_pairs,cumin seeds -> cumin powder,best jaccard,,same_source
+gold_pairs,cumin powder -> cumin seeds,best jaccard,,same_source
+gold_pairs,fennel seeds -> fennel powder,best jaccard,,same_source
+gold_pairs,fennel powder -> fennel seeds,best jaccard,,same_source
+gold_pairs,fenugreek seeds -> fenugreek powder,best jaccard,,same_source
+gold_pairs,fenugreek powder -> fenugreek seeds,best jaccard,,same_source
+gold_pairs,cinnamon stick -> cinnamon powder,best jaccard,,same_source
+gold_pairs,cinnamon powder -> cinnamon stick,best jaccard,,same_source
+gold_pairs,cardamom pods -> cardamom powder,best jaccard,,same_source
+gold_pairs,cardamom powder -> cardamom pods,best jaccard,,same_source
+gold_pairs,black pepper corns -> black pepper powder,best jaccard,,same_source
+gold_pairs,black pepper powder -> black pepper corns,best jaccard,,same_source
+gold_pairs,black pepper powder -> white pepper powder,best jaccard,,same_source
+gold_pairs,white pepper powder -> black pepper powder,best jaccard,,same_source
+gold_pairs,fresh turmeric -> turmeric powder,best jaccard,,same_source
+gold_pairs,turmeric powder -> fresh turmeric,best jaccard,,same_source
+gold_pairs,dry ginger powder -> ginger paste,best jaccard,,same_source
+gold_pairs,black mustard seeds -> yellow mustard seeds,best jaccard,2,
+gold_pairs,yellow mustard seeds -> black mustard seeds,best jaccard,1,
+gold_pairs,nigella seeds -> black cumin,best jaccard,2,
+gold_pairs,carom seeds -> cumin seeds,best jaccard,6,
+gold_pairs,star anise -> fennel seeds,best jaccard,4,
+gold_pairs,mace -> nutmeg,best jaccard,6,
+gold_pairs,nutmeg -> mace,best jaccard,7,
+gold_pairs,fresh fenugreek leaves -> dried fenugreek leaves,best jaccard,,same_source
+gold_pairs,dried fenugreek leaves -> fresh fenugreek leaves,best jaccard,,same_source
+gold_pairs,spinach leaves -> spinach powder,best jaccard,1,
+gold_pairs,spinach leaves -> amaranth leaves,best jaccard,5,
+gold_pairs,fresh peppermint leaves -> peppermint extract,best jaccard,,same_source
+gold_pairs,coriander leaves -> dill leaves,best jaccard,9,
+gold_pairs,coconut -> dry coconut,best jaccard,,same_source
+gold_pairs,coconut -> coconut milk,best jaccard,,same_source
+gold_pairs,dry coconut -> coconut,best jaccard,,same_source
+gold_pairs,coconut milk -> cream,best jaccard,2,
+gold_pairs,coconut milk -> cashew nuts,best jaccard,9,
+gold_pairs,cashew nuts -> almonds,best jaccard,7,
+gold_pairs,cashew nuts -> melon seeds,best jaccard,5,
+gold_pairs,cashew nuts -> peanuts,best jaccard,14,
+gold_pairs,almonds -> cashew nuts,best jaccard,1,
+gold_pairs,melon seeds -> cashew nuts,best jaccard,1,
+gold_pairs,peanuts -> cashew nuts,best jaccard,5,
+gold_pairs,poppy seeds -> cashew nuts,best jaccard,44,
+gold_pairs,poppy seeds -> melon seeds,best jaccard,29,
+gold_pairs,poppy seeds -> sesame seeds,best jaccard,91,
+gold_pairs,basmati rice -> white rice,best jaccard,,same_source
+gold_pairs,basmati rice -> brown rice,best jaccard,1,
+gold_pairs,white rice -> basmati rice,best jaccard,,same_source
+gold_pairs,white rice -> short-grain parboiled rice,best jaccard,,same_source
+gold_pairs,white rice -> foxtail millet,best jaccard,37,
+gold_pairs,white rice -> barnyard millet,best jaccard,34,
+gold_pairs,white rice -> kodo millet,best jaccard,38,
+gold_pairs,white rice -> little millet,best jaccard,39,
+gold_pairs,short-grain parboiled rice -> white rice,best jaccard,,same_source
+gold_pairs,flattened rice -> puffed rice,best jaccard,,same_source
+gold_pairs,wheat flour -> sorghum flour,best jaccard,26,
+gold_pairs,wheat flour -> pearl millet flour,best jaccard,8,
+gold_pairs,wheat flour -> finger millet,best jaccard,21,
+gold_pairs,wheat flour -> refined flour,best jaccard,3,
+gold_pairs,refined flour -> wheat flour,best jaccard,10,
+gold_pairs,refined flour -> rice flour,best jaccard,1,
+gold_pairs,refined flour -> corn flour,best jaccard,2,
+gold_pairs,corn flour -> rice flour,best jaccard,8,
+gold_pairs,corn flour -> tapioca pearls,best jaccard,4,
+gold_pairs,gram flour -> bengal gram,best jaccard,,same_source
+gold_pairs,bengal gram -> gram flour,best jaccard,,same_source
+gold_pairs,split pigeon pea -> red lentil,best jaccard,9,
+gold_pairs,split pigeon pea -> hulled mung beans,best jaccard,5,
+gold_pairs,red lentil -> split pigeon pea,best jaccard,9,
+gold_pairs,red lentil -> hulled mung beans,best jaccard,5,
+gold_pairs,hulled mung beans -> mung bean,best jaccard,,same_source
+gold_pairs,hulled mung beans -> split pigeon pea,best jaccard,8,
+gold_pairs,black chickpeas -> white chickpeas,best jaccard,,same_source
+gold_pairs,white chickpeas -> black chickpeas,best jaccard,,same_source
+gold_pairs,black gram -> split skinned black gram,best jaccard,1,
+gold_pairs,split skinned black gram -> black gram,best jaccard,1,
+gold_pairs,potato -> sweet potato,best jaccard,40,
+gold_pairs,potato -> raw banana,best jaccard,19,
+gold_pairs,potato -> colocasia,best jaccard,59,
+gold_pairs,potato -> elephant yam,best jaccard,198,
+gold_pairs,sweet potato -> potato,best jaccard,4,
+gold_pairs,raw banana -> potato,best jaccard,26,
+gold_pairs,brinjal -> ridge gourd,best jaccard,123,
+gold_pairs,bottle gourd -> ash gourd,best jaccard,5,
+gold_pairs,bottle gourd -> ridge gourd,best jaccard,3,
+gold_pairs,bottle gourd -> snake gourd,best jaccard,70,
+gold_pairs,ridge gourd -> spine gourd,best jaccard,143,
+gold_pairs,ridge gourd -> bottle gourd,best jaccard,1,
+gold_pairs,pointed gourd -> ivy gourd,best jaccard,33,
+gold_pairs,ivy gourd -> pointed gourd,best jaccard,45,
+gold_pairs,green zucchini -> bottle gourd,best jaccard,1,
+gold_pairs,green bell pepper -> red bell pepper,best jaccard,18,
+gold_pairs,red bell pepper -> green bell pepper,best jaccard,7,
+gold_pairs,onion -> pearl onion,best jaccard,,same_source
+gold_pairs,onion -> spring onion,best jaccard,3,
+gold_pairs,pearl onion -> onion,best jaccard,,same_source
+gold_pairs,spring onion -> onion,best jaccard,2,
+gold_pairs,chicken -> boneless chicken,best jaccard,,same_source
+gold_pairs,boneless chicken -> chicken,best jaccard,,same_source
+gold_pairs,chicken legs -> chicken,best jaccard,,same_source
+gold_pairs,boneless chicken -> soya chunks,best jaccard,14,
+gold_pairs,boneless chicken -> unripe jackfruit,best jaccard,129,
+gold_pairs,boneless chicken -> cottage cheese,best jaccard,23,
+gold_pairs,boneless mutton -> unripe jackfruit,best jaccard,106,
+gold_pairs,boneless mutton -> soya chunks,best jaccard,12,
+gold_pairs,boneless mutton -> elephant yam,best jaccard,,not_scored
+gold_pairs,rohu fish -> kingfish,best jaccard,7,
+gold_pairs,kingfish -> pomfret,best jaccard,1,
+gold_pairs,pomfret -> kingfish,best jaccard,1,
+gold_pairs,sardine -> mackerel,best jaccard,2,
+gold_pairs,mackerel -> sardine,best jaccard,3,
+gold_pairs,salt -> black salt,best jaccard,2,
+gold_pairs,black salt -> salt,best jaccard,5,
+gold_pairs,ghee -> butter,best idf,8,
+gold_pairs,ghee -> coconut oil,best idf,9,
+gold_pairs,ghee -> groundnut oil,best idf,20,
+gold_pairs,ghee -> sunflower oil,best idf,24,
+gold_pairs,ghee -> virgin olive oil,best idf,,not_scored
+gold_pairs,butter -> ghee,best idf,6,
+gold_pairs,butter -> sunflower oil,best idf,9,
+gold_pairs,butter -> virgin olive oil,best idf,31,
+gold_pairs,sunflower oil -> groundnut oil,best idf,1,
+gold_pairs,sunflower oil -> sesame oil,best idf,6,
+gold_pairs,sunflower oil -> coconut oil,best idf,11,
+gold_pairs,groundnut oil -> sunflower oil,best idf,1,
+gold_pairs,groundnut oil -> sesame oil,best idf,4,
+gold_pairs,yellow mustard oil -> sunflower oil,best idf,22,
+gold_pairs,coconut oil -> sunflower oil,best idf,9,
+gold_pairs,virgin olive oil -> sunflower oil,best idf,3,
+gold_pairs,cream -> cashew nuts,best idf,9,
+gold_pairs,cream -> coconut milk,best idf,1,
+gold_pairs,cream -> melon seeds,best idf,18,
+gold_pairs,cream -> milk,best idf,4,
+gold_pairs,cream -> curd,best idf,14,
+gold_pairs,milk -> coconut milk,best idf,2,
+gold_pairs,milk -> milk powder,best idf,,same_source
+gold_pairs,milk powder -> khoya,best idf,2,
+gold_pairs,khoya -> milk powder,best idf,2,
+gold_pairs,khoya -> chenna,best idf,6,
+gold_pairs,chenna -> cottage cheese,best idf,3,
+gold_pairs,cottage cheese -> tofu,best idf,108,
+gold_pairs,cottage cheese -> chenna,best idf,4,
+gold_pairs,curd -> buttermilk,best idf,1,
+gold_pairs,curd -> hung yogurt,best idf,,same_source
+gold_pairs,hung yogurt -> curd,best idf,,same_source
+gold_pairs,buttermilk -> curd,best idf,1,
+gold_pairs,sugar -> jaggery,best idf,137,
+gold_pairs,sugar -> rock sugar,best idf,1,
+gold_pairs,sugar -> honey,best idf,151,
+gold_pairs,jaggery -> sugar,best idf,29,
+gold_pairs,jaggery -> dates,best idf,1,
+gold_pairs,rock sugar -> sugar,best idf,1,
+gold_pairs,honey -> sugar,best idf,151,
+gold_pairs,honey -> jaggery,best idf,4,
+gold_pairs,garlic -> garlic paste,best idf,,same_source
+gold_pairs,garlic paste -> garlic,best idf,,same_source
+gold_pairs,ginger paste -> ginger juice,best idf,,same_source
+gold_pairs,ginger juice -> ginger paste,best idf,,same_source
+gold_pairs,green chilies -> green chilli paste,best idf,,same_source
+gold_pairs,green chilli paste -> green chilies,best idf,,same_source
+gold_pairs,green chilies -> fresh red chilies,best idf,,same_source
+gold_pairs,dried red chilies -> red chilli powder,best idf,,same_source
+gold_pairs,dried red chilies -> red chilli flakes,best idf,,same_source
+gold_pairs,dried red chilies -> dried byadagi chilies,best idf,,same_source
+gold_pairs,dried red chilies -> dried guntur chilies,best idf,,same_source
+gold_pairs,red chilli powder -> dried red chilies,best idf,,same_source
+gold_pairs,red chilli powder -> red chilli flakes,best idf,,same_source
+gold_pairs,dried byadagi chilies -> dried red chilies,best idf,,same_source
+gold_pairs,dried guntur chilies -> dried red chilies,best idf,,same_source
+gold_pairs,tomato -> tomato paste,best idf,,same_source
+gold_pairs,tomato -> tamarind,best idf,11,
+gold_pairs,tomato -> curd,best idf,53,
+gold_pairs,tomato paste -> tomato,best idf,,same_source
+gold_pairs,tamarind -> tamarind paste,best idf,,same_source
+gold_pairs,tamarind -> tamarind water,best idf,,same_source
+gold_pairs,tamarind -> wild mangosteen,best idf,18,
+gold_pairs,tamarind -> raw mango,best idf,15,
+gold_pairs,tamarind -> dried mango powder,best idf,20,
+gold_pairs,tamarind -> lemon,best idf,63,
+gold_pairs,tamarind paste -> tamarind,best idf,,same_source
+gold_pairs,tamarind water -> tamarind,best idf,,same_source
+gold_pairs,raw mango -> dried mango powder,best idf,,same_source
+gold_pairs,raw mango -> tamarind,best idf,15,
+gold_pairs,raw mango -> lemon,best idf,7,
+gold_pairs,dried mango powder -> lemon,best idf,6,
+gold_pairs,dried mango powder -> raw mango,best idf,,same_source
+gold_pairs,dried mango powder -> tamarind,best idf,19,
+gold_pairs,lemon -> dried mango powder,best idf,6,
+gold_pairs,lemon -> tamarind,best idf,52,
+gold_pairs,lemon -> vinegar,best idf,24,
+gold_pairs,wild mangosteen -> tamarind,best idf,19,
+gold_pairs,wild mangosteen -> lemon,best idf,11,
+gold_pairs,coriander seeds -> coriander powder,best idf,,same_source
+gold_pairs,coriander powder -> coriander seeds,best idf,,same_source
+gold_pairs,cumin seeds -> cumin powder,best idf,,same_source
+gold_pairs,cumin powder -> cumin seeds,best idf,,same_source
+gold_pairs,fennel seeds -> fennel powder,best idf,,same_source
+gold_pairs,fennel powder -> fennel seeds,best idf,,same_source
+gold_pairs,fenugreek seeds -> fenugreek powder,best idf,,same_source
+gold_pairs,fenugreek powder -> fenugreek seeds,best idf,,same_source
+gold_pairs,cinnamon stick -> cinnamon powder,best idf,,same_source
+gold_pairs,cinnamon powder -> cinnamon stick,best idf,,same_source
+gold_pairs,cardamom pods -> cardamom powder,best idf,,same_source
+gold_pairs,cardamom powder -> cardamom pods,best idf,,same_source
+gold_pairs,black pepper corns -> black pepper powder,best idf,,same_source
+gold_pairs,black pepper powder -> black pepper corns,best idf,,same_source
+gold_pairs,black pepper powder -> white pepper powder,best idf,,same_source
+gold_pairs,white pepper powder -> black pepper powder,best idf,,same_source
+gold_pairs,fresh turmeric -> turmeric powder,best idf,,same_source
+gold_pairs,turmeric powder -> fresh turmeric,best idf,,same_source
+gold_pairs,dry ginger powder -> ginger paste,best idf,,same_source
+gold_pairs,black mustard seeds -> yellow mustard seeds,best idf,2,
+gold_pairs,yellow mustard seeds -> black mustard seeds,best idf,1,
+gold_pairs,nigella seeds -> black cumin,best idf,2,
+gold_pairs,carom seeds -> cumin seeds,best idf,5,
+gold_pairs,star anise -> fennel seeds,best idf,2,
+gold_pairs,mace -> nutmeg,best idf,8,
+gold_pairs,nutmeg -> mace,best idf,9,
+gold_pairs,fresh fenugreek leaves -> dried fenugreek leaves,best idf,,same_source
+gold_pairs,dried fenugreek leaves -> fresh fenugreek leaves,best idf,,same_source
+gold_pairs,spinach leaves -> spinach powder,best idf,1,
+gold_pairs,spinach leaves -> amaranth leaves,best idf,11,
+gold_pairs,fresh peppermint leaves -> peppermint extract,best idf,,same_source
+gold_pairs,coriander leaves -> dill leaves,best idf,6,
+gold_pairs,coconut -> dry coconut,best idf,,same_source
+gold_pairs,coconut -> coconut milk,best idf,,same_source
+gold_pairs,dry coconut -> coconut,best idf,,same_source
+gold_pairs,coconut milk -> cream,best idf,2,
+gold_pairs,coconut milk -> cashew nuts,best idf,9,
+gold_pairs,cashew nuts -> almonds,best idf,7,
+gold_pairs,cashew nuts -> melon seeds,best idf,6,
+gold_pairs,cashew nuts -> peanuts,best idf,22,
+gold_pairs,almonds -> cashew nuts,best idf,3,
+gold_pairs,melon seeds -> cashew nuts,best idf,1,
+gold_pairs,peanuts -> cashew nuts,best idf,23,
+gold_pairs,poppy seeds -> cashew nuts,best idf,58,
+gold_pairs,poppy seeds -> melon seeds,best idf,28,
+gold_pairs,poppy seeds -> sesame seeds,best idf,86,
+gold_pairs,basmati rice -> white rice,best idf,,same_source
+gold_pairs,basmati rice -> brown rice,best idf,1,
+gold_pairs,white rice -> basmati rice,best idf,,same_source
+gold_pairs,white rice -> short-grain parboiled rice,best idf,,same_source
+gold_pairs,white rice -> foxtail millet,best idf,27,
+gold_pairs,white rice -> barnyard millet,best idf,26,
+gold_pairs,white rice -> kodo millet,best idf,28,
+gold_pairs,white rice -> little millet,best idf,29,
+gold_pairs,short-grain parboiled rice -> white rice,best idf,,same_source
+gold_pairs,flattened rice -> puffed rice,best idf,,same_source
+gold_pairs,wheat flour -> sorghum flour,best idf,19,
+gold_pairs,wheat flour -> pearl millet flour,best idf,13,
+gold_pairs,wheat flour -> finger millet,best idf,18,
+gold_pairs,wheat flour -> refined flour,best idf,3,
+gold_pairs,refined flour -> wheat flour,best idf,4,
+gold_pairs,refined flour -> rice flour,best idf,1,
+gold_pairs,refined flour -> corn flour,best idf,5,
+gold_pairs,corn flour -> rice flour,best idf,8,
+gold_pairs,corn flour -> tapioca pearls,best idf,4,
+gold_pairs,gram flour -> bengal gram,best idf,,same_source
+gold_pairs,bengal gram -> gram flour,best idf,,same_source
+gold_pairs,split pigeon pea -> red lentil,best idf,9,
+gold_pairs,split pigeon pea -> hulled mung beans,best idf,5,
+gold_pairs,red lentil -> split pigeon pea,best idf,9,
+gold_pairs,red lentil -> hulled mung beans,best idf,5,
+gold_pairs,hulled mung beans -> mung bean,best idf,,same_source
+gold_pairs,hulled mung beans -> split pigeon pea,best idf,8,
+gold_pairs,black chickpeas -> white chickpeas,best idf,,same_source
+gold_pairs,white chickpeas -> black chickpeas,best idf,,same_source
+gold_pairs,black gram -> split skinned black gram,best idf,1,
+gold_pairs,split skinned black gram -> black gram,best idf,1,
+gold_pairs,potato -> sweet potato,best idf,54,
+gold_pairs,potato -> raw banana,best idf,22,
+gold_pairs,potato -> colocasia,best idf,78,
+gold_pairs,potato -> elephant yam,best idf,128,
+gold_pairs,sweet potato -> potato,best idf,21,
+gold_pairs,raw banana -> potato,best idf,34,
+gold_pairs,brinjal -> ridge gourd,best idf,142,
+gold_pairs,bottle gourd -> ash gourd,best idf,4,
+gold_pairs,bottle gourd -> ridge gourd,best idf,3,
+gold_pairs,bottle gourd -> snake gourd,best idf,6,
+gold_pairs,ridge gourd -> spine gourd,best idf,81,
+gold_pairs,ridge gourd -> bottle gourd,best idf,1,
+gold_pairs,pointed gourd -> ivy gourd,best idf,17,
+gold_pairs,ivy gourd -> pointed gourd,best idf,22,
+gold_pairs,green zucchini -> bottle gourd,best idf,1,
+gold_pairs,green bell pepper -> red bell pepper,best idf,19,
+gold_pairs,red bell pepper -> green bell pepper,best idf,1,
+gold_pairs,onion -> pearl onion,best idf,,same_source
+gold_pairs,onion -> spring onion,best idf,3,
+gold_pairs,pearl onion -> onion,best idf,,same_source
+gold_pairs,spring onion -> onion,best idf,2,
+gold_pairs,chicken -> boneless chicken,best idf,,same_source
+gold_pairs,boneless chicken -> chicken,best idf,,same_source
+gold_pairs,chicken legs -> chicken,best idf,,same_source
+gold_pairs,boneless chicken -> soya chunks,best idf,7,
+gold_pairs,boneless chicken -> unripe jackfruit,best idf,130,
+gold_pairs,boneless chicken -> cottage cheese,best idf,20,
+gold_pairs,boneless mutton -> unripe jackfruit,best idf,105,
+gold_pairs,boneless mutton -> soya chunks,best idf,9,
+gold_pairs,boneless mutton -> elephant yam,best idf,,not_scored
+gold_pairs,rohu fish -> kingfish,best idf,4,
+gold_pairs,kingfish -> pomfret,best idf,1,
+gold_pairs,pomfret -> kingfish,best idf,1,
+gold_pairs,sardine -> mackerel,best idf,2,
+gold_pairs,mackerel -> sardine,best idf,3,
+gold_pairs,salt -> black salt,best idf,2,
+gold_pairs,black salt -> salt,best idf,2,

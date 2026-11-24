@@ -1,0 +1,193 @@
+ingredient,substitute
+ghee,butter
+ghee,coconut oil
+ghee,groundnut oil
+ghee,sunflower oil
+ghee,virgin olive oil
+butter,ghee
+butter,sunflower oil
+butter,virgin olive oil
+sunflower oil,groundnut oil
+sunflower oil,sesame oil
+sunflower oil,coconut oil
+groundnut oil,sunflower oil
+groundnut oil,sesame oil
+yellow mustard oil,sunflower oil
+coconut oil,sunflower oil
+virgin olive oil,sunflower oil
+cream,cashew nuts
+cream,coconut milk
+cream,melon seeds
+cream,milk
+cream,curd
+milk,coconut milk
+milk,milk powder
+milk powder,khoya
+khoya,milk powder
+khoya,chenna
+chenna,cottage cheese
+cottage cheese,tofu
+cottage cheese,chenna
+curd,buttermilk
+curd,hung yogurt
+hung yogurt,curd
+buttermilk,curd
+sugar,jaggery
+sugar,rock sugar
+sugar,honey
+jaggery,sugar
+jaggery,dates
+rock sugar,sugar
+honey,sugar
+honey,jaggery
+garlic,garlic paste
+garlic paste,garlic
+ginger paste,ginger juice
+ginger juice,ginger paste
+green chilies,green chilli paste
+green chilli paste,green chilies
+green chilies,fresh red chilies
+dried red chilies,red chilli powder
+dried red chilies,red chilli flakes
+dried red chilies,dried byadagi chilies
+dried red chilies,dried guntur chilies
+red chilli powder,dried red chilies
+red chilli powder,red chilli flakes
+dried byadagi chilies,dried red chilies
+dried guntur chilies,dried red chilies
+tomato,tomato paste
+tomato,tamarind
+tomato,curd
+tomato paste,tomato
+tamarind,tamarind paste
+tamarind,tamarind water
+tamarind,wild mangosteen
+tamarind,raw mango
+tamarind,dried mango powder
+tamarind,lemon
+tamarind paste,tamarind
+tamarind water,tamarind
+raw mango,dried mango powder
+raw mango,tamarind
+raw mango,lemon
+dried mango powder,lemon
+dried mango powder,raw mango
+dried mango powder,tamarind
+lemon,dried mango powder
+lemon,tamarind
+lemon,vinegar
+wild mangosteen,tamarind
+wild mangosteen,lemon
+coriander seeds,coriander powder
+coriander powder,coriander seeds
+cumin seeds,cumin powder
+cumin powder,cumin seeds
+fennel seeds,fennel powder
+fennel powder,fennel seeds
+fenugreek seeds,fenugreek powder
+fenugreek powder,fenugreek seeds
+cinnamon stick,cinnamon powder
+cinnamon powder,cinnamon stick
+cardamom pods,cardamom powder
+cardamom powder,cardamom pods
+black pepper corns,black pepper powder
+black pepper powder,black pepper corns
+black pepper powder,white pepper powder
+white pepper powder,black pepper powder
+fresh turmeric,turmeric powder
+turmeric powder,fresh turmeric
+dry ginger powder,ginger paste
+black mustard seeds,yellow mustard seeds
+yellow mustard seeds,black mustard seeds
+nigella seeds,black cumin
+carom seeds,cumin seeds
+star anise,fennel seeds
+mace,nutmeg
+nutmeg,mace
+fresh fenugreek leaves,dried fenugreek leaves
+dried fenugreek leaves,fresh fenugreek leaves
+spinach leaves,spinach powder
+spinach leaves,amaranth leaves
+fresh peppermint leaves,peppermint extract
+coriander leaves,dill leaves
+coconut,dry coconut
+coconut,coconut milk
+dry coconut,coconut
+coconut milk,cream
+coconut milk,cashew nuts
+cashew nuts,almonds
+cashew nuts,melon seeds
+cashew nuts,peanuts
+almonds,cashew nuts
+melon seeds,cashew nuts
+peanuts,cashew nuts
+poppy seeds,cashew nuts
+poppy seeds,melon seeds
+poppy seeds,sesame seeds
+basmati rice,white rice
+basmati rice,brown rice
+white rice,basmati rice
+white rice,short-grain parboiled rice
+white rice,foxtail millet
+white rice,barnyard millet
+white rice,kodo millet
+white rice,little millet
+short-grain parboiled rice,white rice
+flattened rice,puffed rice
+wheat flour,sorghum flour
+wheat flour,pearl millet flour
+wheat flour,finger millet
+wheat flour,refined flour
+refined flour,wheat flour
+refined flour,rice flour
+refined flour,corn flour
+corn flour,rice flour
+corn flour,tapioca pearls
+gram flour,bengal gram
+bengal gram,gram flour
+split pigeon pea,red lentil
+split pigeon pea,hulled mung beans
+red lentil,split pigeon pea
+red lentil,hulled mung beans
+hulled mung beans,mung bean
+hulled mung beans,split pigeon pea
+black chickpeas,white chickpeas
+white chickpeas,black chickpeas
+black gram,split skinned black gram
+split skinned black gram,black gram
+potato,sweet potato
+potato,raw banana
+potato,colocasia
+potato,elephant yam
+sweet potato,potato
+raw banana,potato
+brinjal,ridge gourd
+bottle gourd,ash gourd
+bottle gourd,ridge gourd
+bottle gourd,snake gourd
+ridge gourd,bottle gourd
+pointed gourd,ivy gourd
+ivy gourd,pointed gourd
+green zucchini,bottle gourd
+green bell pepper,red bell pepper
+red bell pepper,green bell pepper
+onion,pearl onion
+onion,spring onion
+pearl onion,onion
+spring onion,onion
+chicken,boneless chicken
+boneless chicken,chicken
+chicken legs,chicken
+boneless chicken,soya chunks
+boneless chicken,unripe jackfruit
+boneless chicken,cottage cheese
+boneless mutton,unripe jackfruit
+boneless mutton,soya chunks
+boneless mutton,elephant yam
+rohu fish,kingfish
+kingfish,pomfret
+pomfret,kingfish
+sardine,mackerel
+mackerel,sardine
+salt,black salt
+black salt,salt
