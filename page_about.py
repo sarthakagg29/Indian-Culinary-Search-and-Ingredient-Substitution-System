@@ -1,20 +1,43 @@
 # Sarthak Aggarwal MT26139
 # Divyanshu Joshi MT26120
-"""About page: static text."""
+"""About page: team first, then how the system works.  Photos are read from the team/ folder if present."""
+from pathlib import Path
+
 import streamlit as st
+
+TEAM_DIR = Path(__file__).parent / "team"
+PEOPLE = [
+    {"name": "Sarthak Aggarwal", "roll": "MT26139", "photo": "sarthak"},
+    {"name": "Divyanshu Joshi", "roll": "MT26120", "photo": "divyanshu"},
+]
+
+
+def _photo(person):
+    """Show team/<name>.jpg (or .jpeg/.png) if it exists, otherwise a round badge with the initials."""
+    for ext in (".jpg", ".jpeg", ".png"):
+        path = TEAM_DIR / (person["photo"] + ext)
+        if path.exists():
+            st.image(str(path), width=170)
+            return
+    initials = "".join(w[0] for w in person["name"].split())
+    st.markdown(f"<div style='width:130px;height:130px;border-radius:50%;background:#E07A1F;color:#fff;"
+                f"display:flex;align-items:center;justify-content:center;font-size:2.6rem;font-weight:700'>"
+                f"{initials}</div>", unsafe_allow_html=True)
 
 
 def render():
-    st.title("ℹ️ About")
-    st.markdown("""
-**CGAS** helps you find ingredients across languages and spellings, and suggests what can replace them.
+    st.title("About")
 
-| Part | What it does | Status in this app |
-|---|---|---|
-| Deliverable 1 | Dataset of 250 Indian ingredients (Hindi, English, Roman spellings, taste, aroma, scientific name) | Live |
-| Deliverable 2 | Multi-language search with typo handling | Live |
-| Deliverable 3 | Shared-flavour overlap score and substitute ranking | Live (uses Ahn et al. compound data, not FlavorDB) |
-| Deliverable 4 | This web app | Live |
+    st.subheader("Team")
+    for col, person in zip(st.columns(2), PEOPLE):
+        with col, st.container(border=True):
+            _photo(person)
+            st.markdown(f"**{person['name']}**  \n{person['roll']}  \nMTech CSE (2026-2028), IIIT Delhi")
+    st.caption("We are Computational Gastronomy students (BIO544, Group 26), working under the guidance of Dr Ganesh Bagler.")
+
+    st.markdown("""
+**Indian Culinary Search and Ingredient Substitution System** helps you find ingredients across languages and
+spellings, and suggests what can replace them.
 
 **How the search treats your words:** it tries an exact name first, then names that start with what you typed,
 then the closest spelling. The label next to each result tells you which one happened.
@@ -28,6 +51,4 @@ not a guarantee the dish will taste right.
 
 **Data sources:** flavour compounds from Ahn, Ahnert, Bagrow and Barabási, *Flavor network and the principles of food pairing*,
 Scientific Reports 1:196 (2011). Smell and taste labels from Deliverable 1.
-
-**Team:** Sarthak Aggarwal (MT26139) · Divyanshu Joshi (MT26120) · Group 26, Computational Gastronomy.
 """)

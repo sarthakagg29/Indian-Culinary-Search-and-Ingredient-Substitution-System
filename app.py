@@ -37,13 +37,13 @@ with st.sidebar:
     st.caption("Indian Culinary Search & Ingredient Substitution")
     st.radio("Menu", PAGES, key="page", label_visibility="collapsed")
     st.divider()
-    st.slider("Substitutes to show", 3, 8, 5, key="top_n",
+    st.slider("Substitutes to show", 1, 5, 5, key="top_n",
               help="How many replacement ideas to list in each group.")
     st.selectbox("Score type", list(backend.METHODS), key="method", format_func=backend.METHODS.get,
                  help="Both measure shared flavour. IDF-weighted counts rare compounds more than common ones.")
     st.caption("Scores use flavour-compound data from Ahn et al. (2011) where an ingredient has it, otherwise "
                "smell and taste labels (marked weaker).")
-    st.caption("Group 26 · Computational Gastronomy")
+    st.caption("Sarthak Aggarwal & Divyanshu Joshi · Group 26 · Computational Gastronomy")
 
 {P_SEARCH: page_search, P_COMPARE: page_compare, P_ANALYSIS: page_analysis,
  P_SOON: page_soon, P_ABOUT: page_about}[st.session_state["page"]].render()

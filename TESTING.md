@@ -26,7 +26,7 @@ Nothing crashed. Some searches give a weak or wrong answer, listed in section 1.
 | 13 | `ghee, sugar` | two sections | sugar: rock sugar 100%, jaggery 25%, honey 20% | | OK |
 | 14 | `g` | no match message | | | OK (too short) |
 | 15 | `shakkar` | hung yogurt, closest guess | curd 100% | | **Wrong.** Should be sugar |
-| 16 | `kanda` | eggs, closest guess | none | crab 50%*, prawns 50%* | **Wrong.** Should be onion |
+| 16 | `kanda` | eggs, closest guess | none | crab 50%*, prawns 50%* | **Wrong before the name fix.** Now an exact match on onion |
 | 17 | `mirchi` | black pepper corns, closest guess | black pepper powder 100% | | **Weak.** Should be a chilli |
 | 18 | `  GHEE  ` | ghee, exact | as row 1 | | OK |
 | 19 | `curd` | curd, exact | hung yogurt 100%, buttermilk 80% | gooseberry 50%*, lemon 40%* | OK |
@@ -47,9 +47,9 @@ They are limits of the Deliverable 2 search (it compares letters, not sounds) an
 listed in Deliverable 2's README. They are not app bugs. The app softens them: guesses are labelled "Closest guess" and a
 dropdown lets the user pick another match.
 
-**Quick fix, no search code changes:** `optional_name_fixes.py` adds `lahsun` to garlic, `shakkar|shakar` to sugar,
+**Fixed in this app's copy of the CSV:** `optional_name_fixes.py` (already applied) added `lahsun` to garlic, `shakkar|shakar` to sugar,
 `jira|zira|zeera` to cumin seeds, `kanda` to onion and `mirchi` to green chilies. Tested earlier on a copy: all seven
-searches then return the right ingredient as an exact match. It edits Deliverable 1's CSV, so agree it with your teammate.
+searches then return the right ingredient as an exact match. It only edits the CSV copy inside this app folder, not the Deliverable 1 original.
 Undo with `git checkout -- D1_input_lookup_ingredient_250_final_dataset.csv`.
 
 ## 2. Live-link test (fill this in after deploying)
@@ -72,7 +72,7 @@ Link tested: ______________________    Date: __________    Browser/device: _____
 | 11 | `xyzabc` | friendly "No match" | | |
 | 12 | `GHEE` with spaces | still ghee | | |
 | 13 | (empty box) | "How it works" panel, no error | | |
-| 14 | `jira`, `lahsun`, `kanda` | known misses (expected to fail unless the name fix was applied) | | |
+| 14 | `jira`, `lahsun`, `kanda` | should now find cumin seeds, garlic and onion (name fix applied) | | |
 | 15 | Click **Compare** on a result | Compare page opens with both ingredients chosen | | |
 
 Then click through the menu once: Analysis (all three tabs), New Features Coming (try the filter buttons), About.

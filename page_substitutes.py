@@ -14,17 +14,23 @@ def _card(term_no, index, sub):
             hindi = f" · {sub['hindi']}" if sub["hindi"] else ""
             st.markdown(f"**{sub['english_name']}**{hindi}", help=sub["category"])
             st.markdown(basis_badge(sub["basis"], sub["weaker"], sub["known"]), unsafe_allow_html=True)
-            st.caption(sub["tip"])
+            if sub["tip"] != "Hand-picked known swap.":      # the badge already says it
+                st.caption(sub["tip"])
         with mid:
             if sub["score"] is None:
                 st.markdown("<span style='opacity:.65'>no score for this pair</span>", unsafe_allow_html=True)
             else:
                 # a label-only score is a weak signal (few labels, many ties), so it is shown in grey
                 colour = score_colour(sub["score"]) if sub["basis"] == "molecular" else "#7A7A7A"
-                what = "overlap" if sub["basis"] == "molecular" else "label overlap"
+                kind = "Jaccard" if method() == "jaccard" else "IDF-weighted"
+                what = f"{kind} overlap" if sub["basis"] == "molecular" else f"{kind} label overlap"
                 st.markdown(f"<span style='font-size:1.5rem;font-weight:700;color:{colour}'>"
                             f"{sub['score']}%</span> <span style='opacity:.65'>{what}</span>", unsafe_allow_html=True)
-                st.progress(sub["score"] / 100)
+                # one custom bar for every score, so the bar always matches the number's colour
+                bar = colour if sub["basis"] == "molecular" else "#9A9A9A"
+                st.markdown("<div style='background:#E6E1DA;border-radius:4px;height:8px;margin-top:.4rem'>"
+                            f"<div style='background:{bar};border-radius:4px;height:8px;width:{sub['score']}%'>"
+                            "</div></div>", unsafe_allow_html=True)
         with right:
             st.button("Compare", key=f"cmp_{term_no}_{index}_{sub['index']}",
                       on_click=go_compare, args=(index, sub["index"]), width="stretch")
@@ -44,7 +50,8 @@ def render_substitutes(term_no, index, top_n):
         return
     if known:
         st.markdown("**Known swaps**  \n<span style='opacity:.7;font-size:.9rem'>Hand-picked by the team. "
-                    "The percentage is the shared-flavour score.</span>", unsafe_allow_html=True)
+                    f"The percentage is the {'Jaccard' if method() == 'jaccard' else 'IDF-weighted'} "
+                    "shared-flavour score.</span>", unsafe_allow_html=True)
         for s in known:
             _card(term_no, index, s)
     if ideas:

@@ -80,6 +80,20 @@ def _swap_quality():
                            title=f"Does the top swap share the food category? ({n_cat} ingredients)",
                            color_discrete_map={"Hit@1": SAFFRON, "Hit@5": GREEN}).update_layout(height=380),
                     width="stretch")
+    ws = []
+    for r in ev[(ev["evaluation"] == "win_share") & (ev["split"] == "all")].itertuples():
+        found = re.search(r"tags win (\d+), compounds win (\d+), tie (\d+)", str(r.note))
+        if found:
+            name = "Jaccard" if r.method == "jaccard" else "IDF-weighted"
+            for who, count in zip(["Label score higher", "Compound score higher", "Tie"], found.groups()):
+                ws.append({"method": name, "who": who, "pairs": int(count)})
+    if ws:
+        st.plotly_chart(px.bar(pd.DataFrame(ws), x="pairs", y="method", color="who", orientation="h", barmode="stack",
+                               title="Which data source scores higher? (11,214 pairs that have both)",
+                               color_discrete_map={"Label score higher": SAFFRON, "Compound score higher": GREEN,
+                                                   "Tie": "#B8B8B8"}).update_layout(height=300), width="stretch")
+        st.caption("Labels have few values and many ties, so they reach high percentages more easily. That is why a "
+                   "label win is not automatically a good swap, and why label scores are marked weaker.")
     tags_good, mol_good = _good_wins(ev, "tags"), _good_wins(ev, "molecular")
     if tags_good and mol_good:
         m = st.columns(2)
@@ -94,7 +108,7 @@ def search_quality():
 
 
 def render():
-    st.title("📊 Analysis")
+    st.title("Analysis")
     df = dataset_frame()
     aroma_counts = Counter(t for tags in df["aroma"] for t in tags)
     taste_counts = Counter(t for tags in df["taste"] for t in tags)
@@ -106,7 +120,7 @@ def render():
     m[3].metric("Searches this visit", len(st.session_state["search_log"]))
 
     tab_data, tab_search, tab_sub, tab_you = st.tabs(
-        ["The ingredient data", "How good is the search?", "How good are the swaps?", "Your searches"])
+        ["Deliverable 1: Data", "Deliverable 2: Search", "Deliverable 3: Swaps", "Your searches"])
 
     with tab_data:
         st.caption("Food groups come from Deliverable 1's category file.")
@@ -134,6 +148,17 @@ def render():
                                   title="Share of each food group that has each taste (%)").update_layout(height=460),
                         width="stretch")
 
+        st.subheader("Do our spellings match real recipes?")
+        st.caption("From Deliverable 1's variant mining on 10,000 recipes.")
+        v = st.columns(4)
+        v[0].metric("Our spellings", "885")
+        v[1].metric("Recipe phrases checked", "5,309")
+        v[2].metric("Ingredients seen in recipes", "192 of 250", help="77% of the dataset appears in the recipes.")
+        v[3].metric("Frequent phrases we miss", "218")
+        st.markdown("Our main names account for 43,108 hits in the recipes and the extra spellings for 2,712 more. "
+                    "The missed phrases are mostly forms like cut or cooked versions, which is where the search's "
+                    "“closest guess” helps.")
+
     with tab_search:
         q = search_quality()
         if q is None:
@@ -144,6 +169,14 @@ def render():
             typo_hit = (typo["hit1"] * typo["n"]).sum() / typo["n"].sum() if len(typo) else 0
             st.caption(f"From the {total} test queries in Deliverable 2. Hit@1 = right ingredient is the first result; "
                        "Hit@5 = it is in the top five.")
+            raw = q
+            allrow = _row(raw, query_type="ALL (without no_match)")
+            miss = _row(raw, query_type="no_match")
+            k = st.columns(4)
+            k[0].metric("Right ingredient first (Hit@1)", f"{allrow['hit1']:.0%}")
+            k[1].metric("In the top five (Hit@5)", f"{allrow['hit5']:.0%}")
+            k[2].metric("Average rank score (MRR)", f"{allrow['mrr']:.2f}", help="1.0 means always first; 0.5 means second on average.")
+            k[3].metric("Unknown names rejected", f"{miss['rejection_rate']:.0%}", help="Queries for things not in the list, like paprika.")
             q = q[~q["query_type"].isin(["no_match", "ALL (without no_match)"])]
             long = q.melt(id_vars="query_type", value_vars=["hit1", "hit5"], var_name="measure", value_name="share")
             long["measure"] = long["measure"].map({"hit1": "Hit@1", "hit5": "Hit@5"})
@@ -154,6 +187,13 @@ def render():
             st.markdown(f"**In plain words:** exact names in English, Roman or Hindi are always found. Typos are found "
                         f"first about {round(100 * typo_hit)} times in 100. Different spellings (like *jira*) and whole recipe phrases are the weak spot, "
                         "which is why the app shows you a “closest guess” label and lets you pick another match.")
+            speed = raw[~raw["query_type"].isin(["ALL (without no_match)"])]
+            st.plotly_chart(px.bar(speed, x="query_type", y="mean_ms", log_y=True,
+                                   title="Time per search by kind of query (milliseconds, log scale)",
+                                   color_discrete_sequence=[SAFFRON]).update_layout(height=380), width="stretch")
+            st.markdown("Exact lookups take about 0.02 ms. Anything that needs spelling comparison (fuzzy) takes 35 to 64 ms. "
+                        "Fuzzy cost grows with the list: 57 ms on 1,135 names, 435 ms on 5,309. The trie finds a prefix in "
+                        "0.11 ms against 0.40 ms for checking every name.")
 
 
     with tab_sub:

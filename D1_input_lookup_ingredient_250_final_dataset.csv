@@ -73,7 +73,7 @@ crab,71,kekda|kekra|nandu,केकड़ा,fishy|cooked|creamy,umami|sweet,Scy
 cream,72,malai|fresh cream,मलाई,creamy|milky,sweet,Bos taurus
 cucumber,73,kheera|khira,खीरा,cucumber|green|fresh,sweet,Cucumis sativus
 cumin powder,74,jeera powder|pissa hua jeera,जीरा,spicy|earthy|woody,pungent|bitter,Cuminum cyminum
-cumin seeds,75,jeera,जीरा,spicy|earthy|woody,pungent|bitter,Cuminum cyminum
+cumin seeds,75,jeera|jira|zira|zeera,जीरा,spicy|earthy|woody,pungent|bitter,Cuminum cyminum
 curd,76,yogurt|dahi,दही,milky|fresh,sour|astringent,Bos taurus
 curry leaves,77,kadi patta|kadhi patta|kadi pata,कढ़ी पत्ता,herbal|citrus|spicy,bitter|pungent,Murraya koenigii
 dates,78,khajoor|khajur|kharjura,खजूर,caramel|honey|fruity,sweet,Phoenix dactylifera
@@ -103,7 +103,7 @@ fresh fenugreek leaves,101,methi|taazi methi|hari methi ke patte,मेथी,he
 fresh peppermint leaves,102,pudina|pudina patta|pudine ke patte,पुदीने के पत्ते,minty|fresh|herbal,pungent|bitter,Mentha piperita
 fresh red chilies,103,taazi laal mirch|taazi laal mirchi,ताज़ी लाल मिर्च,green|pepper|fruity,pungent,Capsicum annuum
 fresh turmeric,104,sabut haldi|sabut haldee|kachchi haldi,कच्ची हल्दी,earthy|woody|citrus,bitter|pungent,Curcuma longa
-garlic,105,lehsun,लहसुन,garlic|sulfurous|onion,pungent,Allium sativum
+garlic,105,lehsun|lahsun,लहसुन,garlic|sulfurous|onion,pungent,Allium sativum
 garlic chutney,106,lehsun ki chutney|lahsun ki chutney|lehsun chutney|lehsun sauce,लहसुन की चटनी,garlic|sulfurous|spicy,pungent|salty,Allium sativum
 garlic paste,107,lehsun ka pasta|lehsun paste,लहसुन का पेस्ट,garlic|sulfurous|onion,pungent,Allium sativum
 ghee,108,ghi|clarified butter,घी,creamy|nutty,sweet,Bos taurus
@@ -114,7 +114,7 @@ grapes,112,angoor|draksh|draksha,अंगूर,fruity|floral|fresh,sweet|sour,
 green beans,113,french beans|hari sem|hari phali,हरी फलियाँ,green|grassy|vegetable,sweet|astringent,Phaseolus vulgaris
 green bell pepper,114,shimlamirch|hari shimlamirch|capsicum,हरी शिमला मिर्च,green|vegetable|fresh,sweet|bitter,Capsicum annuum
 green chili pickle,115,hari mirch ka achar|hari mirch ka achaar,हरी मिर्च का अचार,spicy|mustard|fermented,sour|pungent,Capsicum annuum
-green chilies,116,hari mirch,हरी मिर्च,green|pepper|fresh,pungent,Capsicum annuum
+green chilies,116,hari mirch|mirchi,हरी मिर्च,green|pepper|fresh,pungent,Capsicum annuum
 green chilli paste,117,hari mirch ka paste|pisi hui hari mirch,हरी मिर्च का पेस्ट,green|pepper|fresh,pungent,Capsicum annuum
 green garlic,118,hara lehsun|hari lahsun,हरा लहसुन,garlic|green|onion,pungent,Allium sativum
 green gram sprouts,119,mung bean sprouts|green moong dal|green moong sprouts,अंकुरित मूंग,green|grassy|fresh,sweet|astringent,Vigna radiata
@@ -160,7 +160,7 @@ nigella seeds,158,kalaunji|mangrela|black caraway,कलौंजी,spicy|peppe
 nutmeg,159,jaiphal|jayphal|jathikai|jajikaya,जायफल,spicy|woody|camphor,pungent|bitter,Myristica fragrans
 oats,160,jai|vilayati jai,जई,nutty|cooked|earthy,sweet|astringent,Avena sativa
 okra,161,bhindi|ladyfinger|vendakkai,भिंडी,green|grassy|vegetable,sweet,Abelmoschus esculentus
-onion,162,pyaaz,प्याज़,onion|sulfurous|green,pungent|sweet,Allium cepa
+onion,162,pyaaz|kanda,प्याज़,onion|sulfurous|green,pungent|sweet,Allium cepa
 orange,163,santra|narangi,संतरा,citrus|fruity,sweet|sour,Citrus sinensis
 papaya,164,papita|pappali|paw paw,पपीता,tropical|fruity|musty,sweet,Carica papaya
 papaya paste,165,papite ka paste|pisa hua papita,पपीते का पेस्ट,fruity|musty|tropical,astringent|sweet,Carica papaya
@@ -217,7 +217,7 @@ split skinned black gram,215,white urad dal|white lentil|split white lentil,ध�
 spring onion,216,hara pyaz|kande patti,हरा प्याज़,onion|green|fresh,pungent|sweet,Allium fistulosum
 star anise,217,chakra phool|chakri phool|badiyan,चक्र फूल,anise|spicy,sweet|pungent,Illicium verum
 stone flower,218,dagad phool|patthar phool|kalpasi,दगड़ फूल,musty|earthy|woody,pungent|bitter,Parmotrema perlatum
-sugar,219,cheeni|chini|danedar cheeni,चीनी,not available,sweet,Saccharum officinarum
+sugar,219,cheeni|chini|danedar cheeni|shakkar|shakar,चीनी,not available,sweet,Saccharum officinarum
 sunflower oil,220,surajmukhi tel,सूरजमुखी का तेल,fatty|nutty|green,sweet,Helianthus annuus
 sweet corn,221,meetha makai|meetha makka|makka,मीठी मक्का,cooked|grassy|green,sweet,Zea mays
 sweet potato,222,shakarkandi|shakarkand|ratalu,शकरकंद,earthy|caramel|roasted,sweet,Ipomoea batatas
