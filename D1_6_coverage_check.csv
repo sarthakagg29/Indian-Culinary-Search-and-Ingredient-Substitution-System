@@ -1,0 +1,251 @@
+﻿rank,ingredient,recipe_count,strict_match,loose_match
+1,salt,4262,missing,covered
+2,sunflower oil,2223,missing,missing
+3,onion,2021,covered,covered
+4,turmeric,1838,covered,covered
+5,garlic,1795,covered,covered
+6,cumin seeds,1788,covered,covered
+7,green chilli,1786,covered,covered
+8,red chilli powder,1497,covered,covered
+9,coriander leaves,1444,covered,covered
+10,ginger,1351,covered,covered
+11,tomato,1072,covered,covered
+12,mustard seeds,1047,missing,covered
+13,curry leaves,1029,covered,covered
+14,sugar,995,covered,covered
+15,water,964,missing,covered
+16,whole wheat flour,900,covered,covered
+17,clarified butter,864,covered,covered
+18,asafoetida,849,covered,covered
+19,dry red chilli,827,missing,missing
+20,black pepper powder,753,missing,covered
+21,coriander powder,747,missing,missing
+22,cardamom,730,missing,covered
+23,lemon juice,721,missing,covered
+24,garam masala powder,718,covered,covered
+25,cinnamon,680,covered,covered
+26,fresh coconut,678,covered,covered
+27,butter,672,covered,covered
+28,extra virgin olive oil,664,missing,missing
+29,milk,644,covered,covered
+30,yogurt,570,covered,covered
+31,refined wheat flour,556,missing,covered
+32,carrot,547,covered,covered
+33,black peppercorns,496,missing,missing
+34,cloves,452,covered,covered
+35,jaggery,412,covered,covered
+36,split and skinned black gram,398,missing,covered
+37,mint leaves,368,covered,covered
+38,whole eggs,332,missing,covered
+39,cashew nut,330,missing,covered
+40,fennel seeds,322,covered,covered
+41,potatoes,319,covered,covered
+42,green bell pepper,312,missing,covered
+43,coriander seeds,311,covered,covered
+44,gram flour,307,covered,covered
+45,honey,300,covered,covered
+46,almond,298,covered,covered
+47,vanilla extract,286,missing,missing
+48,split bengal gram,281,covered,covered
+49,fenugreek seeds,280,covered,covered
+50,ginger garlic paste,278,missing,covered
+51,baking powder,271,missing,missing
+52,red chilli flakes,270,missing,missing
+53,fresh cream,248,missing,covered
+54,green peas,243,covered,covered
+55,paneer,239,covered,covered
+56,carom seeds,238,covered,covered
+57,spinach,237,covered,covered
+58,sesame seeds,229,covered,covered
+59,mustard oil,223,covered,covered
+60,red bell pepper,222,missing,covered
+61,dried oregano,215,missing,covered
+62,salt and pepper,212,missing,missing
+63,dry mango powder,208,missing,missing
+64,chaat masala powder,201,missing,missing
+65,button mushrooms,196,missing,covered
+66,soy sauce,195,missing,missing
+67,corn flour,195,missing,covered
+68,homemade tomato puree,191,missing,covered
+69,rice,189,missing,covered
+70,rice flour,187,missing,missing
+71,saffron strands,187,missing,covered
+72,potato,185,covered,covered
+73,coconut milk,184,missing,covered
+74,green beans,173,missing,covered
+75,semolina,173,covered,covered
+76,tamarind,170,covered,covered
+77,split pigeon peas,168,missing,missing
+78,coconut oil,167,covered,covered
+79,basil leaves,165,missing,missing
+80,raisins,165,covered,covered
+81,sesame oil,161,missing,missing
+82,baking soda,160,missing,missing
+83,lemon,158,covered,covered
+84,caster sugar,157,missing,covered
+85,sweet corn,155,missing,covered
+86,strained yogurt,154,missing,covered
+87,kashmiri red chilli powder,152,missing,covered
+88,mango,145,missing,covered
+89,whole egg,144,missing,covered
+90,poppy seeds,138,covered,covered
+91,chicken,137,covered,covered
+92,pistachio,137,covered,covered
+93,instant oats,137,missing,missing
+94,dried fenugreek leaves,136,missing,covered
+95,brown sugar,134,missing,covered
+96,yellow split lentils,132,missing,missing
+97,parsley leaves,130,missing,missing
+98,eggplant,127,covered,covered
+99,cauliflower,126,covered,covered
+100,spring onion greens,125,missing,covered
+101,roasted peanuts,125,missing,covered
+102,chicken breasts,125,missing,covered
+103,mozzarella cheese,124,missing,missing
+104,basmati rice,124,covered,covered
+105,whole wheat brown bread,122,missing,missing
+106,broccoli,121,missing,missing
+107,tamarind water,120,missing,covered
+108,cabbage,120,covered,covered
+109,raw peanuts,119,missing,covered
+110,spring onion,116,missing,covered
+111,walnuts,116,covered,covered
+112,cucumber,110,covered,covered
+113,red chilli sauce,110,missing,missing
+114,black cardamom,109,covered,covered
+115,whole wheat bread crumbs,107,missing,missing
+116,ripe bananas,107,missing,missing
+117,tamarind paste,105,missing,covered
+118,cocoa powder,103,missing,missing
+119,fenugreek leaves,103,covered,covered
+120,active dry yeast,98,missing,missing
+121,lukewarm water,97,missing,missing
+122,parmesan cheese,94,missing,missing
+123,paprika powder,92,missing,missing
+124,vinegar,91,missing,missing
+125,pearl onions,88,missing,covered
+126,star anise,88,covered,covered
+127,tofu,86,missing,missing
+128,vegetable stock,85,missing,missing
+129,pumpkin,84,covered,covered
+130,white chickpeas,84,missing,covered
+131,cheese,84,missing,covered
+132,sambar powder,83,missing,missing
+133,yellow bell pepper,82,missing,covered
+134,dry ginger powder,82,missing,covered
+135,nutmeg powder,78,missing,covered
+136,desiccated coconut,78,missing,missing
+137,beetroot,75,covered,covered
+138,cheddar cheese,74,missing,missing
+139,mutton,74,covered,covered
+140,dates,73,covered,covered
+141,tomato ketchup,72,missing,covered
+142,green zucchini,72,missing,missing
+143,nigella seeds,71,covered,covered
+144,cooked rice,70,missing,missing
+145,condensed milk,70,missing,covered
+146,black salt,68,covered,covered
+147,green split lentils,65,missing,missing
+148,mixed herbs,65,missing,missing
+149,chilled water,64,missing,missing
+150,strawberries,64,missing,missing
+151,fresh red chilli,60,missing,covered
+152,shallots,60,missing,missing
+153,bottle gourd,60,covered,covered
+154,kidney beans,60,covered,covered
+155,whole black gram,59,missing,covered
+156,okra,59,covered,covered
+157,dark chocolate,58,missing,missing
+158,dried thyme leaves,58,missing,covered
+159,heavy whipping cream,58,missing,covered
+160,rosemary,57,missing,missing
+161,brown chickpeas,55,missing,covered
+162,flattened rice,55,covered,covered
+163,green chutney,54,missing,missing
+164,pineapple,54,missing,missing
+165,cherry tomatoes,54,missing,covered
+166,mixed nuts,53,missing,missing
+167,lemon zest,53,missing,covered
+168,red lentils,53,covered,covered
+169,apple,53,missing,missing
+170,green moong sprouts,52,missing,missing
+171,radish,52,covered,covered
+172,dry coconut,52,missing,missing
+173,icing sugar,52,missing,covered
+174,cream cheese,51,missing,covered
+175,enos fruit salt,51,missing,missing
+176,black olives,51,missing,missing
+177,dill leaves,49,missing,missing
+178,fresh orange juice,49,missing,covered
+179,pickled jalapenos,48,missing,missing
+180,prawns,48,covered,covered
+181,finger millet flour,48,missing,covered
+182,boneless chicken,46,missing,covered
+183,iceberg lettuce,46,missing,missing
+184,raw banana,46,covered,covered
+185,baby corn,45,missing,covered
+186,baby potatoes,44,missing,covered
+187,rose water,44,covered,covered
+188,buttermilk,44,covered,covered
+189,drumstick,43,covered,covered
+190,ice cubes,43,missing,missing
+191,panch phoran masala,43,missing,missing
+192,feta cheese,43,missing,missing
+193,mace,42,covered,covered
+194,anardana powder,42,missing,covered
+195,chocolate chips,42,missing,missing
+196,fresh thyme leaves,42,missing,covered
+197,sweet potatoes,41,covered,covered
+198,mixed vegetables,41,missing,missing
+199,peanut butter,41,missing,covered
+200,sweet chutney,40,missing,missing
+201,bitter gourd,39,covered,covered
+202,khoya,38,covered,covered
+203,fennel powder,38,missing,missing
+204,hot water,38,missing,missing
+205,tortillas,37,missing,missing
+206,italian seasoning,37,missing,missing
+207,elephant yam,37,missing,covered
+208,avocado,37,missing,missing
+209,tabasco original,36,missing,missing
+210,garlic powder,36,missing,covered
+211,fresh pomegranate fruit kernels,36,missing,covered
+212,roasted gram dal,36,missing,missing
+213,orange zest,36,missing,missing
+214,lemongrass,36,covered,covered
+215,quinoa,36,missing,missing
+216,chia seeds,36,missing,missing
+217,chickpea flour noodles,35,missing,covered
+218,celery,35,missing,missing
+219,sweet potato,34,covered,covered
+220,milk powder,33,missing,covered
+221,black eyed peas,33,covered,covered
+222,cheese spread,32,missing,missing
+223,kokum,32,covered,covered
+224,cranberries,32,missing,missing
+225,nutmeg,32,covered,covered
+226,idli rice,32,missing,missing
+227,pearl millet flour,31,missing,covered
+228,sorghum flour,31,missing,covered
+229,whole black peppercorns,31,missing,missing
+230,spaghetti pasta,30,missing,missing
+231,red onion,30,missing,covered
+232,lemon wedges,30,missing,covered
+233,flax seed powder,29,missing,missing
+234,sour cream,29,missing,covered
+235,sriracha sauce,29,missing,missing
+236,homemade pizza and pasta sauce,29,missing,missing
+237,classic mayonnaise,28,missing,missing
+238,instant coffee powder,28,missing,missing
+239,foxtail millet,28,missing,missing
+240,brown rice,27,missing,missing
+241,apples,27,missing,missing
+242,horse gram dal,27,missing,missing
+243,soy chunks,26,missing,missing
+244,kashmiri dry red chilli,26,missing,covered
+245,byadagi dried chilli,26,missing,covered
+246,penne pasta,26,missing,missing
+247,maize flour,25,missing,covered
+248,sweet and spicy red chilli sauce,25,missing,missing
+249,gingelly oil,25,missing,covered
+250,orange,25,missing,missing
